@@ -67,7 +67,7 @@ Not applicable.
 
 ,standards_for_progression:[
 
-#text(size:12pt)[*CONDITION 1 — Required for solo in all conditions*]
+#text(size:12pt)[*BASIC REQUIREMENT — Required for solo in ALL conditions*]
 
 _Regulatory requirements (RAAus FOM S2.06):_
 - ☐ Valid RAAus Student Pilot Certificate held
@@ -83,27 +83,25 @@ _Competency requirements:_
 - ☐ Radio — circuit call sequence correct without prompting; radio failure procedure known
 
 _Weather on the day:_
-- ☐ Crosswind \<5 knots
+- ☐ Crosswind \<5 knots (see below if \>5 knots)
 - ☐ Ceiling >1500 ft AGL
 - ☐ Visibility >8 km
 - ☐ No significant turbulence, windshear, showers, or thunderstorms; conditions stable for the duration of planned solo
 
-#text(size:12pt)[*CONDITION 2 — Additional requirement if crosswind 5–8 knots on solo day*]
+#text(size:12pt)[*CROSSWIND REQUIREMENT — Additional requirement if crosswind 5–8 knots on solo day*]
 - ☐ All Condition 1 requirements met PLUS
 - ☐ C2B crosswind circuits at S standard on two separate flights in 5–8 kt crosswind
+- ☐ Crosswind \<8 knots
 
-#text(size:12pt)[*Weather decision on solo day:*]
-
-| Crosswind on day | Conditions met | Action |
-|---|---|---|
-| \<5 knots | Condition 1 ✓ | ✅ Solo authorised |
-| 5–8 knots | Condition 1 + 2 ✓ | ✅ Solo authorised |
-| 5–8 knots | Condition 1 ✓, Condition 2 ✗ | ❌ Conduct C2B today. Do not solo. |
-| >8 knots | Any | ❌ Do not solo. Move to Phase 3. Return when conditions allow. |
+#text(size:12pt)[*Weather decision on solo day:*]\
+Crosswind *\<5 knots* + BASIC requirement met = Solo authorised ✅\
+Crosswind *5–8 knots* + CROSSWIND requirement met = Solo authorised ✅\
+Crosswind *5–8 knots* + CROSSWIND requirement NOT met = Do not solo ❌\
+Crossind *>8 knots* = Do not solo. ❌ Move to Phase 3. Return when conditions allow.
 ]
 
 ,safety:[
-- *Weather*: Conditions must meet Condition 1 minima at the time of departure; if conditions deteriorate between authorisation and flight, solo is cancelled and rebooked
+- *Weather*: Conditions must meet BASIC minima at the time of solo departure; if conditions deteriorate, solo is cancelled and rebooked
 - *Emergency Procedures*: Student must verbally state EFATO plan and radio failure procedure to instructor before flight
 - *TEM*:
   - Instructor to observe entire first solo from a position with clear view of circuit and runway
@@ -113,7 +111,7 @@ _Weather on the day:_
 ]
 
 ,homework:[
-No new homework — this is a milestone gate. If solo was not conducted today due to weather, continue Pre-Solo Air Legislation Exam preparation if not yet passed, and review EFATO plan for the home aerodrome.
+No new homework — this is a milestone gate.
 ]
 )
 

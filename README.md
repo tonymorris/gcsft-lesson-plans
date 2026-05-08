@@ -12,9 +12,12 @@ The lesson plans are very verbose (wordy). And they done this way intentionally,
 
 ## To-Do
 - Reword the crosswind training requirement in the circuit solo authorisation. It's a bit confusing. Basically, crosswind competency must be at solo standard (twice) to conduct solo circuits in crosswind greater than 5 knots. At greater than 8 knots - no solo in any case.
-- Add configuration stall to the basic stalling lesson.
 - Upload reference cards for instructors to use in flight and on the ground as memory joggers.
 - Rework the briefings to align with the new syllabus
+
+## Changes made
+- 08/05 - Added Lesson 00, Flight Preparation and Ground Operations. Adjusted lesson 1, EOC
+- 08/05 - Add configuration stall to the basic stalling lesson.
 
 ## Training Structure/Competency Standards
 

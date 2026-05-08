@@ -10,7 +10,7 @@
 title: [Slow Flight and Stall Recognition]
 
 ,aim: [
-Identify the symptoms of an approaching stall in a range of configurations and execute a safe, timely recovery to normal flight. Manage the aircraft confidently in slow flight.
+Identify the symptoms of an impending stall in a range of configurations and execute a safe, timely recovery to normal flight. Recover from a fully developed stall to normal flight. Manage the aircraft confidently in slow flight.
 ]
 
 ,overview: [
@@ -55,7 +55,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 - [TEM] Threats: low altitude, uncoordinated stall entry, incorrect recovery; minimum recovery height (aircraft control is higher priority)
 - [SA] HASSELL check: purpose and procedure; airspace clearance before each manoeuvre
 - [HF] Startle response: physiological effects; strategies to maintain control authority
-- Why E7 is in Phase 1: every approach is a controlled approach to the stall — essential before circuits
+- [CRM] Control handover: immediately relinquish controls, without delay, on instructor command
 
 *Aerodynamics of Slow Flight and Stalling* (15 minutes)
 - Four forces in slow flight; lift generated at high angles of attack
@@ -63,7 +63,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 - Stall speed and factors: weight; load factor; flap; power; CoG; wing contamination
 - Pre-stall symptoms in sequence: control position; decreasing airspeed; high nose attitude; decreasing control effectivness; control heaviness; stall warning; buffet
 - Stall: uncommanded pitch, roll, descent rate; control reversal
-- Wing drop intro: one wing reaches critical angle first; ailerons worsen the roll — rudder to keep straight
+- Wing drop intro: one wing reaches critical angle first; ailerons worsen the roll — rudder to keep straight; rudder to stop roll when close to critical angle of attack
 
 *Slow Flight Configuration and Control* (10 minutes)
 - Power + Attitude = Performance applies in slow flight
@@ -77,7 +77,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 - Reduce angle of attack: relax backpressure, do not push aggressively
 - Apply full power: simultaneously, to minimise height loss
 - Wings level: use rudder to stop yaw/wing drop; ailerons neutral until unstalled
-- Recover to controlled flight: PAT to transition back to climb
+- Recover to controlled flight: PA(C)T to transition back to climb (C = clean up or configuration)
 - Recovery at onset: earliest possible recognition = minimum height loss
 ]
 
@@ -101,14 +101,15 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 #text(size:12pt)[*Demonstration*]
 - HASSELL check: demonstrate thoroughly before first manoeuvre; explain each item
 - Slow flight configuration: establish at ~1.3Vs, coordinated, straight and level; demonstrate control position
+- Slow flight turns: gentle shallow-banked turns maintaining coordination; lead with rudder for roll control
 - Pre-stall symptoms: demonstrate slowly and clearly; call out each symptom as it appears
 - Impending stall recognition: identify the moment of stall by control position, aircraft behavior and instrument crosscheck
-- Impending stall recovery: relax backpressure (just forward of stall control position) full power (balance with rudder), PAT to establish climb
+- Impending stall recovery: relax backpressure (just forward of stall control position) full power (balance with rudder), PA(C)T to establish climb
 - Straight and level, idle power stall: demonstrate impending stall symptoms again, moving the controls past stall control position; call out stall symptoms
 - Straight and level, idle power stall recovery: same as impending stall
-- Slow flight turns: gentle shallow-banked turns maintaining coordination
-- Stall during configuration change: from slow flight, extends flap to full while monitoring pre-stall symptoms and control position required to maintain attitude; identify and recover at the stall; repeat with flap retraction from landing configuration at approach speed
-- Stall during configuration change: from slow flight with full flaps, hold attitude and retract flaps to zero; note stick position moving rearwards to maintain attitude and stall; recover
+- Approach configuration stall: stall with 3000RPM and flaps 2; identify same control position at the stall
+- Approach configuration stall recovery: full power (balance with rudder), PA(C)T to establish climb; respect the flap limit
+- Stall during configuration change: from slow flight with full flaps and below Vs, hold attitude and retract flaps to zero; note stick position moving rearwards to maintain attitude and stall; recover
 
 #text(size:12pt)[*Student Practice*]
 - HASSELL check: student participates in HASSELL check
@@ -117,6 +118,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 - Impending stall recognition: identify symptoms as they develop; initiate recovery before full stall
 - Impending stall recovery: smooth but positive recovery
 - Straight and level, idle power stall and recovery
+- Approach configuration stall and recovery
 - Scenario task: instructor simulates unexpected airspeed decay — "Airspeed dropping — what's happening? Where are the controls being positioned? What are your actions?"
 ]
 
@@ -125,6 +127,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 - *Over-controlling in slow flight*: Smooth, deliberate inputs only; excessive input causes oscillation.
 - *Overzealous recovery*: _Relax_ backpressure, rather than sharp nose-down input.
 - *Using ailerons on wing drop*: Rudder to control yaw; ailerons neutral until wing is unstalled.
+- *Flap limit not respected*: Smoothly but swiftly pitch nose to the horizon in an approach configuration stall.
 - *Losing LARI scan in slow flight*: The LARI scan continues in slow flight — attitude and reference are more critical.
 ]
 
