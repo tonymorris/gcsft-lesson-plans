@@ -29,7 +29,7 @@
     (
       title: "CROSSWIND REQUIREMENTS — Crosswind Solo Flights (5–8 kt)",
       content: [
-        - ☐ All Condition 1 requirements met, PLUS
+        - ☐ All BASIC requirements met, PLUS
         - ☐ C2B crosswind circuits at S standard on *two separate flights* in 5–8 kt crosswind
       ],
     ),

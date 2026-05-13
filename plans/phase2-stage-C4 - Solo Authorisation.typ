@@ -89,7 +89,7 @@ _Weather on the day:_
 - ☐ No significant turbulence, windshear, showers, or thunderstorms; conditions stable for the duration of planned solo
 
 #text(size:12pt)[*CROSSWIND REQUIREMENT — Additional requirement if crosswind 5–8 knots on solo day*]
-- ☐ All Condition 1 requirements met PLUS
+- ☐ All BASIC requirements met PLUS
 - ☐ C2B crosswind circuits at S standard on two separate flights in 5–8 kt crosswind
 - ☐ Crosswind \<8 knots
 

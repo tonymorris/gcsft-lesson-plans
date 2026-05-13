@@ -125,7 +125,7 @@ Equipment required: Student training record, progress checklist \
 ]
 
 ,safety:[
-- *Weather*: Solo minima apply for all solo sessions per Condition 1 (or Condition 2 if crosswind solo authorised); ceiling >1500 ft AGL; visibility >8 km; no significant turbulence
+- *Weather*: Solo minima apply for all solo sessions per BASIC conditions (or CROSSWIND conditions if crosswind solo authorised); ceiling >1500 ft AGL; visibility >8 km; no significant turbulence
 - *Maintenance release*: Student must review maintenance release and brief instructor before every solo flight; any concern = discuss with instructor before flying
 - *Emergency Procedures*: EFATO plan must be briefed before every solo flight; radio failure procedure known
 - *TEM*:
