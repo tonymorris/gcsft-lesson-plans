@@ -11,13 +11,13 @@ This will also clean up FSP and make the records far more readable for us and ex
 The lesson plans are very verbose (wordy). And they done this way intentionally, not because instructors need reminding of the primary effects of the controls, but to make sure that we are all covering *all* the required material **in a similar and consistent way** for our students. The idea of a lesson plan, is to provide a single document that we all teach to. If there's any doubt about how to teach something, the answer should be in the lesson plan.
 
 ## To-Do
-- Reword the crosswind training requirement in the circuit solo authorisation. It's a bit confusing. Basically, crosswind competency must be at solo standard (twice) to conduct solo circuits in crosswind greater than 5 knots. At greater than 8 knots - no solo in any case.
-- Upload reference cards for instructors to use in flight and on the ground as memory joggers.
 - Rework the briefings to align with the new syllabus
+- FSP update
 
 ## Changes made
 - 08/05 - Added Lesson 00, Flight Preparation and Ground Operations. Adjusted lesson 1, EOC
 - 08/05 - Add configuration stall to the basic stalling lesson.
+- 13/05 - First draft of the kneeboard plans
 
 ## Training Structure/Competency Standards
 
@@ -33,10 +33,13 @@ To compare with the current standard:
 In previous training structures, the goal has always been to push students to the circuit as quickly as possible. This syllabus keeps the student in the training area for a little longer, in order to refine their basic aircraft handling skills.
 The lessons in phase 1 only include the basics - ie, no steep turns, no advanced stalling - enough to keep the students safe. However, the standard for passing these lessons is higher. The student needs to perform the basics **well**.
 
+Lesson 00 is a ground only lesson - covering an overview of the entire training process, pre-flight inspection, documentation, weather and the effects of controls briefing.
+
 EXX is the element from the RAAus V8 syllabus exposure draft that will be assessed in the lesson.
 
 | Lesson | Element | Topic |
 |--------|---------|-------|
+| 0 | E1/E2 | Flight Preparation & Ground Operations |
 | 1 | E1/E2 | Flight Preparation & Effects of Controls |
 | 2 | E3 | Straight and Level Flight |
 | 3 | E4 | Climbing |
