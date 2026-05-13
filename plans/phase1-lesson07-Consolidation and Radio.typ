@@ -54,7 +54,7 @@ Equipment required: Student training record, progress checklist, local VTC \
 
 *Phase 1 Theory Review and Assessment Brief* (10 minutes)
 - Brief verbal Q&A from instructor: key theory points from E2–E7 and E8
-- Student briefs today's planned sortie as pilot-in-command: departure, tasks, return, TEM threats
+- Student briefs today's planned flight as pilot-in-command: departure, tasks, return, TEM threats
 - Assessment criteria confirmed: elements assessed today, standards required
 - Pre-solo Air Legislation exam: confirm study is underway; must be passed before first solo
 
@@ -63,7 +63,7 @@ Equipment required: Student training record, progress checklist, local VTC \
 _Radio equipment and operation_
 - PTT, frequency selector, squelch, volume, standby frequency
 - Confirm serviceability before flight; intercom check
-- Transponder: modes (A, C, S), standard codes (1200, 7700, 7600, 7500); squawk ALT once airborne
+- Transponder: modes (A, C, S), standard codes (1200, 7700, 7600, 7500); ALT before taxi if possible
 
 _CTAF procedure_
 - CTAF concept: listening watch; transmit clearly and concisely
@@ -75,7 +75,8 @@ _Circuit call sequence at GCSFT_
 - Taxi
 - Runway crossing
 - Entering and lining up
-- Base / clear of runway
+- Base
+- Clear of runway
 
 _Radio failure — initial actions_
 - Confirm failure: volume, squelch, PTT, frequency
@@ -162,7 +163,7 @@ The instructor observes and assesses — does not lead or prompt. Student conduc
 ]
 
 ,safety:[
-- *Weather*: Ceiling >3500 ft and smooth air required to include E7; if conditions are marginal, E7 may be assessed on a suitable separate day and remaining elements assessed today. Wind \<15 knots.
+- *Weather*: Ceiling >3500 ft and smooth air required to include E7; if conditions are marginal, E7 may be assessed on a suitable separate day and remaining elements assessed today. Surface wind \<15 knots.
 - *Altitude*: E7 above 2500 ft AGL; all other elements above 1000 ft AGL
 - *Emergency Procedures*: EFATO brief completed; forced landing area pre-selected; HASSELL before stalling
 - *TEM*:

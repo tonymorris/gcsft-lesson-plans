@@ -10,11 +10,11 @@
 title: [Flight Preparation and Ground Operations]
 
 ,aim: [
-Complete a pre-flight sequence — aircraft documentation and inspection — develop the theoretical foundation for subsequent flight training, and prepare for the first flight. Review the training process, grading and assessment systems used at GCSFT.
+Complete a pre-flight sequence — aircraft documentation and inspection — and develop the theoretical foundation for the first flight, effects of controls. Review the training process, and become familiar with the grading and assessment systems used at GCSFT.
 ]
 
 ,overview: [
-Lesson 0 is a ground-only lesson and the student's first formal contact with the training syllabus. No flight is conducted. The lesson covers everything the student needs to know before they fly for the first time: what documents they need, how to read the maintenance release, how to inspect the aircraft, how to assess their own fitness to fly, and the theoretical framework — axes of movement, stability, controls and their effects — that underpins every future lesson. The training syllabus is also introduced: the expectations of the student, how they progress through the training syllabus, the assessments and grading system that will be used.
+Lesson 0 is a ground-only lesson and the student's first formal contact with the training syllabus. No flight is conducted. The lesson covers everything the student needs to know before they fly for the first time: the documents required for the flight, the preflight inspection procedure, how to read the maintenance release, how to inspect the aircraft, and how to assess their own fitness to fly. They will also learn the theory knowledge required for their first lesson — axes of movement, stability, controls and their effects. Finally, the training syllabus is also introduced: the expectations of the student, how they progress through the training syllabus, the assessments and grading system that will be used.
 
 Delivering this content on the ground, without the competing demands of the flight, gives the student a proper foundation and ensures Lesson 1 is focused entirely on flying. At the end of the lesson, the student sits in the cockpit for familiarisation only — identifying controls and instruments, confirming seat position, and practising the correct control grip and horizon referencing.
 ]
@@ -22,7 +22,7 @@ Delivering this content on the ground, without the competing demands of the flig
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
 - Identify the three axes of movement (longitudinal, lateral, normal) and associated planes of motion (roll, pitch, yaw)
-- Explain the concept of positive, neutral, and negative (dynamic) stability
+- Explain the concept of (dynamic) positive, neutral, and negative stability
 - Recall the primary effect of each primary control: elevator — pitch, ailerons — roll, rudder — yaw
 - Recall the further effects of ailerons (slip, yaw, spiral tendency) and rudder (skid, roll, spiral tendency)
 - Explain the effect of trim: removes aerodynamic control loading; does not change attitude; state the correct direction of input for each force
@@ -36,7 +36,7 @@ Delivering this content on the ground, without the competing demands of the flig
 - Describe safe taxiing technique: power use, brake use, correct wind correction control positions for all wind conditions, prop wash, confined spaces
 
 #text(size:12pt)[*Skills*]
-- Identify each control surface, trim device, and ancillary control on the actual aircraft during the walkaround
+- Identify each primary control surface, ancillary control and trim device on the actual aircraft during the walkaround
 - Locate and read the maintenance release; identify the key items to check
 - Confirm all required documents are present in the aircraft documentation folder
 - Complete the pre-flight inspection
@@ -60,7 +60,7 @@ Delivering this content on the ground, without the competing demands of the flig
 
 ,ground_brief_topics: [
 Total time: 90 minutes \
-Equipment required: Aircraft, aircraft model for controls demonstration, access to slideshow, POH, maintenance release, NAIPS access, whiteboard \
+Equipment required: Aircraft, aircraft model, access to electronic briefing, POH, maintenance release, NAIPS access, whiteboard \
 
 *Syllabus Structure, Progression, and Introduction to Flight Training* (10 minutes)
 - If the student is under 18, a parent or guardian should attend this portion of the briefing
@@ -90,7 +90,8 @@ Equipment required: Aircraft, aircraft model for controls demonstration, access 
 *NAIPS Introduction* (5 minutes)
 - Purpose: official source of aeronautical weather; access via app or web
 - TAF: Terminal Aerodrome Forecast; wind, visibility, cloud, significant weather; validity period
-- Instructor accesses NAIPS live and walks through the current TAF for the home aerodrome: explain each component
+- GAF and GPWT: Area forecast; must be used when at an aerodrome without TAF; similar information to TAF, but wider area
+- Instructor accesses NAIPS live and walks through the current GAF/GPWT or TAF for the home aerodrome: explain each component
 - BOM radar: supplemental tool only; shows precipitation but is not a forecast; not an official source
 
 *Pre-Flight Inspection Walkthrough* (10 minutes)
@@ -117,19 +118,19 @@ Equipment required: Aircraft, aircraft model for controls demonstration, access 
 - Emphasis: elevator is the primary airspeed control; throttle is the primary altitude control — this difference from intuition will be reinforced in every lesson
 
 *Ancillary Controls* (15 minutes)
-- Trim: removes aerodynamic load on the pilot's controls; does not change what the aircraft is doing; if holding back-pressure, trim nose-up (thumb); if pushing forward, trim nose-down (finger); demonstrate on the controls when at the actual aircraft
+- Trim: removes aerodynamic load on the pilot's controls; does not change the attitude; if holding back-pressure, trim nose-up (thumb); if pushing forward, trim nose-down (finger); demonstrate on the controls when at the actual aircraft
 - Power: pitch up with power increase; yaw and roll left with power increase (torque/slipstream); demonstrate on model
 - Slipstream: spiralling airflow from the propeller strikes the horizontal stabiliser on one side; causes yaw; corrected with rudder
-- Airspeed: controls feel heavier and are more responsive at high speed, feel lighter and are less responsiveat low speed
-- Flaps: increase lift and drag; nose pitches down on extension); require more power for level flight; demonstrate flap travel on the actual aircraft
+- Airspeed: controls feel heavier and are more responsive at high speed, feel lighter and are less responsive at low speed
+- Flaps: increase lift and drag; nose pitches down on extension; requires more power for level flight; demonstrate flap travel on the actual aircraft
 
 *Safe Taxiing — Theory* (10 minutes)
 - Power: use minimum power required to start rolling on a hard surface however; more power needed on soft surfaces
 - Surface: do not stop taxiing with the propeller over a loose surface unless absolutely necessary, keep a "walking" pace at all times; if forced to stop, start moving with minimum power required
-- Brakes: only used with power is idle; used to stop; do not use harsh braking; toe brakes vs hand brakes
+- Brakes: only used with power idle; used to stop; do not use harsh braking; toe brakes vs hand brakes
 - Elevator fully rearwards while taxiing unless in strong winds, then use wind correction position
-- Confined spaces and prop wash: keep awareness of wingtip clearance and prop blast
-- Speed: taxi at walking pace in the parking area and near other aircraft; slightly faster on open taxiways
+- Confined spaces and prop wash: keep awareness of wingtip clearance and prop wash
+- Speed: taxi at walking pace in the parking area and near other aircraft; slightly faster on open taxiways; faster again when backtracking
 ]
 
 ,ground_tasks:[

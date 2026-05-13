@@ -10,32 +10,31 @@
 title: [Basic Circuits]
 
 ,aim: [
-Establish a consistent circuit pattern using go-around circuits only, introduce circuit procedures, radio calls, and the stable approach gate concept.
+Fly the aircraft in the standard circuit pattern, to the stable approach gate, assess for a stable approach and go around. Introduce radio calls.
 ]
 
 ,overview: [
-Stage C1 is the first formal circuit lesson. No touch-and-go or full-stop landings are conducted — all approaches are terminated with a go-around. Removing the landing from this stage allows full focus on circuit structure, radio procedures, traffic awareness, and aerodrome management before the workload of the landing is added. The stable approach gate is introduced as a concept and habit from the first circuit. The instructor demonstrates the NAIPS weather system and explains the maintenance release; the student observes both and begins to develop familiarity with these responsibilities. Because BUMPFISH is introduced for the first time in this briefing, the instructor may complete the BUMPFISH check and make radio calls on behalf of the student in the first one or two circuit sessions. By the subsequent C1 session the student is expected to know BUMPFISH from memory. Radio procedures are practised extensively throughout; formal E13 assessment occurs in Phase 3 Lesson 18.
+Stage C1 is the first formal circuit lesson. No touch-and-go or full-stop landings are conducted — all approaches are terminated with a go-around. Removing the landing from this stage allows full focus on circuit structure, radio procedures, traffic awareness, and aerodrome management before the workload of the landing is added. The stable approach gate is introduced as a concept and habit from the first circuit. The student will start to take responsibility of the weather briefing in addition to pre-flight documentation and procedures. Because BUMPFISH is introduced for the first time in this briefing, the instructor may complete the BUMPFISH check and make radio calls on behalf of the student in the first one or two circuit sessions. By the subsequent C1 session the student is expected to know BUMPFISH from memory. Radio procedures are practised extensively throughout; formal E13 assessment occurs in Phase 3 Lesson 18.
 ]
 
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
+- Describe the NAIPS system: TAF, GAF, and GPWT charts — purpose, format, and how to access
 - Describe the circuit pattern and the standard procedures at a non-controlled aerodrome in Class G airspace (AC91-10)
 - Describe each circuit leg: upwind, crosswind, downwind, base, final — heights, headings, and spacing references
 - Explain right-of-way rules and traffic priority in the circuit
 - Recall all recommended radio calls for the full circuit sequence per AC91-10
-- Describe the NAIPS system: TAF, GAF, and GPWT charts — purpose, format, and how to access
-- Describe the purpose and content of the maintenance release
 - Describe the stable approach gate: what it is, where it applies, and what to do if not met
 - Explain the BUMPFISH downwind check
 
 #text(size:12pt)[*Skills*]
-- Fly a consistent circuit profile: correct heights (1000 ft AGL on downwind), spacing, and tracking
+- Identify and interpret the NAIPS TAF/GAF/GPWT as appropriate for the aerodrome
+- Fly a consistent circuit pattern: correct heights (1000 ft AGL on downwind), spacing, and tracking
 - Make all recommended CTAF radio calls with correct phraseology and timing
-- Execute a go-around from any point on final: full power, attitude, configuration, re-join
+- Execute a go-around from any point on final: (PA(C)T); full power, attitude, configuration, trim, re-join
 - Manage spacing with other circuit traffic
 - Apply the BUMPFISH check on every downwind leg
 - Assess approach stability at 300 ft AGL and initiate go-around if the gate is not met
-- Identify and interpret the NAIPS TAF for the aerodrome
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Maintain a mental map of circuit traffic; using radio assisted see-and-avoid
@@ -69,7 +68,6 @@ Equipment required: Local circuit diagram, VTC/airspace diagram, whiteboard, dev
 - Spacing references: runway threshold, aiming point, 45° base turn point
 - Right-of-way: aircraft already in circuit have priority; aircraft landing has priority over departing; never cut in front of established traffic
 - BUMPFISH checks: completed on downwind — Brakes, Undercarriage, Mixture/Mags, Pump/Prop, Fuel, Instruments, Switches, Hatches and harnesses
-- After-takeoff checks: ALF — Aux pump, Lights, Flaps
 
 *Radio Call Sequence — CTAF* (10 minutes)
 - All calls per AC91-10: taxi, backtrack/entering and lining up, base, clear of runway
@@ -87,22 +85,20 @@ Equipment required: Local circuit diagram, VTC/airspace diagram, whiteboard, dev
 - If any criterion is not met at 300 ft → go-around immediately; no hesitation; this is a rule, not a judgement call
 - Go-around procedure: PA(C)T — power, attitude (on horizon), clean up, trim; re-join circuit; a go-around is a normal outcome — not a failure
 
-*NAIPS and Maintenance Release Introduction* (5 minutes)
+*NAIPS* (5 minutes)
 - NAIPS: TAFs, GAFs, GPWT charts; access via app or web; instructor demonstrates access and TAF/GAF format
-- TAF: terminal aerodrome forecast; wind, visibility, cloud, weather; validity period; used to assess if conditions will remain suitable for the planned flight duration
+- Forecast: TAF or GAF/GPWT; used to assess if conditions will remain suitable for the planned flight duration
 - BOM radar: supplemental visual tool to assess precipitation; not an official forecast source
-- Maintenance release: purpose — confirms aircraft is maintained and authorised for flight; location in aircraft; key items to check; student reviews and briefs instructor — instructor signs
 ]
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Access NAIPS; obtain TAF/GAF for home aerodrome; demonstrate to student: explain wind, visibility, cloud, validity
+- Access NAIPS; obtain TAF/GAF for home aerodrome and review with student, noting any hazards
 - Review maintenance release; walk student through each section; sign the release; explain what the student should look for in future lessons
 - Check NOTAMs; brief any relevant to circuit operations
 
 #text(size:12pt)[*Student*]
-- Observe instructor obtaining and interpreting TAF from NAIPS; note wind, conditions, validity period
-- Observe instructor reviewing maintenance release; note sections checked
+- Observe instructor obtaining and interpreting TAF/GAF/GPWT from NAIPS; note wind, conditions, validity period
 - Complete IMSAFE self-assessment and operations whiteboard
 - Lead pre-flight inspection independently; complete documentation
 - Set QNH from aerodrome elevation or ATIS/AWIS
@@ -118,11 +114,11 @@ Equipment required: Local circuit diagram, VTC/airspace diagram, whiteboard, dev
 #text(size:12pt)[*Student Practice*]
 - All circuits flown by student from the second circuit onward; instructor monitors
 
-_First one or two circuits:_ Because BUMPFISH has only just been introduced, the instructor may complete the BUMPFISH check and make radio calls on the student's behalf while the student focuses on aircraft control, circuit shape, and height. As the student's workload reduces, the instructor progressively hands radio calls and BUMPFISH responsibility back to the student within the same session.
+_First few circuits:_ Because BUMPFISH has only just been introduced, the instructor may complete the BUMPFISH check and make radio calls on the student's behalf while the student focuses on aircraft control, circuit format, and height. As the student's workload reduces, the instructor progressively hands radio calls and BUMPFISH responsibility back to the student within the same session.
 
 _Subsequent circuits:_
 - Upwind: climb to 500 ft; choose reference point; turn onto crosswind; 15° AoB
-- Crosswind: climb to 1000 ft AGL; after-takeoff checks (ALF)
+- Crosswind: climb to 1000 ft AGL
 - Downwind: BUMPFISH check; identify spacing reference; slow to approach speed
 - Base: identify 45° point; turn base while making radio call; begin descent; flaps 2 before final turn
 - Final: assess stable approach gate at 300 ft — all four criteria; go-around if any criterion not met
@@ -134,7 +130,7 @@ _Subsequent circuits:_
 ]
 
 ,common_errors:[
-- *Forgetting BUMPFISH*: Trigger BUMPFISH at the same point every downwind — abeam the upwind threshold; complete before power reduction.
+- *Forgetting BUMPFISH*: Trigger BUMPFISH at the same point every downwind — after the downwind turn complete and spacing checked; complete before power reduction.
 - *Overriding the stable approach gate*: If the gate is not met, go-around — no discussion. The gate is not a suggestion.
 - *Losing traffic picture*: Verbalise the traffic picture to the instructor on every downwind — say it aloud to build the habit.
 - *Radio at expense of flying*: Set attitude and trim; then transmit. Never sacrifice aircraft control for a radio call.

@@ -14,7 +14,7 @@ Conduct a simulated forced landing into a suitable field and conduct all emergen
 ]
 
 ,overview: [
-Lesson 4.4 builds on EFIC procedures from Phase 2 by extending the engine failure scenario to the cruise environment. In the training area the student has more altitude and time, but must use a systematic approach to field selection, the FLWOP circuit, passenger brief and MAYDAY procedures. The precautionary must also be included, and graded to solo standard, before the student can conduct solo training area operations.
+Lesson 4.4 builds on EFIC procedures from Phase 2 by extending the engine failure scenario to the cruise environment. In the training area the student has more altitude and time, but must use a systematic approach to field selection, the FLWOP circuit, passenger brief and MAYDAY procedures. The precautionary search must also be included, and graded to solo standard, before the student can conduct solo training area operations.
 
 The ABC checks are introduced in this lesson. Because it is new, the student will need instructor assistance for the first few attempts; the instructor assists with recall where needed during this initial phase. The goal by the end of the lesson is for the student to execute the sequence from memory. Subsequent lessons and the area solo assessment will verify that memory retention is established.
 
@@ -24,14 +24,14 @@ S standard must be demonstrated on two separate flights before area solo is auth
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
 - Recall the ABC checks from memory: Attitude, Best field, Checks, Declare, Explain, Final
-- Describe each step: glide attitude, 6-S field selection, FAST restart checks (Fuel, Air, Switches, Throttle), MAYDAY call, passenger brief, final configuration (all switches off; note flaps require master switch on)
+- Describe each step: glide attitude, 6-S field selection + high/low-key, FAST restart checks (Fuel, Air, Switches, Throttle), MAYDAY call, passenger brief, final configuration (all switches off; note flaps require master switch on)
 - Explain the 6-S field selection criteria: Size, Surface, Slope, Situation, Surroundings, Services
 - Explain the 1500 ft (high-key) and 1000 ft (low-key) reference points in the FLWOP circuit and how to manage glide to meet them
 - Explain why the aiming point is placed at one-third of the field
 - Describe the precautionary search procedure: when it applies, inspection pass heights, and the landing commitment decision
 
 #text(size:12pt)[*Skills*]
-- Recall and execute the ABC checks promptly following a simulated engine failure; instructor assistance here acceptable for first attempts
+- Recall and execute the ABC checks promptly following a simulated engine failure; instructor assistance acceptable here for first attempts
 - Select a suitable landing field using the 6-S criteria before entering the FLWOP circuit
 - Position the aircraft in the FLWOP circuit to arrive at high/low-key points at the correct altitudes
 - Conduct the FAST check during the circuit without compromising aircraft control or field awareness
@@ -63,7 +63,7 @@ Equipment required: Topographic/VNC chart of training area, whiteboard \
 
 *Engine Failure Causes* (5 minutes)
 - Fuel: a significant cause of engine failures; exhaustion, starvation, contamination
-- Air: carburettor ice, induction blockages
+- Air: carburettor ice, induction blockages, choke
 - Spark: faulty ignition systems
 - Mechanical: something internal to the engine that is difficult to detect; the engine usually gives warning signs
 - Pilot: engine mismanagement; over-revving, shock cooling, overheating, harsh throttle movements
@@ -99,7 +99,7 @@ _E — Explain_
 
 _F — Final_
 - On short final with landing assured: all electrical switches off; master switch off
-- Important exception: if flaps are required and are electrically operated, use flap before turning master off; do not turn master off and then attempt to use electric flaps
+- Important exception: if flaps are required and are electrically operated, use flap before turning master off
 - ELT/PLB: activate if fitted with manual activation capability
 
 *Precautionary Search* (10 minutes)
@@ -159,6 +159,10 @@ Student operates as PIC. Instructor is an observer. Student conducts all ground 
 
 #text(size:12pt)[*Observer/PIC Phase — Return*]
 Student conducts return transit, area radio calls, overhead join, and landing independently.
+
+#text(size:12pt)[*Student Practice — Precautionary Search*]
+- Instructor guides the student through the procedure, while the student flies
+- Should be done at the home aerodrome to facilitate the low pass; fly neighbourly
 ]
 
 ,common_errors:[

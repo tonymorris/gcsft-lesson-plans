@@ -14,7 +14,7 @@ Perform steep turns and manage turning upsets at angles of bank up to 60°, main
 ]
 
 ,overview: [
-Lesson 4.2 continues the student-as-PIC phase. The instructor operates as an observer for all trained flight portions, assuming the instructor role only to introduce and demonstrate advanced turning. Advanced turning builds directly on E6 (Basic Turning) and introduces steep turns at 60° AoB, slipping turns, spiral dive recognition and recovery, dutch roll turn reversals, and sustained 360° turns. These manoeuvres pair with E6 to satisfy the two-flight requirement for turning competency. Skidding turns are discussed for awareness but are not practiced by the student — no pro-spin inputs by the student are required in this training.
+Lesson 4.2 continues the student-as-PIC phase. The instructor operates as an observer for all trained flight portions, assuming the instructor role only to introduce and demonstrate advanced turning. Advanced turning builds directly on E6 (Basic Turning) and introduces steep turns at 60° AoB, slipping turns, spiral dive recognition and recovery, dutch roll turn reversals, and sustained 360° turns. These manoeuvres pair with E6 to satisfy the two-flight requirement for turning competency. Skidding turns are discussed for awareness but are not practiced by the student — no "pro-spin" inputs by the student are required in this training.
 ]
 
 ,learning_outcomes: [
@@ -28,7 +28,7 @@ Lesson 4.2 continues the student-as-PIC phase. The instructor operates as an obs
 
 #text(size:12pt)[*Skills*]
 - Enter, maintain, and exit a level turn at 45° and 60° AoB, maintaining altitude ±100 ft and airspeed ±10 kts
-- Maintain coordination throughout all turns
+- Maintain appropriate coordination throughout all turns
 - Identify and recover from a spiral dive: close throttle, level wings, ease out of the dive
 - Demonstrate a deliberate slipping turn; recover to coordinated flight
 - Execute turn reversals (dutch rolls) at 20° AoB
@@ -74,7 +74,7 @@ Equipment required: Aircraft model, whiteboard \
 *Slipping and Skidding Turns* (5 minutes)
 - Slip: too much bank for the rate of turn; ball displaced toward lower wing; outer wing stall risk
 - Skid: too little bank for the rate of turn; ball displaced toward upper wing; inner wing stall risk; spin risk
-- Visual illusion: in a skid, the apparent "rapid" increase in turn rate is an illusion - skidding won't get you to the target heading more quickly
+- Visual illusion: in a skid, the apparent "rapid" increase in turn rate is an illusion - skidding will not turn the aircraft more quickly
 - Deliberate sideslip revision: into-turn aileron, opposite (top) rudder; unreliable airspeed; nose-low attitude needed; control direction with aileron
 - Note: skidding turns are discussed for awareness only — no pro-spin inputs are practiced by the student
 
@@ -85,7 +85,7 @@ Equipment required: Aircraft model, whiteboard \
 
 ,ground_tasks:[
 #text(size:12pt)[*Student briefs the instructor:*]
-- Student obtains NAIPS TAF/GAF GPWT; checks BOM radar; briefs conditions and suitability
+- Student obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability
 - Student checks NOTAMs; identifies any relevant items
 - Student reviews maintenance release; briefs instructor on all items
 - Student briefs the planned flight: departure, transit, manoeuvre sequence, return, HASSELL minimum height, EFATO plan
@@ -109,8 +109,8 @@ HASSELL check: student completes before the manoeuvre sequence begins.
 - 45° steep turn: entry, maintenance, exit — patter bank, balance, backpressure, overbanking tendency; hold altitude ±100 ft, airspeed ±10 kts, rollout ±10°
 - 60° steep turn: same sequence; patter increased backpressure and overbanking; demonstrate difference from 45°
 - Spiral dive entry from steep turn: allow bank to increase, nose to drop, airspeed to build — patter symptoms; recovery: close throttle, level wings, ease out of the dive
-- Slipping turn: demonstrate ball displaced toward lower wing; patter apparent decrease in turn rate on entry; aircraft tendency to roll level; correct to coordinated
-- Skidding turn: demonstrate ball displaced toward upper wing; patter apparent acceleration in turn rate on entry; aircraft tendency to roll into the turn; correct to coordinated. _Instructor demonstration only — no student practice_
+- Slipping turn: demonstrate ball displaced toward lower wing; patter apparent decrease in turn rate on entry; aircraft tendency to roll level; correct to coordinated flight
+- Skidding turn: demonstrate ball displaced toward upper wing; patter apparent acceleration in turn rate on entry; aircraft tendency to roll into the turn; correct to coordinated flight _Instructor demonstration only — no student practice_
 - Dutch roll turn reversal from 20° AoB: smooth coordinated rolls in alternating directions
 - Sustained 360° at 45° and 60° AoB
 
@@ -118,7 +118,7 @@ HASSELL check: student completes before the manoeuvre sequence begins.
 - HASSELL check before sequence; every 15 minutes thereafter
 - 45° steep turns left and right: maintain AoB ±5°, altitude ±100 ft, coordinated
 - 60° steep turns left and right: maintain AoB ±5°, altitude ±100 ft, coordinated
-- Spiral dive recovery: instructor initiates by briefly increasing bank and lowering nose; student recovers without coaching
+- Spiral dive recovery: instructor initiates by increasing bank and lowering nose; student recovers without coaching
 - Slipping turn: enter deliberately, maintain, recover to coordinated
 - Dutch roll turn reversals from 20° AoB: smooth, coordinated, alternating directions
 - Sustained 360° at 45° AoB and 60° AoB: roll out on entry heading ±10°
@@ -128,7 +128,7 @@ Student conducts return transit and landing independently. Instructor may assist
 ]
 
 ,common_errors:[
-- *Altitude loss in steep turn*: Check and correct bank first — if correct, add backpressure; correct horizon reference.
+- *Altitude loss/gain in steep turn*: Check and correct bank first — if correct, adjust backpressure; correct horizon reference.
 - *Backpressure before wings level in spiral dive recovery*: Level wings first; backpressure with banked wings tightens the spiral and stresses the airframe.
 - *Chasing the balance ball in steep turns*: The ball will be slightly low in a steep turn — do not add inside rudder as a primary correction.
 - *HASSELL*: HASSELL before the sequence begins, then every 15 minutes — not before each individual manoeuvre.
@@ -163,7 +163,7 @@ Student conducts return transit and landing independently. Instructor may assist
 ]
 
 ,safety:[
-- *Weather*: Horizon clearly visible; ceiling >2500 ft AGL; wind \<25 knots
+- *Weather*: Horizon clearly visible; ceiling >2500 ft AGL; surface wind \<25 knots
 - *Altitude*: Conduct all manoeuvres above 2000 ft AGL; all recoveries complete above 1500 ft AGL
 - *Emergency Procedures*: HASSELL before sequence includes forced landing area selection; no manoeuvres directly over populated areas
 - *TEM*:

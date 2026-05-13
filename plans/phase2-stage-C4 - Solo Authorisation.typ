@@ -73,7 +73,7 @@ _Regulatory requirements (RAAus FOM S2.06):_
 - ☐ Valid RAAus Student Pilot Certificate held
 - ☐ Financial flying membership of RAAus current
 - ☐ Health declaration current (driver licence medical standard)
-- ☐ Pre-Solo Air Legislation Exam passed (minimum 80%, including 5 aerodrome-specific questions)
+- ☐ Pre-Solo Air Legislation Exam passed (minimum 80%)
 
 _Competency requirements:_
 - ☐ E2–E7 all at S standard twice (Phase 1 gate met; recorded in training record)

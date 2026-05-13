@@ -21,7 +21,7 @@ The student enters, maintains, and levels off from a range of descent profiles �
 #text(size:12pt)[*Knowledge*]
 - Recall the four forces and their interaction during a steady descent
 - Explain that reduced thrust creates the descent — not reduced lift
-- Describe the factors affecting descent and glide performance (flap, weight, wind, density altitude)
+- Describe the factors affecting descent and glide performance (thrust, flap, wind, density altitude)
 - Explain the effect of flap on descent angle, rate, and airspeed
 - Apply a rule of thumb to estimate top of descent point
 - Explain engine cooling considerations during prolonged glides
@@ -51,13 +51,13 @@ The student enters, maintains, and levels off from a range of descent profiles �
 
 ,ground_brief_topics: [
 Total time: 40 minutes \
-Equipment required: Aircraft model, access to slideshow, whiteboard \
+Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Engine overcooling in prolonged glide; terrain in descent area
 - [SA] Alerted see-and-avoid; maintain SA
 - [HF] Ear pressure on descent; Valsalva manoeuvre; report blockage early
-- Pre-takeoff safety brief: purpose and structure
+- [TEM/CRM] Pre-takeoff safety brief: purpose and structure
 
 *Forces in a Descent* (10 minutes)
 - Four forces in a steady descent; forward component of weight replaces lost thrust
@@ -65,9 +65,9 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 - Best glide speed: best lift/drag, maximum range
 
 *Types of Descent* (5 mins)
-- Cruise descent: 105–110 kt, 5000 RPM
-- Powered descent: 90–100 kt, 4000 RPM
-- Glide descent: ~70 kt, idle RPM — clear engine every 1000 ft
+- Cruise descent: ~105–110 kt, 5000 RPM
+- Powered descent: ~90–100 kt, 4000 RPM
+- Glide descent: 70 kt, idle RPM — clear engine every 1000 ft
 - Approach descent: ~70 kt, flap 2, 3000 RPM
 
 *Attitude Flying in the Descent* (5 minutes)
@@ -91,13 +91,13 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 ]
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Review weather, NOTAMs, and maintenance release separately from student
+- Review weather, NOTAMs with the student, note any hazards
 - Introduce the EFATO brief structure; student to deliver before taxi
 - Observe student lead the pre-flight inspection and complete documentation independently
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and operations whiteboard
-- Lead pre-flight inspection; independently complete the documentation folder
+- Lead pre-flight inspection; independently complete the documentation
 - Conduct start, taxi, runup, and all checklists to takeoff
 - Deliver pre-takeoff safety brief before taxi (with instructor guidance)
 ]
@@ -108,9 +108,9 @@ Student manages the complete takeoff sequence with instructor supervision. Instr
 
 #text(size:12pt)[*Demonstration*]
 - All turns to be flown by instructor; student manages all straight climbs and descents.
-- Cruise descent: 5000 RPM, 105–110 kt, attitude, trim, heading ±5°
-- Powered descent: 4000 RPM, 90–100 kt, attitude, trim
-- Glide descent: idle RPM, ~70 kt, trim; clear engine every 1000 ft
+- Cruise descent: 5000 RPM, ~105–110 kt, attitude, trim, heading ±5°
+- Powered descent: 4000 RPM, ~90–100 kt, attitude, trim
+- Glide descent: idle RPM, 70 kt, trim; clear engine every 1000 ft
 - Approach descent: 3000 RPM, flap 2, ~70 kt, trim
 - Flap effect: demonstrate increased rate and angle with flap extension
 - Level-off: PAT — power, attitude, trim

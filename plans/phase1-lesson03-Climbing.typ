@@ -14,14 +14,14 @@ Climb the aircraft at various rates and angles to a predetermined altitude, whil
 ]
 
 ,overview: [
-The student builds on straight and level skills to enter, maintain, and level off from climbs at varying rates and angles. These include best rate (Vy) and best angle (Vx) climbs. This lesson continues the theme of attitude flying, and shows the student that _any_ performance is achieved with attitude and power combination. The PAT workcycle is used for climb entry; APT for level-off. The student begins managing climb performance, engine parameters, and lookout during extended climbs. E8 progression continues: the instructor handles the ground roll and rotation; the student manages the initial climb, climbout attitude, and after-takeoff checks.
+The student builds on straight and level skills to enter, maintain, and level off from climbs at varying rates and angles. These include best rate (Vy) and best angle (Vx) climbs. This lesson continues the theme of attitude flying, and shows the student that _any_ performance is achieved with attitude and power combination. The PAT workcycle is used for climb entry; APT for level-off. The student begins managing climb performance, engine parameters, and lookout during extended climbs. E8 progression continues: the instructor handles the ground roll and lift-off; the student manages the initial climb, climbout attitude, and after-takeoff checks.
 ]
 
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
 - Recall the four forces and their interaction during a climb
 - Explain that excess thrust enables the climb — not increased lift
-- Describe the factors affecting climb performance (weight, flap, density altitude, wind)
+- Describe the factors affecting climb performance (excess thrust available, weight, flap, density altitude, wind)
 - Distinguish between Vy and Vx and their applications
 - Explain why the nose should be lowered every 500 ft during extended climbs
 - Describe engine temperature management considerations during climb
@@ -38,7 +38,7 @@ The student builds on straight and level skills to enter, maintain, and level of
 - [SA] Visual limitations in climb — high nose attitude restricts forward visibility
 - [TEM] Engine overheat risk during prolonged climbs; terrain awareness and airspace ceiling
 - [HF] Ear pressure awareness; report any discomfort immediately
-- [CRM] Complete after-takeoff checks using checklist without compromising lookout
+- [CRM] Complete after-takeoff checks
 ]
 
 ,theory_knowledge: [
@@ -49,7 +49,7 @@ The student builds on straight and level skills to enter, maintain, and level of
 
 ,ground_brief_topics: [
 Total time: 40 minutes \
-Equipment required: Aircraft model, access to slideshow, whiteboard \
+Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Engine overheat during sustained climb; terrain and airspace above
@@ -63,12 +63,12 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 *Types of Climb/Terminology* (5 mins)
 - Introduce terms "best rate" and "best angle"
 - Vy: best rate of climb — maximum altitude per unit time
-- Vx: best angle — maximum altitude per distance; steeper attitude, lower airspeed
+- Vx: best angle — maximum altitude per unit distance; steeper attitude, lower airspeed
 
 *Attitude Flying in the Climb* (10 minutes)
 - Entry: PAT — power smoothly, keep straight with rudder, climb attitude, trim
 - Maintenance: LARI workcycle; lower nose every 500 ft for clearing lookout
-- Level-off: APT — anticipate by 10% of climb rate
+- Level-off: APT — anticipate by 10% of climb rate; attitude to S&L, wait to accelerate, power smoothly reduce, trim
 
 *Engine Management in Climb* (5 minutes)
 - Monitor engine temps and pressures during extended climbs
@@ -81,14 +81,14 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Review weather, NOTAMs, and maintenance release separately from student
-- Introduce the operations whiteboard and sign-on procedure
+- Review weather, NOTAMs, and maintenance release (separately from student if needed due to time constraints)
+- Complete the operations whiteboard and IMSAFE self-assessment with student
 - Supervise pre-flight inspection with student; student identifies items checked
 - Review training area airspace ceiling and EFATO brief structure
 
 #text(size:12pt)[*Student*]
-- Complete IMSAFE self-assessment and complete operations whiteboard
-- Participate in pre-flight inspection and fuelling; begin reading the documentation with guidance
+- Complete IMSAFE self-assessment and operations whiteboard
+- Participate in pre-flight inspection and fuelling; briefing instructor on any items of note
 - Set QNH; continue developing taxi and runup technique
 ]
 

@@ -47,11 +47,11 @@ Total time: 15 minutes (solo days) / 20 minutes (dual check days) \
 Equipment required: Student training record, progress checklist \
 
 *Pre-Solo Self-Brief Template* (every solo session)
-- NAIPS: TAF obtained and interpreted; wind, visibility, cloud, validity period; conditions suitable for planned flight duration?
+- NAIPS: TAF/GAF/GPWT obtained and interpreted; wind, visibility, cloud, validity period; conditions suitable for planned flight duration?
 - BOM radar: precipitation checked as supplemental
 - NOTAMs: checked; any items relevant to circuit operations today?
 - Maintenance release: reviewed; all items acceptable; anything to brief instructor about?
-- EFATO plan: where will I land if engine fails today — on the roll? At 200 ft? At 400 ft? On crosswind?
+- EFATO plan: where will I land if engine fails today — during takeoff? At 200 ft? At 400 ft? On crosswind?
 - Radio failure plan: what will I do if the radio fails while downwind?
 - Stable approach gate: I will go-around if any gate criterion is not met at 300 ft — no exceptions
 - Personal fitness: IMSAFE complete; am I genuinely fit to fly today?
@@ -64,14 +64,14 @@ Equipment required: Student training record, progress checklist \
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Spot-check student's NAIPS weather interpretation: was the TAF read correctly? Are conditions suitable?
+- Spot-check student's NAIPS weather interpretation: was the weather read correctly? Are conditions suitable?
 - Spot-check NOTAM brief: was anything relevant missed?
 - Spot-check maintenance release review: did the student cover all key items?
 - Confirm solo weather minima are met before student departs
 - Observe all solo circuits from ground with radio available on CTAF
 
 #text(size:12pt)[*Student*]
-- Access NAIPS independently; obtain TAF; check BOM radar; brief instructor on conditions and suitability
+- Access NAIPS independently; obtain weather; check BOM radar; brief instructor on conditions and suitability
 - Check NOTAMs independently; brief instructor on any relevant items
 - Review maintenance release independently; brief instructor on all items checked and anything found
 - Complete IMSAFE self-assessment and operations whiteboard

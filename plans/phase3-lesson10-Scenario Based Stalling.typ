@@ -21,7 +21,7 @@ The student operates as PIC for all trained flight portions. The instructor assu
 
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
-- Explain the aerodynamic conditions that produce an accelerated stall: G-loading, usually resulting from a steep banked turn
+- Explain the aerodynamic conditions that produce an accelerated stall: G-loading, usually resulting from a steep turn
 - Describe the stall in a turn: one wing stalls before the other; wing drop; aileron input worsens the situation
 - Explain stall entry from a simulated missed approach: full flap plus rapid power increase that goes unchecked creates a strong pitching moment
 - Explain stall entry from EFATO scenario: excess rearward stick due to pilot stress; failure to lower the nose to glide attitude
@@ -31,10 +31,10 @@ The student operates as PIC for all trained flight portions. The instructor assu
 
 #text(size:12pt)[*Skills*]
 - Demonstrate stall recognition and recovery in straight and level, 50%-power climb, and descent configurations
-- Demonstrate stall recognition and recovery in a banked turn (turning stall)
+- Demonstrate stall recognition and recovery in a turn (turning stall)
 - Demonstrate prevention of stall entry in a simulated missed approach
 - Demonstrate prevention of stall entry in a simulated EFATO scenario
-- Apply correct recovery technique for a wing drop stall: relax backpressure; rudder to stop yaw; ailerons neutral until unstalled
+- Apply correct recovery technique for a wing drop stall: relax backpressure; rudder to stop roll; ailerons neutral until unstalled
 - Complete HASSELL check before the stalling sequence begins, then every 15 minutes
 
 #text(size:12pt)[*Non-Technical Skills*]
@@ -59,19 +59,19 @@ Equipment required: Aircraft model, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] The TEM chain that produces scenario stalls: distraction in the go-around, fixation on the landing area during EFATO, time pressure; brief countermeasures
-- [SA] HASSELL is mandatory before the stalling sequence begins and every 15 minutes; 360° lookout required
+- [TEM/SA] HASSELL is mandatory before the stalling sequence begins and every 15 minutes; 360° lookout required
 - [HF] Startle response management in unexpected stall entries — reinforce from E7; the natural reflex is wrong
 
 *Accelerated Stall* (5 minutes)
 - Stall can occur at any speed if AoA is exceeded; the stalling control position is the same regardless
 - At 45° AoB the stall speed is 19% higher; an aggressive pull-up past the stalling control position at any speed produces an accelerated stall
 - Entry symptoms are faster and may feel like normal flight; buffet arrives quickly; wing drop may be sudden
-- Recovery: reduce AoA (relax backpressure), apply power, stop roll with rudder first
+- Recovery: reduce AoA (relax backpressure), stop roll with rudder, apply power
 
 *Scenario 1 — Stall in a Turn (Base-to-Final)* (5 minutes)
 - Context: rushed base-to-final; overshooting; tightening the turn; adding backpressure in a 30–45° banked turn
 - Inner wing stalls first (higher AoA); wing drops toward the inside of the turn; instinct to apply aileron worsens it
-- Recovery: relax backpressure; rudder to stop roll; ailerons neutral until wings unstall
+- Recovery: relax backpressure; rudder to stop roll; ailerons neutral until wings unstall; recovery from unusual attitude
 - Below 500 ft — recovery is very unlikely; this is usually fatal
 
 *Scenario 2 — Go-Around Stall (Missed Approach)* (5 minutes)
@@ -81,27 +81,27 @@ Equipment required: Aircraft model, whiteboard \
 - Recovery before stall: pitch nose level; allow airspeed to build; resume correct go-around sequence
 
 *Scenario 3 — EFATO Stall (Engine Failure After Takeoff)* (5 minutes)
-- Context: engine fails upwind; student applies too much backpressure — fails to lower the nose — or fixates on finding a landing area before establishing glide attitude
-- Best glide attitude first; rudder for coordination; accept the descent; no heroic altitude manoeuvres
+- Context: engine fails upwind; student applies backpressure, freezes and fails to lower the nose or fixates on finding a landing area before establishing glide attitude
+- Best glide attitude first; rudder for coordination; land straight ahead
 
 *Scenario 4 — Elevator Trim Stall* (5 minutes)
 - Context: aircraft trimmed heavily nose-up for slow flight or approach; pilot applies full power and releases the controls momentarily (as might occur in a rushed go-around)
-- The trim force pitches the nose sharply upward; AoA rapidly exceeds critical; accelerated stall develops before the pilot re-applies control
+- The trim force pitches the nose sharply upward; AoA rapidly exceeds critical; accelerated stall develops before the pilot re-applies control pressure
 - Recognition: rapid, uncommanded pitch-up immediately after power application; very short warning period
 - Recovery: push forward against the trim force to reduce AoA; reduce power momentarily if pitch-up is extreme; re-establish go-around attitude; retrim
-- Prevention: never apply full power without maintaining positive control of the aircraft; hands on controls before throttle
+- Prevention: never apply full power without maintaining positive control of the aircraft
 
 *Spin Entry Awareness* (5 minutes)
 - A spin requires: stall + yaw at the moment of stall
 - Uncoordinated flight (ball displaced) at high AoA is the risk combination
-- Visual cue of spin entry: rapid yaw/roll in one direction; nose pitches steeply down; rolling tendency into the spin
+- Visual cue of spin entry: rapid yaw/roll in one direction; nose pitches steeply down
 - Recovery awareness: close throttle; opposite rudder; forward stick; recover from the dive (refer POH)
 - Emphasis: awareness only; intentional spinning is not part of this training; pro-spin inputs below Va are not permitted
 ]
 
 ,ground_tasks:[
 #text(size:12pt)[*Student briefs the instructor:*]
-- Student obtains NAIPS TAF/GAF; checks BOM radar; briefs conditions and suitability — smooth air required
+- Student obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability — smooth air required
 - Student checks NOTAMs; briefs relevant items
 - Student reviews maintenance release; briefs instructor on all items
 - Student briefs the planned flight: departure, transit, HASSELL minimum height, scenario sequence, return, EFATO plan
@@ -113,15 +113,15 @@ Equipment required: Aircraft model, whiteboard \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Observer/PIC Phase — Departure and Transit*]
-Student operates as PIC. Instructor is silent observer. All startup, taxi, runup, radio calls, takeoff, after-takeoff checks, departure, and transit conducted by student without prompting. Instructor may assist with circuit departure radio calls; hands back to student at training area entry. HASSELL check completed by student before the stalling sequence begins.
+Student operates as PIC. Instructor is observer. All startup, taxi, runup, radio calls, takeoff, after-takeoff checks, departure, and transit conducted by student without prompting. Instructor may assist with circuit departure radio calls; hands back to student at training area entry. HASSELL check completed by student before the stalling sequence begins.
 
 #text(size:12pt)[*Instructor Assumes Instructor Role — New Material*]
 
 #text(size:12pt)[*Demonstration*]
 - Stall in 50%-power climb, and stall in descent: one of each; patter symptoms and recovery — student is already equipped for level flight stall from E7; no demonstration required for that
-- Coordinated turning stall at 30° AoB: entry, wing drop, correct recovery with rudder; patter pro-recovery roll response and sequence
+- Coordinated turning stall at 30° AoB: entry, wing drop, correct recovery with rudder; patter pro-recovery roll response and recovery sequence
 - Slipping turn stall at 30° AoB: entry, wing drop, correct recovery with rudder; patter how the slip increases the outer wing's AoA
-- Go-around scenario: simulated approach, go-around initiated, aggressive pitch-up to demonstrate stall entry point, recovery before stall develops
+- Go-around scenario: simulated approach, go-around initiated, aggressive pitch-up to demonstrate stall entry point, recover
 - EFATO scenario: Vy climb, power to idle; demonstrate partial nose lowering then fixation on landing area; patter stalling control position, symptoms, and recovery
 - Spin entry awareness: demonstrate entry conditions above manoeuvring speed only; patter visual cues and control positions; recover immediately
 
@@ -132,8 +132,8 @@ Student operates as PIC. Instructor is silent observer. All startup, taxi, runup
 - Stall in 50%-power climb: identify symptoms; recover with minimum height loss
 - Stall in descent: identify symptoms; recover; note lower nose attitude makes recognition harder
 - Turning stall at 30° AoB: student enters; wing drop; relax backpressure; rudder to stop roll; ailerons neutral; recover
-- Go-around scenario: student conducts simulated approach; executes go-around with controlled pitch attitude; instructor disrupts with a "nose up" prompt; student prevents stall entry
-- EFATO scenario: instructor simulates engine failure on upwind; student lowers nose to glide attitude; maintains coordination; does not apply excess backpressure
+- Go-around scenario: student conducts simulated approach; executes go-around without controlling pitch; student _prevents_ stall entry after short delay *NOTE*: Do not allow the aircraft to actually stall; take control if student fails to recover before stall
+- EFATO scenario: instructor simulates engine failure on upwind; student _maintains_ attitude; maintains coordination; after short delay, before stall control position, recover
 - Elevator trim stall: student sets trim fully nose-up at slow flight speed; instructor calls "go-around"; student applies full power; student recognises pitch-up and recovers; note the rapid onset
 - Scenario task: "You are on upwind and several large birds fly directly into your flight path. What do you do?"
 
@@ -145,8 +145,8 @@ Student conducts return transit, circuit join, radio calls, and landing independ
 - *Aileron on wing drop in turning stall*: Relax backpressure first; rudder to stop roll; aileron neutral until unstalled — reinforce from E7.
 - *Aggressive pitch in go-around*: Power + attitude = performance; set the go-around attitude and wait; do not chase airspeed.
 - *Excess backpressure in EFATO glide*: Use the natural positive stability of the aircraft; accept the descent when the aircraft needs it.
-- *Delaying HASSELL*: HASSELL before the sequence — not optional.
-- *Lack of rudder use*: Coordinated flight is the primary spin prevention tool; reinforce the LARI ball check.
+- *HASSELL*: HASSELL before the sequence — not optional.
+- *Lack of rudder use*: Coordinated flight is the primary spin prevention tool.
 ]
 
 ,post_flight:[

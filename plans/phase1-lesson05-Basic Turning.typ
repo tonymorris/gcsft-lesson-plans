@@ -30,8 +30,8 @@ The student integrates all previously established skills into coordinated turnin
 - Demonstrate entry, maintenance, and exit from level turns at 15° and 30° AoB
 - Maintain altitude ±150 ft, airspeed ±10 kts, and heading within ±5° of target on rollout
 - Apply coordinated rudder during roll entry and exit
-- Maintain ball centred ±1/4 width throughout
 - Complete climbing turns at 15° AoB and descending turns at up to 30° AoB
+- Keep coordinated throughout
 - Roll out onto a nominated heading or geographic feature
 
 #text(size:12pt)[*Non-Technical Skills*]
@@ -48,7 +48,7 @@ The student integrates all previously established skills into coordinated turnin
 
 ,ground_brief_topics: [
 Total time: 40 minutes \
-Equipment required: Aircraft model, access to slideshow, whiteboard \
+Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Altitude loss in turns; spiral descent — causes and recognition; traffic in turn direction
@@ -64,7 +64,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 *Types of Turn* (10 minutes)
 - Gentle turn (15° AoB), medium turn (up to 30° AoB), steep turn (45° or 60° AoB)
 - Level turn: maintain altitude throughout; 15° and 30° AoB
-- Climbing turn: limited to 15° AoB — reduced climb performance
+- Climbing turn: limited to 15° AoB — reduced climb performance; overbanking tendency
 - Descending turn: up to 30° AoB; underbanking tendency
 - Exit from climbing or descending turn: level wings then correct power and attitude (PAT)
 
@@ -75,7 +75,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 - Overbanking tendency in level and climbing turns; underbanking in descending turns
 
 *Lookout Technique in Turns* (5 minutes)
-- Pre-turn: oposite turn direction first, then forward, above, into and behind.
+- Pre-turn: opposite turn direction first, then forward, above, into and behind.
 - In-turn: continue LARI scan; _briefly_ look into the turn for traffic
 - Rollout: anticipate rollout
 - Reference point: select a feature on the horizon before initiating; use it to control rollout
@@ -83,7 +83,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Review weather, NOTAMs, and maintenance release (if time permits, review with student)
+- Review weather, NOTAMs, and maintenance release with student
 - Observe student completing operations whiteboard
 
 #text(size:12pt)[*Student*]
@@ -99,16 +99,16 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 Student conducts takeoff with minimal instructor prompting. Instructor monitors silently; intervenes only if a safety issue arises. After-takeoff checks completed by student without prompting.
 
 #text(size:12pt)[*Demonstration*]
-- Adverse yaw: aircraft trimmed for S&L; apply aileron alone — demonstrate yaw opposite to aileron input
-- 15° turn: Lookout, Bank, Balance, Backpressure — maintain ±100 ft, ±10 kts
-- 30° turn: same sequence; demonstrate overbanking tendency and correction
+- Adverse yaw: aircraft trimmed for S&L slow flight; apply aileron alone — demonstrate yaw opposite to aileron input
 - Parallax: show difference in attitude reference between left and right turns
+- 30° turn: same sequence; demonstrate overbanking tendency and correction
+- 15° turn: Lookout, Bank, Balance, Backpressure — maintain ±100 ft, ±10 kts
 - Climbing turn at 15° AoB: note reduced climb performance
 - Descending turn at 30° AoB: note underbanking tendency
 
 #text(size:12pt)[*Student Practice*]
-- 15° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
 - 30° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
+- 15° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
 - Deviation correction: recognise and correct altitude and balance deviations using LARI
 - Rollout onto nominated heading or reference point: correct anticipation
 - Climbing turns at 15° AoB: note effect on climb rate; exit with APT
@@ -118,9 +118,9 @@ Student conducts takeoff with minimal instructor prompting. Instructor monitors 
 
 ,common_errors:[
 - *Looking into the turn*: Select a reference point before initiating; look _forward_ during the turn.
-- *Altitude loss/gain in turn*: Check bank angle first — if correct, add backpressure and reference the horizon.
+- *Altitude loss/gain in turn*: Check bank angle first — if correct, adjust backpressure and reference the horizon.
 - *Uncoordinated entry/exit*: Rudder in the direction of aileron input during roll — not after. Squeeze the ball.
-- *Overbanking beyond target*: Gentle opposing rudder to hold AoB
+- *Overbanking beyond target*: Gentle opposite rudder to hold AoB
 - *Poor pre-turn lookout*: Pre-turn lookout is non-negotiable — look, then turn
 - *Pitch up when turning right*: Parallax error; horizon is in different position in left vs right turn
 ]
@@ -156,7 +156,7 @@ Student conducts takeoff with minimal instructor prompting. Instructor monitors 
 
 ,safety:[
 - *Weather*: Horizon clearly visible, ceiling >2000 ft, wind \<25 knots
-- *Altitude*: Conduct manoeuvres above 1000 ft AGL
+- *Altitude*: Conduct manoeuvres above 1500 ft AGL
 - *Emergency Procedures*: Forced landing area pre-selected; EFATO brief completed
 - *TEM*:
   - Monitor altitude closely
