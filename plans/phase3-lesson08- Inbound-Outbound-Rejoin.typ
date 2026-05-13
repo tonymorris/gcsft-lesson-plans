@@ -84,7 +84,7 @@ Equipment required: Local VTC/VTC, whiteboard, NAIPS access \
 - Position on the _non-active side_
 - Traffic already in circuit has right of way
 - Aim to cross the upwind threshold — gives the longest downwind leg and maximum separation from departing or go-around aircraft; make "joining" radio call
-- BUMPFISH on downwind or earlier; complete circuit normally
+- BUMPFISH in appropriate location (either on non-active side or downwind as workload permits); complete circuit normally
 - A "descending on the non-active side" radio call should not be made by default; if there is other traffic consider making one; always make a "joining \<circuit leg\>" call
 
 *Training Area Airspace* (5 minutes)
@@ -180,7 +180,7 @@ If time permits, the student departs and rejoins
 ]
 
 ,safety:[
-- *Weather*: Ceiling >1500 ft AGL (overhead join requires 1500 ft AGL overhead); surface wind \<25 knots; visibility >5 km; no convective activity in training area
+- *Weather*: Ceiling >2000 ft AGL (overhead join requires 1500 ft AGL overhead minimum); surface wind \<25 knots; visibility >8 km; no convective activity in training area
 - *Fuel*: Student calculates fuel requirement plus final reserve; instructor confirms before departure
 - *Altitude*: Maintain at least 500 ft AGL in training area; comply with airspace ceilings; overhead join at 1500 ft AGL minimum
 - *Emergency Procedures*: EFATO plan briefed before departure; forced landing fields identified from chart
