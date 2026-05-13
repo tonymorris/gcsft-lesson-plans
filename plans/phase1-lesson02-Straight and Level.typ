@@ -14,7 +14,7 @@ Fly the aircraft in a constant direction and at a constant altitude, at varying 
 ]
 
 ,overview: [
-Building on the control skills from Lesson 1, the student now integrates all primary and ancillary controls into sustained straight and level flight. The PAT (Power, Attitude, Trim) workcycle is introduced for establishing performance, and the LARI (Lookout, Attitude, Reference, Instruments) workcycle for maintaining it. The student is introduced to the four forces of flight and basic altimetry. The instructor conducts the takeoff, then the student takes controls in the climbout to practice maintaining the climbout attitude, continuing the progressive E8 (takeoff) handover.
+Building on the control skills from Lesson 1, the student now integrates all primary and ancillary controls into sustained straight and level flight. The PAT (Power, Attitude, Trim) workcycle is introduced for establishing performance, and the LARI (Lookout, Attitude, Reference, Instruments) workcycle for maintaining it. The student is introduced to the four forces of flight and basic altimetry. The instructor conducts the takeoff, then the student takes controls in the climbout to practice maintaining the climb attitude, continuing the progressive E8 (takeoff) handover.
 ]
 
 ,learning_outcomes: [
@@ -29,7 +29,7 @@ Building on the control skills from Lesson 1, the student now integrates all pri
 #text(size:12pt)[*Skills*]
 - Establish and maintain straight and level flight at cruise and slow cruise using the PAT workcycle
 - Apply the LARI workcycle to detect and correct deviations in heading (±5°) and altitude (±150 ft)
-- Set QNH and verify against aerodrome elevation
+- Set QNH and verify against aerodrome elevation or using AWIS/ATIS
 - Maintain coordinated flight with ball centred ±1/4 width
 - Trim accurately for hands-off level flight
 
@@ -49,15 +49,15 @@ Building on the control skills from Lesson 1, the student now integrates all pri
 
 ,ground_brief_topics: [
 Total time: 40 minutes \
-Equipment required: Aircraft model, access to slideshow, whiteboard \
+Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Threats: turbulence, fixation, traffic; errors: chasing the altimeter
-- [SA] Systematic lookout (left, front, right, above); clock code for reporting traffic
+- [SA] Systematic lookout (left, centre, right, above); clock code for reporting traffic
 - [HF] Parallax correction in left seat; visual illusions in level flight
 
 *Four Aerodynamic Forces and Lift* (10 minutes)
-- Lift, weight, thrust, drag — balance in level flight
+- Lift, weight, thrust, drag — equalibrium in level flight
 - Coupling in the four forces and tail-down force
 - Lift generation: angle of attack and airspeed
 - Effect of flaps on lift and drag
@@ -83,7 +83,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and confirm fitness to fly
-- Participate in pre-flight inspection and fuelling; begin to familiarise with documentation
+- Participate in pre-flight inspection and fuelling; begin to take the lead on documentation
 - Set QNH under instructor guidance; verify against aerodrome elevation
 - Continue developing taxiing technique
 ]
@@ -93,7 +93,6 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 Instructor conducts takeoff and lift off. Student takes control during the initial climb — maintaining climbout heading on a reference point while instructor monitors.
 
 #text(size:12pt)[*Demonstration*]
-- QNH: set and verify altitude during taxi
 - S&L at normal cruise: establish with PAT, maintain _without_ reference to instruments
 - Deviation and correction: demonstrate correcting back to straight and level attitude after deviations in pitch, roll and power
 - S&L at normal cruise: now, introduce establishing with PAT and maintenance with LARI
@@ -115,7 +114,7 @@ Instructor conducts takeoff and lift off. Student takes control during the initi
 ,common_errors:[
 - *Chasing instruments*: Prioritise horizon attitude; glance at instruments to confirm.
 - *Applying trim incorrectly*: Reinforce — if pushing forward, trim nose down #emph[with finger.]; if pulling back, trim nose up #emph[with thumb]. Build the habit early.
-- *Uncoordinated flight*: Monitor ball; apply rudder before aileron on heading corrections — "squeeze the ball."
+- *Uncoordinated flight*: Monitor reference point and ball if needed; apply rudder with aileron on heading corrections — "squeeze the ball."
 - *Poor lookout*: Reinforce LARI.
 ]
 
@@ -141,7 +140,7 @@ Instructor conducts takeoff and lift off. Student takes control during the initi
 
 #text(size:12pt)[*Solo Standard (S) — required before first solo*]
 - *Straight flight*: Heading ±5° (S), smooth positive inputs
-- *Level flight*: Altitude ±200 ft (S), airspeed ±10 kts (S)
+- *Level flight*: Altitude ±150 ft (S), airspeed ±10 kts (S)
 - *Trim*: Can set and verify hands-off trim for cruise and slow cruise with some prompting
 - *Deviation correction*: Recognises and corrects within 15 seconds
 - *QNH*: Sets altimeter correctly with guidance

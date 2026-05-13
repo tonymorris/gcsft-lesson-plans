@@ -74,7 +74,8 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 *Post-Touchdown Crosswind Control* (5 minutes)
 - Into-wind aileron applied immediately after touchdown; prevents upwind wing from lifting in the crosswind
 - Aileron effectiveness increases as speed decreases — continue applying throughout rollout
-- Rudder maintains directional control; prevent weathercocking; do not allow aircraft to veer
+- Rudder maintains directional control; prevent weathercocking; do not allow aircraft to veer or induce a PIO
+- If using toe brakes, establish directional control before using the brakes
 ]
 
 ,ground_tasks:[
@@ -84,7 +85,7 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 - Check student's weather brief including crosswind component calculation
 
 #text(size:12pt)[*Student*]
-- Access NAIPS independently; obtain TAF; calculate crosswind component; brief to instructor
+- Access NAIPS independently; obtain TAF/GAF/GPWT; calculate crosswind component; brief to instructor
 - Check BOM radar as supplemental; note any weather approaching
 - Review NOTAMs with instructor assistance; identify relevant items
 - Review maintenance release with instructor; brief any items of note before instructor signs
@@ -110,7 +111,7 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 ]
 
 ,common_errors:[
-- *Using the nose for alignment*: Use your body (chest or legs) to judge alignment; parallax error from left seat affects nose reference.
+- *Using the nose for alignment*: Use body (chest or legs) to judge alignment; parallax error from left seat affects nose reference.
 - *Using rudder for drift correction*: Aileron corrects for drift; rudder keeps the aircraft straight — do not confuse them.
 - *Insufficient into-wind aileron on rollout*: Apply and maintain after touchdown; the upwind wing will lift if not held.
 - *No drift correction in circuit*: Apply correction angle and hold; do not chase the runway with frequent heading changes.

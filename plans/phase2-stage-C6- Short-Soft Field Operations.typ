@@ -53,20 +53,20 @@ Equipment required: POH, performance charts, whiteboard \
 - [CRM] Brief performance figures before departure
 
 *Performance Calculation* (10 minutes)
-- Using POH charts: temperature, pressure altitude, wind component, and aircraft weight as inputs
+- Using POH charts: temperature, density altitude, wind component, and aircraft weight as inputs
 - Density altitude: understand its effect on both takeoff and landing distance
 - Safety margin: minimum 1.5 × calculated distance as operating margin for training operations
 - Takeoff distance available (TODA) vs required: confirm margin before every departure; account for surface condition factor
 - Landing distance available (LDA) vs required: confirm margin; account for surface condition factor
 
 *Short Field Technique* (5 minutes)
-- Takeoff: brakes held; full power set and checked; release; rotate at Vr without delay; climb at Vx to clear obstacle; transition to Vy when obstacle cleared
-- Landing: approach with full flaps in a level attitude; stable gate met at 300 ft; aim for just past threshold (up to 50 m); firm touchdown just past threshold; maximum effective braking; full rearward elevator during rollout
+- Takeoff: brakes held; full power set and checked; release; controls neutral; rotate at Vr without delay; climb at Vx to clear obstacle; transition to Vy when obstacle cleared
+- Landing: approach with full flaps in a level attitude; stable gate met at 300 ft; aim for just before threshold (up to 50 m) if safe; firm touchdown just past threshold; maximum effective braking; full rearward elevator during rollout
 - Key discipline: fly the attitude precisely — extra airspeed directly adds to landing distance
 
 *Soft Field Technique* (5 minutes)
-- Takeoff: continuous rolling start — never stop on soft surface; into-wind aileron throughout to prevent wing digging in; lift off at minimum speed; immediately lower nose to accelerate in ground effect; climb away after airspeed builds
-- Landing: normal approach; smooth hold-off; hold nose up throughout rollout to transfer weight progressively; avoid hard braking on soft surface; taxi clear immediately
+- Takeoff: continuous rolling start — never stop on soft surface; lift off at minimum speed; immediately lower nose to accelerate in ground effect; climb away after airspeed builds
+- Landing: normal approach; smooth hold-off; hold nose up throughout rollout to transfer weight progressively; avoid hard braking on soft surface; taxi clear immediately without stopping
 
 *Emergency braking* (5 minutes)
 - Maximum braking: pressure applied smoothly until wheel lockup is felt, release slightly
@@ -129,8 +129,8 @@ Equipment required: POH, performance charts, whiteboard \
 
 #text(size:12pt)[*Certificate Standard (C) — required before flight test*]
 - *Short field takeoff*: Brakes held; full power checked; rotation at Vr precisely; Vx ±3 kts to obstacle; performance within calculated figures
-- *Short field landing*: Gate met at 300 ft; threshold crossing speed ±3 kts; touchdown at or within ±15 m of threshold; effective maximum braking; minimum rollout
-- *Soft field takeoff*: Continuous roll; into-wind aileron throughout; lift-off at minimum speed; acceleration in ground effect before climb; no hesitation or technique errors
+- *Short field landing*: Gate met at 300 ft; threshold crossing speed ±3 kts; touchdown at or within ±20 m of target; effective maximum braking; minimum rollout
+- *Soft field takeoff*: Continuous roll; lift-off at minimum speed; acceleration in ground effect before climb; no hesitation or technique errors
 - *Soft field landing*: Smooth hold-off; nose held up throughout rollout; no hard braking; aircraft clear of soft surface promptly
 - *Performance calculation*: Correct inputs; appropriate safety margins applied; figures briefed clearly before departure
 

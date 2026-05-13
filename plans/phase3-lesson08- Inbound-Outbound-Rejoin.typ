@@ -44,7 +44,7 @@ The solo activities in subsequent lessons will consist primarily of repeating th
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Lookout is the primary tool for traffic avoidance — radio calls inform the picture but do not replace the visual scan;
 - [TEM] Identify threats in the overhead join: traffic at multiple positions, non-radio aircraft, high workload during join; brief mitigations before flight
-- [HF] The overhead join requires systematic thinking — plan the sequence ahead of time; identify the runway in use before arrival
+- [HF] The overhead join requires systematic thinking — plan the sequence ahead of time; identify the runway in use well before arrival
 - [CRM] Student plans and briefs the complete flight as PIC; instructor receives the brief; decisions throughout are the student's
 ]
 
@@ -73,7 +73,7 @@ Equipment required: Local VTC/VTC, whiteboard, NAIPS access \
 
 *Circuit Departure — Outbound* (3 minutes)
 - After takeoff: depart on any leg of the circuit; climbs can be made on downwind provided no traffic threat; overhead departures should be used for tracking towards the non-active side
-- Turns must be in the circuit direction until the aircraft is either 3 NM clear of the aerodrome or above 1500 ft AGL
+- Turns must be in the circuit direction until the aircraft is either 3 NM away from the aerodrome or above 1500 ft AGL
 - Departure radio call on CTAF; area departure call when clear of the circuit
 - Track to training area using visual landmarks/reporting points
 
@@ -83,12 +83,13 @@ Equipment required: Local VTC/VTC, whiteboard, NAIPS access \
 - _Identify the runway in use_ from windsock and from the circuit of existing circuit traffic before descending; if uncertain, continue circling in the overhead until confirmed
 - Position on the _non-active side_
 - Traffic already in circuit has right of way
-- Aim to cross the upwind threshold — gives the longest downwind leg and maximum separation from departing or go-around aircraft; make "joining"
+- Aim to cross the upwind threshold — gives the longest downwind leg and maximum separation from departing or go-around aircraft; make "joining" radio call
 - BUMPFISH on downwind or earlier; complete circuit normally
 - A "descending on the non-active side" radio call should not be made by default; if there is other traffic consider making one; always make a "joining \<circuit leg\>" call
 
 *Training Area Airspace* (5 minutes)
 - Training area boundaries identified by visual landmarks/reporting points from the VTC; note the ceiling and any adjacent airspace
+- SUA identified on the chart, and avoided using visual landmarks in flight; hours of activation can vary
 - Check position against boundaries throughout the flight
 - If approaching a boundary: turn back before reaching it; do not wait until the limit is reached
 
@@ -103,10 +104,10 @@ Equipment required: Local VTC/VTC, whiteboard, NAIPS access \
 
 ,ground_tasks:[
 #text(size:12pt)[*Student plans and briefs the complete flight:*]
-- NAIPS: TAF/GAF and GPWT obtained and interpreted; conditions assessed; brief presented to instructor
+- NAIPS: TAF/GAF/GPWT obtained and interpreted; conditions assessed; brief presented to instructor
 - BOM radar checked as supplemental
 - NOTAMs: checked; any relevant activity in or near the training area?
-- VTC: training area boundaries identified and noted; any airspace limits for today?
+- VTC: training area boundaries identified and noted; any airspace or SUA limits for today?
 - Route brief: departure procedure, track to training area, operations, return track, overhead join procedure, fuel required on board
 - Maintenance release: reviewed and briefed to instructor
 
@@ -118,7 +119,7 @@ Equipment required: Local VTC/VTC, whiteboard, NAIPS access \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Observer/PIC Phase — Complete Flight*]
-Student operates as PIC throughout. Instructor is observer until new content is presented
+Student operates as PIC throughout. Instructor is observer until new content (such as new radio calls or IOR procedures) is presented
 
 _Departure:_
 - All startup, taxi, runup, radio calls from engine start without prompting
@@ -132,13 +133,13 @@ _Training area:_
 - Alerted see-and-avoid: verbalise traffic picture from radio calls and visual scan
 
 _Inbound — Overhead Join:_
-- Inbound call at 5–10 NM; position, altitude, intentions
+- Inbound call at 5–10 NM; position, altitude, intentions, with instructor guidance
 - Overfly at recommended 2000 ft AGL (500 above circuit minimum); confirm runway in use from windsock and circuit traffic before descending
 - Position on non-active side; make radio call only if required
 - Descend to circuit height; cross upwind threshold at circuit height
 - BUMPFISH early; complete circuit; touch and go, repeat
 
-_Inbount - Other Joins:_
+_Inbound - Other Joins:_
 - Inbount call; determine runway in use ahead of time
 - Descend to 1000 AGL well ahead of circuit join
 - Join onto chosen leg; sequence with existing traffic; radio call
@@ -157,7 +158,7 @@ If time permits, the student departs and rejoins
 ,post_flight:[
 - *Student Leads Debrief* (10 min): Student reviews the departure and join step by step against the AC91-10 procedure; identifies what was correct and what was not.
 - *Instructor Supplements* (5 min): Adds any observations; notes radio performance as a development item (not a formal assessment); reinforces lookout priority in the overhead join.
-- *Scenario Reflection* (5 min): "If you arrived overhead and there were three aircraft in the circuit with a tailwind, walk me through exactly how you would proceed."
+- *Scenario Reflection* (5 min): "Let's say you arrived overhead and there were three aircraft in the circuit with a tailwind. Walk me through exactly how you would proceed."
 - *Next Steps*: Assign homework. The departure and join will be repeated on every subsequent Phase 4 lesson and solo flight.
 ]
 

@@ -14,24 +14,24 @@ Manage simulated engine failures and system abnormalities in the circuit, making
 ]
 
 ,overview: [
-Stage C3 introduces circuit emergency procedures before first solo. Engine failure after takeoff (EFATO), engine failure in circuit (EFIC), flapless approach, partial power failure, and occupied runway scenarios are all covered. Sideslipping as a technique for glide path management is introduced in the context of EFIC — it provides the student with a tool to steepen the approach and dissipate excess height without adding distance. The v8 syllabus requires circuit emergency competency to be demonstrated on two separate flights. These two flights may include the solo authorisation assessment flight — the second demonstration of emergency standard may occur on the same flight that solo is approved. The student now leads the weather and NOTAM check independently, with the instructor reviewing the maintenance release and student briefing any items found.
+Stage C3 introduces circuit emergency procedures before first solo. Engine failure after takeoff (EFATO), engine failure in circuit (EFIC), flapless approach, partial power failure, and occupied runway scenarios are all covered. Sideslipping as a technique for glide path management is introduced in the context of EFIC — it provides the student with a tool to steepen the approach and dissipate excess height without adding airspeed. The v8 syllabus requires circuit emergency competency to be demonstrated on two separate flights. These two flights may include the solo authorisation assessment flight — the second demonstration of emergency standard may occur on the same flight that solo is approved. The student now leads the weather and NOTAM check independently, with the instructor reviewing the maintenance release and student briefing any items found.
 ]
 
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
-- State the rejected takeoff decision point and immediate actions: throttle closed, brakes, maintain centreline
+- Explain the purpose of the pre-takeoff safety brief in relation to emergency planning
+- State the rejected takeoff decision point and immediate actions: throttle closed, brakes, rearward elevator maintain centreline
 - Recall the EFATO procedure: lower nose, close throttle, land ahead, no turn-back
 - Explain the decision-making process for EFIC at each circuit position
 - Describe the flapless approach: higher approach speed, shallower angle, less forward visibility, float risk
 - Explain partial power failure: symptoms, continuation or landing decision
 - Describe the occupied runway procedure: go-around, radio call
-- Explain the purpose of the pre-takeoff safety brief in relation to emergency planning
 - Explain the side-slip: when to use it, how to enter and exit, effect on approach path and airspeed
 - Explain management of undercarriage or tyre problems: symptoms, indications, landing precautions
 - Describe actions in the event of animal hazards: go-around is always acceptable; do not attempt to land if the runway is uncertain
 
 #text(size:12pt)[*Skills*]
-- Exceute a rejected takeoff safely: brakes and throttle controlled effectively, without confusion; centreline; maintained; emergency actions are started
+- Exceute a rejected takeoff safely: brakes and throttle controlled effectively, without confusion; centreline maintained
 - Execute EFATO procedure safely: lower nose, close throttle, land ahead — do not turn back; MAYDAY if able
 - Manage EFIC from each circuit position: select appropriate landing runway; configure appropriately; execute; use sideslip to manage excess height if required
 - Conduct a flapless circuit and landing: correct airspeed (+5 kts), adjusted circuit profile, correct landing technique
@@ -53,7 +53,7 @@ Total time: 40 minutes \
 Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
-- [TEM] Aviate — Navigate — Communicate under emergency: fly the aircraft first, land it; communicate when time permits
+- [TEM] Aviate — Navigate — Communicate under emergency: fly the aircraft first, land it; communicate if time permits
 - [SA] Pre-brief landing options before every takeoff and at every circuit position — the plan must exist before the emergency occurs
 - [HF] Startle response in engine failure: the instinct is to freeze or pull back — trained immediate actions must override this; discuss and prepare before flight
 
@@ -67,7 +67,7 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - Landing area: anything ahead within the windscreen; do not turn back — a low-level turn back to the runway is too risky
 - Flap: use only if landing area is assured and altitude permits
 - MAYDAY: when time permits — transmit on Centre ideally, but CTAF if insufficient time
-- The pre-takeoff safety brief defines the plan before every takeoff — update it for today's specific runway and conditions
+- The pre-takeoff safety brief defines the plan before every takeoff — for today's specific runway and conditions
 
 *Engine Failure in Circuit — EFIC — by position* (10 minutes)
 - During climb before crosswind: EFATO procedure applies
@@ -80,12 +80,11 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - Key principle: use altitude efficiently — every moment of hesitation costs height
 
 *Sideslipping for Approach Management* (5 minutes)
-- What it is: coordinated use of aileron and opposite rudder to steepen the approach angle without increasing airspeed
+- What it is: uncoordinated use of aileron and opposite rudder to steepen the approach angle without increasing airspeed
 - When to use: high energy profile on EFIC or flapless final when other options are exhausted; last resort to avoid overrunning
 - How to enter: apply aileron toward intended slip direction; apply opposite rudder to prevent the aircraft turning; nose drops and rate/angle of descent increases
 - Airspeed: nose down attitue must be maintained — monitor closely as sideslip reduces airspeed indication accuracy; reference attitude
-- How to exit: roll level, then slowly release rudder input as needed; aircraft returns to coordinated flight; round out normally
-- Limitation: do not use sideslip in place of good planning; it is a tool, not a primary technique
+- How to exit: roll level, while slowly reducing rudder input as needed; aircraft returns to coordinated flight; round out normally
 
 *Partial Power Failure* (2 minutes)
 - If power is unreliable: treat as EFIC from current position; do not attempt to restore power at the expense of aircraft control. Land straight ahead.
@@ -129,10 +128,10 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 #text(size:12pt)[*Student Practice*]
 - Instructor calls "stop, stop, stop" during takeoff: student executes RTO procedure; in subsequent takeoffs call "I smell smoke", or "something dropped on my feet" or other ambiguous statement, student should execute RTO
 - *NOTE:* maximum 2 RTO procedures in a row before 15 minute brake cooldown
-- EFATO simulation: instructor initiates at a pre-briefed point ("engine failure"); student executes immediate actions; selects landing area; patters decisions
-- EFIC from downwind: instructor simulates; student turns base immediately; configures; adjusts glide; uses sideslip if high
-- EFIC from base: instructor simulates; student assesses glide; configures; uses sideslip or field if needed
-- Sideslip practice: conducted on a normal circuit final before landing exercises — student enters and exits sideslip at safe height
+- EFATO simulation: instructor initiates at a pre-briefed point (calling "engine failure"); student executes immediate actions; selects landing area; announces next actions
+- EFIC from downwind: student turns toward final immediately; configures; adjusts glide; uses sideslip if high
+- EFIC from base: student assesses glide; configures; uses sideslip or considers field if needed
+- Sideslip practice: conducted on a normal circuit final — student enters and exits sideslip at safe height
 - Flapless circuit: instructor calls "assume flap failure on base"; conducts flapless approach; instructor can ask "any troubleshooting actions?"
 - Low level circuit: student conducts one low level circuit at approximately 500 ft AGL as a deteriorating weather scenario; assess circuit management differences at reduced height; fly neighbourly
 - Partial power failure: instructor reduces to partial power (without normal "engine failure" annuciation to simulate startle); student makes continuation decision or initiates EFIC/EFATO as appropriate
@@ -145,7 +144,6 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - *Not lowering the nose in EFATO*: Immediate action is attitude first — nose down, throttle closed.
 - *Delayed EFIC response*: The plan must exist before the emergency — pre-brief at each leg position before it happens.
 - *Sideslip entered too late or too low*: Sideslip must be entered with sufficient height to recover cleanly before the hold-off; never below 200 ft without runway assured.
-- *Using sideslip as a substitute for planning*: Sideslip is a last resort; the correct response to a high approach is early recognition and correction.
 - *Flapless hold-off too aggressive*: Aircraft floats with extra speed; hold attitude; do not haul back; go-around if runway is running short.
 ]
 

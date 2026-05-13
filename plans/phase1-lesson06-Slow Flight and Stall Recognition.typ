@@ -14,7 +14,7 @@ Identify the symptoms of an impending stall in a range of configurations and exe
 ]
 
 ,overview: [
-Stall awareness is a prerequisite for safe circuit operations — every approach and landing involves flight close to minimum control speed. This lesson is therefore placed before circuit training begins. The student learns to configure and manage the aircraft in slow flight, recognise progressive pre-stall symptoms across configurations, and execute correct recovery actions. The HASSELL check is introduced and will be used for all subsequent high-risk manoeuvre training. This lesson is the first of a paired element: Scenario Based Stalling (E10) in Phase 3 completes the two flight requirement for this element.
+Stall awareness is a prerequisite for safe circuit operations — every approach and landing involves flight close to minimum control speed. This lesson is therefore placed before circuit training begins not only to train the student in stall recognition and avoidance, but to prepare them for the landing manoeuvre. The student learns to configure and manage the aircraft in slow flight, recognise progressive pre-stall symptoms across configurations, and execute correct recovery actions. The HASSELL check is introduced and will be used for all subsequent high-risk manoeuvre training. This lesson is the first of a paired element: Scenario Based Stalling (E10) in Phase 3 completes the two flight requirement for this element.
 ]
 
 ,learning_outcomes: [
@@ -29,11 +29,11 @@ Stall awareness is a prerequisite for safe circuit operations — every approach
 - Explain why ailerons must not be used during a wing drop stall
 
 #text(size:12pt)[*Skills*]
+- Complete the HASSELL check before each stall practice sequence
 - Configure and maintain slow flight in straight and level
 - Maintain balance and trim effectively during slow flight
 - Identify pre-stall symptoms and apply timely recovery before the full stall develops
 - Execute an impending and developed stall recovery with acceptable height loss
-- Complete the HASSELL check before each stall practice sequence
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Minimum recovery height awareness; conduct HASSELL check
@@ -49,7 +49,7 @@ Stall awareness is a prerequisite for safe circuit operations — every approach
 
 ,ground_brief_topics: [
 Total time: 40 minutes \
-Equipment required: Aircraft model, access to slideshow, whiteboard \
+Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Threats: low altitude, uncoordinated stall entry, incorrect recovery; minimum recovery height (aircraft control is higher priority)
@@ -59,10 +59,10 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 
 *Aerodynamics of Slow Flight and Stalling* (15 minutes)
 - Four forces in slow flight; lift generated at high angles of attack
-- Critical angle of attack (~15°) exceeded - regardless of airspeed = stall
+- Critical angle of attack (~15°) exceeded, regardless of airspeed = stall
 - Stall speed and factors: weight; load factor; flap; power; CoG; wing contamination
 - Pre-stall symptoms in sequence: control position; decreasing airspeed; high nose attitude; decreasing control effectivness; control heaviness; stall warning; buffet
-- Stall: uncommanded pitch, roll, descent rate; control reversal
+- Stall: uncommanded pitch, possibly roll, descent rate; control reversal
 - Wing drop intro: one wing reaches critical angle first; ailerons worsen the roll — rudder to keep straight; rudder to stop roll when close to critical angle of attack
 
 *Slow Flight Configuration and Control* (10 minutes)
@@ -75,7 +75,7 @@ Equipment required: Aircraft model, access to slideshow, whiteboard \
 
 *Stall Recovery Sequence* (10 minutes)
 - Reduce angle of attack: relax backpressure, do not push aggressively
-- Apply full power: simultaneously, to minimise height loss
+- Apply full power: once unstalled, to minimise height loss
 - Wings level: use rudder to stop yaw/wing drop; ailerons neutral until unstalled
 - Recover to controlled flight: PA(C)T to transition back to climb (C = clean up or configuration)
 - Recovery at onset: earliest possible recognition = minimum height loss
@@ -127,7 +127,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 - *Over-controlling in slow flight*: Smooth, deliberate inputs only; excessive input causes oscillation.
 - *Overzealous recovery*: _Relax_ backpressure, rather than sharp nose-down input.
 - *Using ailerons on wing drop*: Rudder to control yaw; ailerons neutral until wing is unstalled.
-- *Flap limit not respected*: Smoothly but swiftly pitch nose to the horizon in an approach configuration stall.
+- *Flap limit not respected*: Smoothly but positively pitch nose to the horizon in an approach configuration stall.
 - *Losing LARI scan in slow flight*: The LARI scan continues in slow flight — attitude and reference are more critical.
 ]
 

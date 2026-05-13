@@ -87,7 +87,7 @@ Equipment required: Student training record, VNC, ERC-L \
 - Student applies HASSELL where required — non-negotiable solo
 - Student manages all area operations, airspace awareness, and radio calls independently
 
-#text(size:12pt)[*Dual Check Sorties — conducted at instructor's discretion*]
+#text(size:12pt)[*Dual Check flights — conducted at instructor's discretion*]
 - Instructor assesses C standard progress against each Phase 4 competency variable
 - Assessed elements: E9 (steep turns, spiral dive, slipping turn), E10 (scenario stalls), E14 (FLWOP, precautionary search), E15 (airspace management, dead reckoning), E16 (unusual attitudes, emergency actions)
 - Identify progress trajectory; set specific C standard targets for remaining solo sessions

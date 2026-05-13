@@ -63,7 +63,7 @@ Equipment required: Aircraft model, whiteboard — keep this brief; the lesson i
 *Non-Technical Skills for First Flight* (5 minutes)
 - [TEM] On the ground: other aircraft, taxiing threats; In the training area: traffic, airspace boundaries
 - [SA] Maintain awareness of traffic, maintain clear of cloud
-- [CRM] Control handover; "I have control/You have control/follow me through"
+- [CRM] Control handover; "I have control / You have control / follow me through"
 - [HF] Parallax error in both the instruments, and in the sight picture from the left seat
 ]
 
@@ -75,11 +75,11 @@ Equipment required: Aircraft model, whiteboard — keep this brief; the lesson i
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and confirm fitness to fly
-- Lead pre-flight inspection with instructor following; use POH checklist for every item
+- Lead pre-flight inspection with instructor following
 - Check documents folder; confirm all required documents present
 - Set QNH from ATIS/AWIS or airfield elevation
 - Complete the startup checklist under instructor guidance
-- Taxi the aircraft to the runup area under instructor guidance — student has hands and feet on controls; instructor monitors and assists as needed:
+- Taxi the aircraft to the runup area under instructor guidance — student has hands and feet on controls; instructor monitors and assists as needed
 ]
 
 ,in_flight_tasks:[
@@ -110,7 +110,7 @@ Student applies each control in turn. Do not over-prompt or assist on controls; 
 - *Power changes*: Advance to full; observe effects; return to cruise
 - *Trim*: Set for cruise; achieve hands-off level flight; change power and hold attitude; re-trim; confirm correct direction
 - *Flaps*: Deploy to first extension; observe pitch and power effects; retract; re-establish level flight
-- *Scenario*: "Using only the futher effects of the controls: 1. Pitch the nose up and down; 2. Roll left and right"
+- *Scenario*: "Using only the further effects of the controls: 1. Pitch the nose up and down; 2. Roll left and right"
 ]
 
 ,common_errors:[
@@ -123,7 +123,7 @@ Student applies each control in turn. Do not over-prompt or assist on controls; 
 ,post_flight:[
 - *Student Self-Assessment* (5 min): Student describes what they observed with each control; identifies which effect was most surprising or unclear.
 - *Instructor Feedback* (10 min):
-  - Evaluate control technique in the air: smooth?
+  - Evaluate control technique in the air: smooth, positive inputs, with correct control handover?
   - Review taxi technique: control position maintained? Speed appropriate?
   - Discuss one TEM threat identified during the flight.
   - Highlight: Stability will assist you in controlling the aircraft. Airspeed is controlled with pitch. Power produces yaw.

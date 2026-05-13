@@ -21,23 +21,24 @@ Stage C2A introduces the landing. The circuit structure and radio procedures est
 #text(size:12pt)[*Knowledge*]
 - Explain the visual cues used to manage the approach path: aiming point, aim point constancy, runway perspective
 - Describe the hold-off: when to initiate, how to judge height, technique through to touchdown
+- Describe the importance of an abort point - the point at which a go-around is conducted if landing attitude not achieved
 - Explain the effect of ground effect on the hold-off and landing
 - Explain the causes and corrections for common landing errors: balloon, bounce, float, PIO
 - Explain the touch-and-go procedure and reconfiguration required
 - Explain the effect of wind gradient on the approach and hold-off
-- Describe how to obtain and interpret a TAF from NAIPS
 
 #text(size:12pt)[*Skills*]
 - Fly a stabilised powered approach through the stable approach gate to a nominated aiming point
+- Establish a suitable abort point using a feature near the runway edge
 - Identify the hold-off initiation point and execute a smooth hold-off to touchdown
 - Maintain directional control throughout the landing rollout
 - Execute the touch-and-go procedure: reconfigure, full power, takeoff
 - Execute a go-around decisively from any point on approach or during the landing
-- Obtain a TAF from NAIPS and interpret wind, visibility, and cloud information
+- Obtain TAF/GAF/GPWT from NAIPS and interpret wind, visibility, and cloud information
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Monitor aiming point throughout approach; assess approach stability against the gate at 300 ft; recognise and act on deviations
-- [TEM] Identify an unstable approach as a go-around trigger; manage landing fixation; decide and act without hesitation
+- [TEM] Identify an unstable approach as a go-around trigger; identify abort point passage as go-around trigger; decide and act without hesitation
 - [HF] Manage visual illusions in landing: parallax, aerial perspective, depth perception; fatigue effects during extended circuit sessions
 - [CRM] Self-brief the landing intention and go-around decision point before turning final on every circuit
 ]
@@ -54,7 +55,7 @@ Equipment required: Runway diagram, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Stable approach gate — 300 ft, non-negotiable: if any criterion not met, go-around immediately; no justification required
-- [SA] Aiming point management: if the point moves in the windscreen, the approach path has changed; correct immediately
+- [TEM] Abort point selection and use: select a feature about 1/3 of runway distance past the aim point
 - [HF] Visual illusions: runway perspective, parallax from the left seat, depth perception; fatigue in extended sessions — recognise it and stop
 - [CRM] "Stable" call at 300 feet
 
@@ -64,20 +65,19 @@ Equipment required: Runway diagram, whiteboard \
 - Gate applies even when a successful landing appears likely — the habit must be unconditional
 
 *Landing Visual Cues and Approach Management* (15 minutes)
-- Aiming point: fixed point on runway; if it rises — too low, add power; if it drops — too high, reduce power
-- Aim point constancy: if the point moves, the path has changed; power is the primary correction
-- Approach attitude and airspeed: 70 kts, flap 2, 3000 RPM; power and attitude manages path
+- Aiming point: fixed point on runway; if it rises — too low, increase power; if it drops — too high, decrease power
+- Approach attitude and airspeed: 70 kts, flap 2, 3000 RPM (approx); power and attitude manages path; power adjustments as needed
 - Stabilised approach: airspeed correct, rate of descent correct, configuration correct, lined up — all by 300 ft AGL
 - Wind gradient: airspeed and lift reduce near the ground; add a few knots in gusty or windy conditions; be prepared for sudden sink on short final
 - Level attitude gate: level attitude (but still descending) should be achieved over the aiming point
-- Hold-off: maintain level attitude; progressive back pressure as aircraft decelerates; hold until correct touchdown attitude achieved
+- Hold-off: maintain level flight just above the runway; progressive back pressure as aircraft decelerates; until correct touchdown attitude achieved
 - Ground effect: increased lift close to ground; may cause float — do not force touchdown; go-around if float is prolonged
-- Touch-and-go: landing complete, reconfigure (flap up, trim), full power, takeoff; do not rush reconfiguration
+- Touch-and-go: landing complete, reconfigure (flap 1, trim), full power, takeoff; do not rush reconfiguration
 
 *Common Landing Errors* (10 minutes)
-- Balloon: excessive back pressure in hold-off; hold attitude and add power to go-around
+- Balloon: excessive back pressure in hold-off; establish recovery attitude and add power to go-around
 - Bounce: firm touchdown, airborne again; go-around; do not attempt to salvage a bounced landing
-- Float: excess speed; hold off until correct touchdown attitude; go-around if runway is running out
+- Float: excess airspeed; hold off until correct touchdown attitude; go-around if past abort point
 - PIO: relax inputs; establish slight nose-up attitude, full power; go-around
 ]
 
@@ -88,7 +88,7 @@ Equipment required: Runway diagram, whiteboard \
 - Check student's weather interpretation for completeness and correct understanding of conditions
 
 #text(size:12pt)[*Student*]
-- Access NAIPS with instructor guidance; obtain TAF for home aerodrome; brief to instructor: wind, visibility, cloud, validity period
+- Access NAIPS with instructor guidance; obtain TAF/GAF/GPWT for home aerodrome; brief to instructor: wind, visibility, cloud, validity period
 - Check BOM radar as supplemental; note any precipitation areas
 - Complete IMSAFE self-assessment and operations whiteboard
 - Lead pre-flight inspection independently; complete documentation
@@ -99,7 +99,7 @@ Equipment required: Runway diagram, whiteboard \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Demonstration*]
-- Instructor demonstrates one full circuit including powered approach, landing, and touch-and-go; narrate visual cues and gate assessment throughout
+- Instructor demonstrates one full circuit including powered approach, landing, and touch-and-go; narrate visual cues and gate/abort point assessment throughout
 - Demonstrate landing sequence on a normal touch-and-go landing, with the student following through on controls
 
 #text(size:12pt)[*Student Practice*]
@@ -108,7 +108,7 @@ Equipment required: Runway diagram, whiteboard \
 - Gate assessment at 300 ft: student verbalises assessment every circuit; go-around if not met
 - Hold-off: identify initiation point; progressive back pressure; hold off; touchdown
 - Touch-and-go: reconfigure without prompting; full power; takeoff
-- Go-around: minimum one per session initiated by student independently; additional as required by gate
+- Go-around: minimum one per session initiated by student independently; additional as required by gate or abort point
 - Progressive sessions: instructor involvement reduces across sessions as student approaches independence
 ]
 
@@ -117,8 +117,8 @@ Equipment required: Runway diagram, whiteboard \
 - *Hold-off too early*: Balloon results; use a consistent visual trigger for initiation then shift focus towards the far end of the runway.
 - *Hold-off too late*: Firm arrival; progressive back pressure rather than hauling back; go-around if approaching hard contact with poor attitude.
 - *Not going around on bounce or balloon*: A go-around is always the correct response.
-- *Touch-and-go rushed*: Set flap before advancing power; reconfiguration must be complete.
-- *Directional control*: Look to the far end of the runway; feet steer the nosewheel, not the hands.
+- *Touch-and-go rushed*: Set flap before advancing power.
+- *Directional control*: Look to the far end of the runway; feet steer the nosewheel/rudder, not the hands.
 - *Overriding the gate*: If the gate is not met at 300 ft, the go-around is mandatory.
 ]
 
