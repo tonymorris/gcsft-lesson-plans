@@ -101,7 +101,7 @@ Crossind *>8 knots* = Do not solo. ❌ Move to Phase 3. Return when conditions a
 ]
 
 ,safety:[
-- *Weather*: Conditions must meet BASIC minima at the time of solo departure; if conditions deteriorate, solo is cancelled and rebooked
+- *Weather*: Conditions must meet BASIC minima at the time of solo departure; if conditions deteriorate, solo is cancelled and rebooked. Zero wind conditions may induce excessive floating. This risk should be assessed during dual portion of the lesson, especially if using a shorter runway. Emphasis on abort point discipline.
 - *Emergency Procedures*: Student must verbally state EFATO plan and radio failure procedure to instructor before flight
 - *TEM*:
   - Instructor to observe entire first solo from a position with clear view of circuit and runway
