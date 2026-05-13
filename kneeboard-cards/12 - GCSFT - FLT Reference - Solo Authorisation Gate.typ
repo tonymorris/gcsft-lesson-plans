@@ -58,10 +58,11 @@
   ),
 
   standards: [
-    All Condition 1 (and Condition 2 if applicable) checklist items must be ticked and confirmed in the training record before solo is authorised. *Do not authorise if any doubt exists — there is no time pressure.*
+    All BASIC (and CROSSWIND if applicable) checklist items must be ticked and confirmed in the training record before solo is authorised. *Do not authorise if any doubt exists — there is no time pressure.*
   ],
 
   safety: [
+    Zero wind days may pose an issue with floating past abort point - assess student in this regard during dual portion of the lesson. Emphasis on abort point discipline.
     Instructor *must* be able to observe entire first solo with clear view of circuit and runway · Radio available on CTAF throughout · Have a clear plan for intervention if student deviates significantly · Conditions must still meet minima at time of departure — cancel and rebook if conditions deteriorate after authorisation
   ],
 )
