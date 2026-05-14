@@ -37,7 +37,7 @@
 
 // ── P/S/C/NC pill badges ───────────────────────────────────
 #let badge(label, col) = box(
-  fill: col, inset: (x: 5pt, y: 2pt), radius: 10pt,
+  fill: col, inset: (x: 5pt, y: 2pt), radius: 3pt,
   [#text(fill: white, size: 7pt, weight: "bold")[#label]]
 )
 
@@ -74,7 +74,7 @@
     ]
   )
 
-  set text(font: "Barlow", size: 7.5pt)
+  set text(font: "Barlow", size: 8pt)
 
   // ── HEADER BAR ──────────────────────────────────────────
   place(float: false, top, dx: -1cm, dy: -0.6cm,
@@ -117,7 +117,8 @@
         align(top)[#b],
         {
           set text(size: 7.5pt)
-          show strong: set text(fill: crimson, weight: "bold")
+          show strong: set text(size: 9pt, fill: crimson)
+          show emph: set text(fill: crimson, weight: "bold")
           item.content
         },
         align(top + right)[#cbox]
@@ -128,7 +129,7 @@
         v(1pt)
       }
     }
-    v(5pt)
+    v(3pt)
     if break_after("sequence") { pagebreak() }
   }
 
@@ -137,7 +138,7 @@
     section[Common Errors]
     v(1pt)
     tight(card.errors)
-    v(5pt)
+    v(3pt)
     if break_after("errors") { pagebreak() }
   }
 
@@ -165,12 +166,13 @@
   if "standards" in card {
     section[Standards for Progression]
     v(1pt)
-    grid(columns: (auto, 1fr), gutter: 8pt,
+    grid(columns: (auto, 1fr), gutter: 15pt,
       align(top)[
-        #stack(dir: ltr, spacing: 4pt,
-          badge("P", rgb("2563eb")), badge("S", rgb("16a34a")),
-          badge("C", rgb("d97706")), badge("NC", rgb("dc2626")),
+        #stack(dir: ltr, spacing: 3pt,
+          badge("P", rgb("2563eb")), badge("S", rgb("d97706"))
         )
+        #stack(dir: ltr, spacing: 3pt,
+          badge("C", rgb("16a34a")), badge("NC", rgb("dc2626")))
       ],
       tight(card.standards)
     )

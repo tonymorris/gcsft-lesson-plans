@@ -57,7 +57,7 @@ Equipment required: Aircraft model, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
 - [TEM] Scenarios that produce unusual attitudes: distraction, task overload, inadvertent cloud, spatial disorientation
-- [HF] Proprioceptive illusions: the body will tell the brain the aircraft is level when it is not; disorientation is genuine and rapid; trust instruments
+- [HF] Proprioceptive illusions: the body will tell the brain the aircraft is level when it is not; disorientation is genuine and rapid; always maintain visual flight conditions
 - [HF] Aviation Decision Making: a strategy to make effective decisions, and avoid making situations worse
 
 *Nose-High Unusual Attitude* (5 minutes)
@@ -70,12 +70,13 @@ Equipment required: Aircraft model, whiteboard \
 - Recognition: low pitch attitude, airspeed increasing, high rate of descent, tight bank
 - Recovery: close throttle, roll wings level with ailerons and rudder, ease back once wings are level — not before
 - Connection to E9: this is the spiral dive recovery; the procedure is identical
-- Do not apply backpressure before wings are level — this tightens the spiral and increases structural load
+- Do not apply backpressure before wings are level — this tightens the spiral and increases asymetrical structural load
 
 *In-Flight Fire* (5 minutes)
-- Engine fire: fuel selector off, mixture off, throttle closed, cabin heat off, land immediately
-- Cabin fire: identify source; CO2 extinguisher if available; vents as appropriate; land immediately
-- Smoke and fumes: ventilate cockpit; identify source; land as soon as practicable
+- Refer to POH for all procedures; cover the following procedures using the POH:
+- Engine fire/smoke
+- Cabin fire/smoke
+- Electrical fire/smoke
 
 *Aviation Decision Making* (10 minutes)
 - What is the procedure for new/novel situations? How does the pilot ensure they are not making the situation worse?

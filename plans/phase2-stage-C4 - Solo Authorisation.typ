@@ -71,6 +71,7 @@ Not applicable.
 
 _Regulatory requirements (RAAus FOM S2.06):_
 - ☐ Valid RAAus Student Pilot Certificate held
+- ☐ Age 15 years
 - ☐ Financial flying membership of RAAus current
 - ☐ Health declaration current (driver licence medical standard)
 - ☐ Pre-Solo Air Legislation Exam passed (minimum 80%)

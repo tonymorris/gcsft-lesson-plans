@@ -1,45 +1,35 @@
 #import "kneeboard_template.typ": *
-
 #let metadata = (
   title: "Straight and Level Flight",
   unit: "Phase 1 — Lesson 2 | E3",
   author: "C.Moroney",
 )
-
 #let card = (
-  //pagebreaks: ("errors",),
-  aim: [Fly constant direction and altitude at varying airspeeds and configurations using the PAT and LARI workcycles.],
-
+  aim: [Fly constant direction and altitude at varying airspeeds using the PAT and LARI workcycles.],
   sequence: (
-    (badge: "dp", content: [*QNH*: Set and verify altitude during taxi; student practices under guidance]),
-    (badge: "dp", content: [*E8 Takeoff*: Instructor conducts takeoff and lift-off; student takes control during initial climb — maintain climbout heading on reference point]),
-    (badge: "dp", content: [*S&L cruise*: Establish with PAT; maintain *without* instruments; student establishes and holds attitude without looking at instruments]),
-    (badge: "dp", content: [*Deviation and correction*: Instructor induces deviations in pitch, roll, and power; demonstrate return to S&L; student corrects back independently]),
-    (badge: "dp", content: [*LARI introduced*: Demonstrate PAT → LARI scan transition; student applies LARI to maintain heading ±5° on distant reference]),
-    (badge: "p",  content: [*Level flight*: Maintain ±150 ft; crosscheck altimeter]),
-    (badge: "dp", content: [*Coordination*: Demonstrate ball movement and rudder correction; student maintains ball ±1/4 width — "squeeze the ball"]),
-    (badge: "dp", content: [*Slow cruise*: Transition using PAT; maintain with LARI; student practices transition and maintenance]),
+    (badge: "d", content: [*QNH*: Set during taxi using ATIS/AWIS or airfield elevation; student observes]),
+    (badge: "dp", content: [*E8*: Instructor TO/liftoff; student takes control in initial climb — maintain heading on reference]),
+    (badge: "dp", content: [*S&L cruise*: *PAT* to establish; hold attitude _without instruments_; student practices]),
+    (badge: "dp", content: [*Deviation/correction*: Instructor induces pitch/roll/power deviations; student corrects]),
+    (badge: "dp", content: [*LARI*: Introduce PAT -> LARI transition; same deviation/correction sequence, just use LARI after each]),
+    (badge: "p",  content: [*Level flight*: Maintain ±150 ft; use LARI to maintain]),
+    (badge: "dp", content: [*Coordination*: Demo ball movement and rudder correction; student maintains ball ±1/4 width]),
+    (badge: "dp", content: [*Slow cruise*: PAT to transition; LARI to maintain; student practices]),
     (badge: "p",  content: [*Deviation correction*: Recognise and correct within 15 s]),
-    (badge: "p",  content: [*Scenario*: "Cruise on heading 2 min → slow cruise 2 min → resume cruise; maintain alt throughout"]),
+    (badge: "p",  content: [*Scenario*: Cruise hdg 2 min -> slow cruise 2 min -> resume cruise]),
   ),
-
   errors: [
-    - *Chasing instruments* → Prioritise horizon attitude; glance to confirm
-    - *Wrong trim direction* → Pushing = finger trims down; pulling = thumb trims up
-    - *Uncoordinated flight* → Rudder with aileron — "squeeze the ball"
-    - *Poor lookout* → Reinforce LARI; Lookout is the *first* step
-    - *Incorrect QNH* → Verify subscale against aerodrome elevation or AWIS
+    - *Chasing instruments* -> Horizon first; instruments confirm
+    - *Wrong trim direction* -> Pushing = finger down; pulling = thumb up
+    - *Uncoordinated* -> "Squeeze the ball" — rudder with aileron
+    - *Poor lookout* -> LARI — Lookout is the *first* step
   ],
-
   standards: [
-    *Progressing (P):* Hdg ±15°, alt ±300 ft; trim in correct direction; LARI with reminders \
-    *Solo (S):* Hdg ±5°, alt ±150 ft, ASI ±10 kt; QNH with guidance; ball ±1/4 with prompting \
-    *Outcome:* Record P, S, C or NC with comments
+    *Progressing (P):* Hdg ±15°, alt ±300 ft; trim correct direction with reminders \
+    *Solo (S):* Hdg ±5°, alt ±150 ft, ASI ±10 kt; QNH with guidance; ball ±1/4 with prompting
   ],
-
   safety: [
-    Manoeuvres *above 1500 ft AGL* · Ceiling >2000 ft, wind \<25 kt · Monitor fixation on instruments at expense of lookout
+    Exercises *above 1500 ft AGL* · Ceiling >2000 ft, wind \<25 kt
   ],
 )
-
 #show: body => kneeboard(metadata, card, body)

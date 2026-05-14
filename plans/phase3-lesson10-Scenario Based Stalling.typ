@@ -70,6 +70,7 @@ Equipment required: Aircraft model, whiteboard \
 
 *Scenario 1 — Stall in a Turn (Base-to-Final)* (5 minutes)
 - Context: rushed base-to-final; overshooting; tightening the turn; adding backpressure in a 30–45° banked turn
+- Inside rudder: adding inside rudder to "increase" rate of turn; leads to skidding turn
 - Inner wing stalls first (higher AoA); wing drops toward the inside of the turn; instinct to apply aileron worsens it
 - Recovery: relax backpressure; rudder to stop roll; ailerons neutral until wings unstall; recovery from unusual attitude
 - Below 500 ft — recovery is very unlikely; this is usually fatal

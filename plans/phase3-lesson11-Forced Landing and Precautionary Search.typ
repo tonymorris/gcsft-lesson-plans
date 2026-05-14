@@ -198,7 +198,7 @@ Student conducts return transit, area radio calls, overhead join, and landing in
 #text(size:12pt)[*Solo Standard (S) — required for area solo; two separate flights*]
 - *ABC checks*: Executes all steps in correct order from memory without prompting; content of each step correct
 - *A step*: Glide attitude achieved within 5 seconds; best glide speed ±5 kts
-- *B step*: Field selected and 6-S criteria assessed independently; aim point correctly at one-third
+- *B step*: Field selected and 6-S criteria assessed independently; aim point correctly at one-third; key points selected
 - *C step*: FAST checks completed from memory without prompting
 - *D step*: MAYDAY transmitted with correct format and position without prompting
 - *E step*: Passenger brief delivered correctly without prompting
@@ -222,6 +222,7 @@ Student conducts return transit, area radio calls, overhead join, and landing in
 - *Emergency Procedures*: Go-around height confirmed; student confirms understanding
 - *TEM*:
   - *Do not* operate the aircraft in such a way that a real engine failure puts the flight in jeapody. If the exercise is being conducted to the only available field, and the glide is being mismanaged, go around
+  - Clear engine every 1000 feet in the descent and monitor engine temperatures; do not add full power to cold engine
   - Precautionary search passes: 300 ft AGL pass is to be conducted at an aerodrome only
   - Monitor for spatial disorientation during low, slow passes in precautionary search
   - Maintain SA regarding other training area traffic throughout

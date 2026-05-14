@@ -14,7 +14,7 @@ Climb the aircraft at various rates and angles to a predetermined altitude, whil
 ]
 
 ,overview: [
-The student builds on straight and level skills to enter, maintain, and level off from climbs at varying rates and angles. These include best rate (Vy) and best angle (Vx) climbs. This lesson continues the theme of attitude flying, and shows the student that _any_ performance is achieved with attitude and power combination. The PAT workcycle is used for climb entry; APT for level-off. The student begins managing climb performance, engine parameters, and lookout during extended climbs. E8 progression continues: the instructor handles the ground roll and lift-off; the student manages the initial climb, climbout attitude, and after-takeoff checks.
+The student builds on straight and level skills to enter, maintain, and level off from climbs at varying rates and angles. These include best rate (Vy) and best angle (Vx) climbs. This lesson continues the theme of attitude flying, and shows the student that _any_ performance is achieved with attitude and power combination. The PAT workcycle is used for climb entry; APT for level-off. The student begins managing climb performance, engine parameters, and lookout during extended climbs. E8 progression continues: the instructor handles the ground roll and lift-off; the student manages the initial climb.
 ]
 
 ,learning_outcomes: [
@@ -32,13 +32,11 @@ The student builds on straight and level skills to enter, maintain, and level of
 - Lower nose every 500 ft and complete a clearing lookout
 - Level off at a nominated altitude using the APT workcycle with correct anticipation
 - Manage flap configuration and observe effect on climb performance
-- Complete after-takeoff checks during climbout
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Visual limitations in climb — high nose attitude restricts forward visibility
 - [TEM] Engine overheat risk during prolonged climbs; terrain awareness and airspace ceiling
 - [HF] Ear pressure awareness; report any discomfort immediately
-- [CRM] Complete after-takeoff checks
 ]
 
 ,theory_knowledge: [
@@ -94,7 +92,7 @@ Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*E8 Takeoff Progression — Lesson 3*]
-Instructor conducts ground roll and rotation. Student takes control immediately after lift-off, maintains climbout attitude and heading toward a reference point, and completes after-takeoff checks. Instructor monitors throughout.
+Instructor conducts ground roll and lift-off. Student takes control immediately after lift-off, maintains climbout attitude and heading toward a reference point. Instructor monitors throughout.
 
 #text(size:12pt)[*Demonstration*]
 - Vy climb: full power, set attitude, trim, maintain Vy (±5 kts), hold heading ±5°
@@ -109,7 +107,6 @@ Instructor conducts ground roll and rotation. Student takes control immediately 
 - Level-off from Vy: apply APT; aim for ±100 ft of nominated altitude
 - Vx climb: demonstrate understanding of difference from Vy
 - Deviation correction: recognise ±10 kts airspeed or ±10° heading; correct with LARI
-- After-takeoff checks: student completes checklist during climbout without instructor prompting
 ]
 
 ,common_errors:[
@@ -144,7 +141,7 @@ Instructor conducts ground roll and rotation. Student takes control immediately 
 - *Level-off*: Achieves nominated altitude ±150 ft (S) using PAT/APT workcycle
 - *Lookout*: Lowers nose every 500 ft without prompting after first reminder
 - *Coordination*: Ball ±1/4 width during climb and level-off
-- *E8 progression*: Manages aircraft confidently from immediately after rotation through climbout and after-takeoff checks
+- *E8 progression*: Manages aircraft confidently from immediately after lift-off through climbout
 - *Knowledge*: Explains Vy vs Vx and when to use each with minor prompting
 - *Outcome*: Recorded in student records (P, S, C, or NC) with comments.
 ]
