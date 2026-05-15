@@ -7,7 +7,7 @@
 #let card = (
   aim: [Turn to a preselected heading at a predetermined angle of bank, maintaining altitude and balance.],
   sequence: (
-    (badge: "p",  content: [*E8*: Student with minimal prompting; pre-takeoff brief initiated independently]),
+    (badge: "p",  content: [*E8 Takeoff*: Student with minimal prompting; pre-takeoff brief initiated independently]),
     (badge: "d",  content: [*Parallax*: Show horizon difference L vs R turn]),
     (badge: "p",  content: [*Slow flight*: Student establishes slow flight using PAT -> LARI]),
     (badge: "d",  content: [*Adverse yaw*: Aileron alone — show yaw opposite to aileron input (more effective in slow flight)]),

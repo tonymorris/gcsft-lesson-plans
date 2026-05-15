@@ -8,7 +8,7 @@
   aim: [Climb at various rates and angles to a predetermined altitude while maintaining balance.],
   sequence: (
     (badge: "p",  content: [*QNH*: Set and verify]),
-    (badge: "dp", content: [*E8*: Instructor ground roll/lift-off; student takes control after lift-off — maintain climbout attitude and heading]),
+    (badge: "dp", content: [*E8 Takeoff*: Instructor ground roll/lift-off; student takes control after lift-off — maintain climbout attitude and heading]),
     (badge: "dp", content: [*Vy climb*: _PAT_ to establish; Vy ±5 kt, hdg ±5°; student practices; _Nose down + lookout every 500 feet_]),
     (badge: "dp", content: [*Level-off from Vy*: APT — anticipate ~50 ft (10% ROC); student aims for ±100 ft]),
     (badge: "p",  content: [*Short Straight and Level practice*: S&L ±150 kt, hdg ±10° -> LARI. Correct deviations with PAT -> LARI]),

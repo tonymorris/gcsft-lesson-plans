@@ -99,7 +99,7 @@ Equipment required: Runway diagram, whiteboard \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Demonstration*]
-- Instructor demonstrates one full circuit including powered approach, landing, and touch-and-go; narrate visual cues and gate/abort point assessment throughout
+- Instructor demonstrates one full circuit including powered approach, landing, and touch-and-go; patter visual cues and gate/abort point assessment throughout
 - Demonstrate landing sequence on a normal touch-and-go landing, with the student following through on controls
 
 #text(size:12pt)[*Student Practice*]
@@ -128,7 +128,7 @@ Equipment required: Runway diagram, whiteboard \
   - Review each circuit and approach in sequence; was the gate met? Was the go-around decision proactive?
   - Note landing errors and provide a correction cue for the next session.
   - Assess trajectory: is consistency improving across circuits within the session?
-- *Weather debrief* (2 min): Was TAF interpretation correct? Did conditions match the forecast?
+- *Weather debrief* (2 min): Was TAF/GAF/GPWT interpretation correct? Did conditions match the forecast?
 - *Next Steps*: Record standard against C2A criteria. P — continue C2A. Consistently at S on two separate flights — advance to C3.
 ]
 
@@ -137,12 +137,12 @@ Equipment required: Runway diagram, whiteboard \
 
 #text(size:12pt)[*Progressing (P) — continue C2A sessions*]
 - *Gate assessment*: Gate assessed at 300 ft with occasional prompting; go-around initiated when gate not met
-- *Approach*: Airspeed +10/−5 kts; aiming point tracked with occasional correction; stabilised by 400 ft AGL most circuits
+- *Approach*: Airspeed +10/−5 kts; aiming point tracked with occasional correction; stabilised by 300 ft AGL most circuits
 - *Landing*: Hold-off initiated in correct zone; touchdown within −50/+250 m of aiming point; directional control maintained
 - *Touch-and-go*: Reconfiguration complete before power with occasional reminder or assistance
 - *Go-around*: Procedure correct when initiated; decision may require prompting
 - *Circuit profile*: Height ±150 ft; BUMPFISH completed each circuit; radio calls correct
-- *Weather*: TAF obtained with instructor guidance; interpretation mostly correct
+- *Weather*: TAF/GAF/GPWT obtained with instructor guidance; interpretation mostly correct
 
 #text(size:12pt)[*Solo Standard (S) — required before solo authorisation; two separate flights*]
 - *Gate assessment*: All four criteria assessed at 300 ft every approach; go-around initiated proactively without prompting when gate not met
@@ -151,19 +151,19 @@ Equipment required: Runway diagram, whiteboard \
 - *Touch-and-go*: Reconfiguration completed correctly and independently every circuit
 - *Go-around*: Initiated proactively at gate without prompting; full configuration management
 - *Circuit profile*: Height ±100 ft; shape and spacing consistent; BUMPFISH without prompting; all radio calls correct
-- *Weather*: TAF obtained and interpreted from NAIPS with minor guidance; conditions correctly assessed
+- *Weather*: TAF/GAF/GPWT obtained and interpreted from NAIPS with minor guidance; conditions correctly assessed
 
 - *Outcome*: Recorded as P, S, or NC per session with specific comments. Progress tracked across sessions.
 ]
 
 ,safety:[
 - *Weather*: Ceiling >1500 ft AGL; surface wind \<15 knots; crosswind \<5 knots; visibility >5 km
-- *Altitude*: Strict circuit height 1000 ft AGL; maximum 30° AoB on base-to-final turn
+- *Altitude*: Circuit height 1000 ft AGL
 - *Emergency Procedures*: EFATO brief before each takeoff; student briefs EFATO plan before lining up
 - *TEM*:
   - The landing is the highest-risk phase for ab-initio students — maintain alert monitoring throughout approach and landing
   - Take control immediately if approach becomes unstable below 200 ft
-  - Limit sessions to 7–10 circuits; monitor student fatigue
+  - Monitor student fatigue
   - Monitor for student fixation on runway at expense of lookout and traffic awareness
 ]
 

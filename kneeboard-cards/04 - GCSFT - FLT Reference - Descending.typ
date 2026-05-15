@@ -7,7 +7,7 @@
 #let card = (
   aim: [Descend in various configurations to a predetermined altitude; introduce full takeoff sequence (E8).],
   sequence: (
-    (badge: "p",  content: [*E8*: Student manages complete takeoff; instructor supervises; all turns by instructor]),
+    (badge: "p",  content: [*E8 Takeoff*: Student manages complete takeoff; instructor supervises; all turns by instructor]),
     (badge: "p",  content: [*Climb*: Student manages all climbs (Vx and Vy) to cruise altitude]),
     (badge: "dp", content: [*Powered descent*: 4000 RPM, ~90-100 kt; PAT; student practices]),
     (badge: "dp", content: [*Cruise descent*: _PAT_; 5000 RPM, ~105-110 kt; student practices]),

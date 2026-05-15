@@ -85,7 +85,7 @@ Equipment required: POH, performance charts, whiteboard \
 
 #text(size:12pt)[*Student*]
 - Complete performance calculation using POH; apply safety margins; brief calculated figures to instructor
-- Access NAIPS independently; obtain TAF; brief to instructor
+- Access NAIPS independently; obtain TAF/GAF/GPWT; brief to instructor
 - Check NOTAMs independently; brief to instructor
 - Review maintenance release independently; brief instructor on content and anything noted before instructor signs
 - Complete IMSAFE self-assessment and operations whiteboard

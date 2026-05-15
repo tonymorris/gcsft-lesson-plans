@@ -14,11 +14,11 @@
     (
       title: "Pre-Solo Self-Brief (Every Session)",
       content: [
-        - *NAIPS:* TAF, GAF, and GPWT obtained and interpreted; conditions suitable for flight duration?
+        - *NAIPS:* TAF/GAF/GPWT obtained and interpreted; conditions suitable for flight duration?
         - *BOM radar:* precipitation checked as supplemental
-        - *NOTAMs:* checked; restricted areas active? Any traffic?
+        - *NOTAMs:* checked; restricted areas active?
         - *Maintenance release:* reviewed; all items acceptable; anything to brief instructor?
-        - *EFATO plan:* where will I land if engine fails today?
+        - *EFATO plan:* briefed
         - *Radio failure plan:* what will I do if radio fails in the training area?
         - *HASSELL heights:* if conducting stalls or steep turns — note recovery heights
         - *Training area boundaries:* noted
@@ -51,11 +51,12 @@
     (
       title: "Minimum Requirements Before Phase 5",
       content: [
-        - ☐ Sufficient solo area experience for instructor confidence in all Phase 4 elements
+        - ☐ Sufficient experience/competency for instructor confidence in all Phase 4 elements
         - ☐ All Phase 4 elements at or approaching C standard on dual check
         - ☐ BAK exam passed (min 80%, KDR required)
         - ☐ Air Legislation exam passed (min 80%, KDR required)
         - ☐ Human Factors exam passed (min 80%, KDR required)
+        - ☐ Radio exam passed (min 80%, KDR required)
         - ☐ Total flight hours on track: minimum 20 hours total / 5 hours PIC before flight test
       ],
     ),

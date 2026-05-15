@@ -25,7 +25,7 @@ Stage C5 is the solo consolidation phase. Multiple supervised solo circuits are 
 
 #text(size:12pt)[*Skills*]
 - Fly solo circuits consistently with no instructor input
-- Manage all pre-flight administration independently: NAIPS TAF, NOTAMs, maintenance release review and brief
+- Manage all pre-flight administration independently: NAIPS TAF/GAF/GPWT, NOTAMs, maintenance release review and brief
 - Apply the stable approach gate every circuit solo
 - Apply BUMPFISH on every downwind leg solo
 - Fly circuits to progressively tighter tolerances approaching C standard on dual check flights
@@ -110,16 +110,16 @@ Equipment required: Student training record, progress checklist \
 - ☐ All E8, E11, E12 competency variables at or approaching C standard on dual check
 
 #text(size:12pt)[*Solo Standard (S) — minimum for solo operations*]
-- *Circuit*: Height ±100 ft; BUMPFISH complete; all radio calls correct; stable approach gate applied every approach
-- *Landing*: Aiming point ±50 m; directional control throughout; go-around at own initiative when gate not met
+- *Circuit*: Height generally ±100 ft; BUMPFISH complete; all radio calls correct; stable approach gate applied every approach
+- *Landing*: Touchdown point +250 m; directional control throughout; go-around at own initiative when gate/abort point not met
 - *Emergency handling*: EFATO and EFIC managed correctly; flapless landing competent
 - *Pre-flight admin*: All tasks completed independently
 
 #text(size:12pt)[*Certificate Standard (C) — target before Phase 3 entry*]
-- *Circuit*: Height ±75 ft; shape professional and consistent; BUMPFISH and radio automatic
-- *Landing*: Aiming point ±30 m; smooth and consistent hold-off; directional control; gate applied unconditionally
+- *Circuit*: Height ±75 ft; format professional and consistent; BUMPFISH and radio automatic
+- *Landing*: Touchdown point +150 m; smooth and consistent hold-off; directional control; gate/abort point applied unconditionally
 - *Go-around*: Proactive and timely; no negotiation with the gate criteria
-- *Pre-flight admin*: Fully independent; NAIPS TAF interpreted correctly; NOTAMs checked thoroughly; maintenance release reviewed completely and briefed clearly
+- *Pre-flight admin*: Fully independent; NAIPS TAF/GAF/GPWT interpreted correctly; NOTAMs checked thoroughly; maintenance release reviewed completely and briefed clearly
 
 - *Outcome*: Solo hours recorded in logbook and training record. Dual check results recorded per circuit. Phase 3 commences when minimum requirements are met.
 ]

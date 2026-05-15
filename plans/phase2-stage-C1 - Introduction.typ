@@ -86,14 +86,14 @@ Equipment required: Local circuit diagram, VTC/airspace diagram, whiteboard, dev
 - Go-around procedure: PA(C)T — power, attitude (on horizon), clean up, trim; re-join circuit; a go-around is a normal outcome — not a failure
 
 *NAIPS* (5 minutes)
-- NAIPS: TAFs, GAFs, GPWT charts; access via app or web; instructor demonstrates access and TAF/GAF format
+- NAIPS: TAFs, GAFs, GPWT charts; access via app or web; instructor demonstrates access and TAF/GAF/GPWT format
 - Forecast: TAF or GAF/GPWT; used to assess if conditions will remain suitable for the planned flight duration
 - BOM radar: supplemental visual tool to assess precipitation; not an official forecast source
 ]
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Access NAIPS; obtain TAF/GAF for home aerodrome and review with student, noting any hazards
+- Access NAIPS; obtain TAF/GAF/GPWT for home aerodrome and review with student, noting any hazards
 - Review maintenance release; walk student through each section; sign the release; explain what the student should look for in future lessons
 - Check NOTAMs; brief any relevant to circuit operations
 
@@ -108,8 +108,8 @@ Equipment required: Local circuit diagram, VTC/airspace diagram, whiteboard, dev
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Demonstration*]
-- Instructor flies first full circuit narrating every action, check, and radio call throughout
-- Narrate BUMPFISH check on downwind; stable approach gate assessment at 300 ft; go-around initiation if not stable, or at the threshold otherwise
+- Instructor flies first full circuit pattering every action, check, and radio call throughout
+- patter BUMPFISH check on downwind; stable approach gate assessment at 300 ft; go-around initiation if not stable, or at the threshold otherwise
 
 #text(size:12pt)[*Student Practice*]
 - All circuits flown by student from the second circuit onward; instructor monitors

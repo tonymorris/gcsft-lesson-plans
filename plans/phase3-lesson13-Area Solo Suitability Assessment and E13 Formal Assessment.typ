@@ -33,7 +33,7 @@ Total time: 25 minutes \
 Equipment required: Student training record, VNC, NAIPS access \
 
 *Student Plans and Briefs the Complete Flight* (20 minutes)
-- NAIPS: TAF obtained and interpreted; conditions assessed; brief presented to instructor
+- NAIPS: TAF/GAF/GPWT obtained and interpreted; conditions assessed; brief presented to instructor
 - NOTAMs: checked; relevant items identified
 - Maintenance release: reviewed; brief presented to instructor
 - ERSA: student briefs home aerodrome and nominated alternate aerodrome ERSA entries: elevation, CTAF frequency, circuit direction, runway length, relevant remarks

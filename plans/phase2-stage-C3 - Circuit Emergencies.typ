@@ -106,7 +106,7 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - Check student's weather brief; confirm conditions are suitable for emergency procedures training
 
 #text(size:12pt)[*Student*]
-- Access NAIPS independently; obtain TAF; brief to instructor
+- Access NAIPS independently; obtain TAF/GAF/GPWT; brief to instructor
 - Check NOTAMs independently; brief to instructor on any relevant items
 - Review maintenance release with instructor; brief any items of note before instructor signs
 - Complete IMSAFE self-assessment and operations whiteboard
@@ -187,7 +187,7 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 ,safety:[
 - *Weather*: Ceiling >1500 ft AGL; surface wind \<15 knots; crosswind \<5 knots; visibility >5 km. Good conditions are preferred, at least for the first session.
 - *Altitude*: All EFATO and EFIC simulations must have a pre-briefed go-around altitude — minimum 300 ft AGL for recovery, unless over the runway. No simulations directly overhead people or property.
-- *Sideslip*: Only practised at safe altitude during a normal circuit; never entered below 200 ft without runway assured; student's hand must remain available to apply power immediately
+- *Sideslip*: Only practised at safe altitude during a normal circuit; never entered below 100 ft without runway assured; student's hand must remain on the throttle to apply power immediately
 - *Emergency Procedures*: All simulated engine failures are clearly briefed beforehand; student confirms understanding before the simulation is initiated
 - *TEM*:
   - Monitor for genuine alarm or disorientation — take control, recover safely, debrief before continuing

@@ -135,7 +135,7 @@ Equipment required: Aircraft, aircraft model, access to electronic briefing, POH
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Access NAIPS; obtain GAF/GPWT/TAF for the home aerodrome; demonstrate to student: explain each element, wind, visibility, cloud, validity period
+- Access NAIPS; obtain TAF/GAF/GPWT for the home aerodrome; demonstrate to student: explain each element, wind, visibility, cloud, validity period
 - Create NAIPS account; on the students phone (if able) help them create a NAIPS account
 - Review maintenance release; walk student through each section; explain the purpose of each item; sign the release
 - Check airfield NOTAMs on the operations whiteboard; brief any relevant items to the student
@@ -144,7 +144,7 @@ Equipment required: Aircraft, aircraft model, access to electronic briefing, POH
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment verbally; confirm fitness to fly
-- Observe instructor obtaining and interpreting the GAF/GPWT/TAF
+- Observe instructor obtaining and interpreting the TAF/GAF/GPWT
 - Observe instructor reviewing the maintenance release; note which sections are completed by the pilot
 - Walk through the complete pre-flight inspection with the instructor; identify each item checked; ask about anything not understood
 - Locate and confirm all required documents are present in the aircraft folder

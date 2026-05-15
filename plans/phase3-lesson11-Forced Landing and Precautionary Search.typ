@@ -118,7 +118,7 @@ _F — Final_
 
 ,ground_tasks:[
 #text(size:12pt)[*Student briefs the instructor:*]
-- Student obtains NAIPS TAF; checks BOM radar; briefs conditions and suitability
+- Student obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability
 - Student checks NOTAMs; identifies any activity affecting training area fields
 - Student reviews maintenance release; briefs instructor
 - Student briefs the planned flight: departure, transit, forced landing training sequence including training go-around height, return, EFATO plan
@@ -140,10 +140,10 @@ Student operates as PIC. Instructor is an observer. Student conducts all ground 
 - Instructor calls "engine failure"; works through the complete ABC checks aloud from memory
 - A: glide attitude adopted; trim
 - B: field selected; aim point identified at one-third; high/low-key selected
-- C: FAST checks conducted; narrate each step
+- C: FAST checks conducted; patter each step
 - D: MAYDAY (simulated)
 - E: passenger brief delivered (simulated)
-- FLWOP circuit: fly to high-key then low-key; narrate height management; sideslip if high
+- FLWOP circuit: fly to high-key then low-key; patter height management; sideslip if high
 - F: demonstrated on short final (simulated)
 - Go-around at pre-briefed training height
 

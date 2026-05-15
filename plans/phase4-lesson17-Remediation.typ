@@ -47,7 +47,7 @@ Equipment required: Student training record, practice test debrief notes \
 
 ,ground_tasks:[
 #text(size:12pt)[*Student*]
-- Obtains NAIPS TAF; checks BOM radar; briefs conditions and suitability
+- Obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability
 - Checks NOTAMs; briefs relevant items
 - Reviews maintenance release; briefs instructor
 - Calculates weight and balance for today's loading

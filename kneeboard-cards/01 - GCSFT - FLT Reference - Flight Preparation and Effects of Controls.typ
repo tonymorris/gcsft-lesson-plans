@@ -10,7 +10,7 @@
   sequence: (
     (badge: "p",  content: [*Checklists*: Student performs checklist with instructor assistance; no checklists while moving]),
     (badge: "dp",  content: [*Taxi*: Instructor demos basic taxiing, including parallax; student practices]),
-    (badge: "d",  content: [*Takeoff*: Instructor conducts; student follows through on ground roll, lift-off, and initial climb]),
+    (badge: "d",  content: [*E8 Takeoff*: Instructor conducts; student follows through on ground roll, lift-off, and initial climb]),
     (badge: "d", content: [*Stability*: Demo during transit — aircraft returns to level; student notes positive pitch stability]),
     (badge: "d", content: [*Parallax*: Demonstrate horizon picture in left and right 30° bank]),
     (badge: "dp", content: [*Elevator*: ±10° pitch — airspeed/RPM changes; _EMPHASISE: pitch controls airspeed_; student practices]),

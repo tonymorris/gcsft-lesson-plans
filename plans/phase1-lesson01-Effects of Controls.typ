@@ -71,7 +71,7 @@ Equipment required: Aircraft model, whiteboard — keep this brief; the lesson i
 #text(size:12pt)[*Instructor*]
 - Review maintenance release with student; student identifies key items; instructor signs
 - Check NOTAMs; brief relevant items
-- Access NAIPS; student observes GAF/GPWT/TAF interpretation; notes major hazards
+- Access NAIPS; student observes TAF/GAF/GPWT interpretation; notes major hazards
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and confirm fitness to fly

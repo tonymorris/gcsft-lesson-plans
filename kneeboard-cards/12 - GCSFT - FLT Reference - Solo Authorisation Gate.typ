@@ -15,8 +15,9 @@
       title: "BASIC REQUIREMENTS — All Solo Flights",
       content: [
         - ☐ Valid RAAus Student Pilot Certificate held
+        - ☐ 15 years or older
         - ☐ Financial RAAus flying membership current
-        - ☐ Health declaration current (driver licence standard)
+        - ☐ Health declaration current
         - ☐ Pre-Solo Air Legislation Exam passed (min 80%)
         - ☐ E2–E7 all at S standard (Phase 1 gate recorded)
         - ☐ E8 (Take Off) at S standard
@@ -51,7 +52,7 @@
         - EFATO plan for today's specific runway and conditions
         - Radio failure procedure from memory
         - Intended solo flight: circuit direction, radio calls planned, landing type
-        - Stable approach gate commitment
+        - Stable approach gate and abort point commitment
         - Maintenance release reviewed and briefed
       ],
     ),

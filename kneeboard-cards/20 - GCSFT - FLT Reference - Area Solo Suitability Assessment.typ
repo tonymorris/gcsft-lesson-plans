@@ -47,24 +47,24 @@
       title: "Area Solo Authorisation Requirements",
       content: [
         - ☐ E7 at S standard (Phase 1)
-        - ☐ E10 at S standard (L4.3)
-        - ☐ E14 at S standard on *two separate flights* — this flight may count as the second
-        - ☐ E15 at S standard (L4.1)
-        - ☐ E9 and E16 at S standard — manoeuvres managed safely
+        - ☐ E10 Scenario Based Stalling at S standard  (L4.3)
+        - ☐ E14 FLWOP at S standard on *two separate flights* — this flight may count as the second
+        - ☐ E15 IOR - at S standard (L4.1)
+        - ☐ E9 Adv Turn and E16 UA at S standard — manoeuvres managed safely
         - ☐ *E13 formal assessment: all variables at S or above*
         - ☐ Pre-Solo Air Legislation Exam passed
-        - ☐ Weather: xwind within solo limit · ceiling >2500 ft AGL · vis >8 km · no convective activity
+        - ☐ Weather: xwind within solo limit · ceiling >2500 ft AGL · vis >8 km · no convective activity, conditions expected stable for duration
       ],
     ),
   ),
 
   standards: [
-    *If all requirements met → Area solo authorised. Any NC items → address before area solo commences.* \
+    *If all requirements met → Area solo authorised. Any NC or P items → address before area solo commences.* \
     Assessment recorded as P, S, C or NC per element; E13 competency variables recorded S, C or NC separately.
   ],
 
   safety: [
-    Element-specific minima apply: ceiling *>3500 ft* for stalling, *>2500 ft* for other area exercises · Overhead join: monitor for traffic conflicts; ready to intervene · Radio failure simulation: do not actually turn off the radio · MAYDAY simulation: use pre-agreed training frequency only — not CTAF without CFI coordination
+    Element-specific minima apply: ceiling *>3500 ft* for stalling, *>2500 ft* for other area exercises
   ],
 )
 

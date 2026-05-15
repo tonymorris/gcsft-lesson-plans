@@ -18,6 +18,9 @@ The lesson plans are very verbose (wordy). And they done this way intentionally,
 - 08/05 - Added Lesson 00, Flight Preparation and Ground Operations. Adjusted lesson 1, EOC
 - 08/05 - Add configuration stall to the basic stalling lesson.
 - 13/05 - First draft of the kneeboard plans
+- 15/05 - Kneeboard plans made available for review
+- 15/05 - Several minor changes based on feedback
+- 15/05 - Spelling/grammar
 
 ## Training Structure/Competency Standards
 

@@ -7,14 +7,14 @@
 #let card = (
   aim: [Execute the ABCDEF sequence and FLWOP circuit from memory. Conduct a precautionary search.],
   sequence: (
-    (badge: "p",  content: [*Departure/transit*: Student as PIC; *scan for landing fields throughout every transit from this lesson onward*]),
-    (badge: "d",  content: [*ABCDEF demo*: Instructor calls "engine failure"; works through full sequence aloud — A, B, C, D, E, F; FLWOP circuit to high-key then low-key; sideslip if high; go-around at training height]),
+    (badge: "p",  content: [*Departure/transit*: Student as PIC; _scan for landing fields throughout every transit from this lesson onward_]),
+    (badge: "d",  content: [*ABCDEF demo*: Instructor calls "engine failure"; works through full sequence aloud — A, B, C, D, E, F; FLWOP circuit to high-key then low-key; sideslip if high; go-around at 500 ft]),
     (badge: "p",  content: [*ABCDEF — first 1-2 attempts*: Instructor assists recall if needed; student works through sequence]),
-    (badge: "p",  content: [*ABCDEF — subsequent attempts*: From memory; FLWOP circuit; go-around at briefed height — *never breach*]),
+    (badge: "p",  content: [*ABCDEF — subsequent attempts*: From memory; go-around at 500 ft — _never below_]),
     (badge: "p",  content: [*Precautionary search*: Student selects field; two inspection passes (1000 ft, 500 ft AGL); states landing/reject decision aloud with reasoning]),
-    (badge: "p",  content: [*Return*: Student as PIC; overhead join; landing independently]),
+    (badge: "p",  content: [*Return*: Student as PIC; join; land independently]),
   ),
-  right: (
+  centre: (
     (
       title: "ABCDEF Quick Reference",
       content: [
@@ -26,22 +26,19 @@
         - *F — Final*: All switches off; *flap before master if electric flaps*
       ],
     ),
-    (
-      title: "Common Errors",
-      content: [
-        - *Delayed attitude* -> A is first; every second costs height
-        - *Checks before A and B* -> FAST only after field chosen and glide established
-        - *MAYDAY on CTAF* -> Centre first; CTAF if Centre not established
-        - *Too high on glide* -> Correct early; don't waste altitude
-      ],
-    ),
   ),
+  errors: [
+    - *Delayed attitude* -> A is first; every second costs height
+    - *Checks before A and B* -> FAST only after field chosen and glide established
+    - *MAYDAY on CTAF* -> Centre first; CTAF if Centre not established
+    - *Too high on glide* -> Correct early
+  ],
   standards: [
     *Two separate flights at S required before area solo.* \
     *Solo (S):* A within 5 s; ABCDEF from memory; MAYDAY correct; low-key 1000 ft; field made with margin; PSL heights correct
   ],
   safety: [
-    Training go-around height *minimum 500 ft AGL* — specified before flight; *never breach* · *Do not operate such that a real engine failure endangers the aircraft* · PSL 300 ft pass: aerodrome only
+    Training go-around height *minimum 500 ft AGL* — specified before flight; *never breach* · *Do not operate such that a real engine failure would endanger the aircraft* · PSL 300 ft pass: aerodrome only
   ],
 )
 #show: body => kneeboard(metadata, card, body)

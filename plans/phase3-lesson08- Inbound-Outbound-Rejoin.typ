@@ -168,10 +168,18 @@ If time permits, the student departs and rejoins
 - *Overhead join*: Call attempted; confirms runway in use overhead; positions on non-active side with minor guidance; crosses upwind threshold approximately correctly
 - *Airspace awareness*: Training area boundaries identified before flight; position noted during flight with occasional prompting
 
+#text(size:12pt)[*Solo Standard (S) — required twice before area solo*]
+- *Departure*: Correct AC91-10 departure procedure; departure call mostly correct; tracks training area using visual landmarks without hesitation
+- *Overhead join*: Call at 5–10 NM; correct positioning on non-active side; integrates with traffic correctly; lookout primary throughout
+- *Airspace awareness*: Boundaries monitored; heading adjusted before approaching a limit
+- *Lost procedure*: Student describes procedure correctly
+- *Fuel calculation*: Correctly calculates required fuel and confirms on board is sufficient; at C standard: performed independently before every area flight briefing
+
 #text(size:12pt)[*Certificate Standard (C) — target for Phase 4*]
 - *Departure*: Correct AC91-10 departure procedure; departure call correct and timely; tracks training area using visual landmarks without hesitation
 - *Overhead join*: Call at 5–10 NM; runway in use identified before descending; correct positioning on non-active side; crosses upwind threshold at circuit height; integrates with traffic correctly; lookout primary throughout
 - *Airspace awareness*: Boundaries monitored; heading adjusted before approaching a limit
+- *Situational awareness*: All weather, traffic and operational changes are identified, integrated into SA and appropriate actions taken with no prompting needed
 - *Note*: Formal E13 radio and avionics assessment occurs in Lesson 4.6
 - *Lost procedure*: Student applies procedure correctly — maintains altitude, identifies feature, describes next actions; at C standard: applies without prompting and contacts Centre (simulated) within 15 minutes of disorientation
 - *Fuel calculation*: Correctly calculates required fuel and confirms on board is sufficient; at C standard: performed independently before every area flight briefing
@@ -180,7 +188,7 @@ If time permits, the student departs and rejoins
 ]
 
 ,safety:[
-- *Weather*: Ceiling >2000 ft AGL (overhead join requires 1500 ft AGL overhead minimum); surface wind \<25 knots; visibility >8 km; no convective activity in training area
+- *Weather*: Ceiling >2000 ft AGL (overhead join requires 1500 ft AGL overhead minimum, but 2000 ft AGL is recommended); surface wind \<25 knots; visibility >8 km; no convective activity in training area
 - *Fuel*: Student calculates fuel requirement plus final reserve; instructor confirms before departure
 - *Altitude*: Maintain at least 500 ft AGL in training area; comply with airspace ceilings; overhead join at 1500 ft AGL minimum
 - *Emergency Procedures*: EFATO plan briefed before departure; forced landing fields identified from chart

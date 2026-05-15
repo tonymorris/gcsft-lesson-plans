@@ -14,13 +14,13 @@
     (
       title: "Pre-Solo Self-Brief (Every Session)",
       content: [
-        - *NAIPS:* TAF obtained and interpreted; wind, vis, cloud, validity — conditions suitable?
+        - *NAIPS:* TAF/GAF/GPWT obtained and interpreted; wind, vis, cloud, validity — conditions suitable?
         - *BOM radar:* precipitation checked as supplemental
         - *NOTAMs:* checked; any items relevant to circuit operations today?
         - *Maintenance release:* reviewed; all items acceptable; brief instructor on anything noted
         - *EFATO plan:* where will I land at 200 ft? At 400 ft? On crosswind?
         - *Radio failure plan:* what will I do if radio fails while downwind?
-        - *Gate commitment:* I will go-around if any gate criterion is not met at 300 ft — no exceptions
+        - *Gate commitment:* I will go-around if any gate/abort point criterion is not met at 300 ft — no exceptions
         - *IMSAFE:* am I genuinely fit to fly?
       ],
     ),
@@ -29,9 +29,9 @@
       content: [
         - Circuit: height ±75 ft; BUMPFISH and radio automatic
         - Gate: applied unconditionally; go-around proactive and timely
-        - Landing: aiming point ±30 m; smooth consistent hold-off; directional control
+        - Landing: touchdown point +150 m; smooth consistent hold-off; directional control
         - T&G: fully independent; flap before power every time
-        - Pre-flight admin: NAIPS TAF correct; NOTAMs thorough; MR reviewed completely and briefed clearly
+        - Pre-flight admin: NAIPS TAF/GAF/GPWT correct; NOTAMs thorough; MR reviewed completely and briefed clearly
       ],
     ),
   ),
@@ -41,7 +41,7 @@
       title: "Solo Circuits — Student Responsibilities",
       content: [
         - Student conducts circuits independently; instructor observes from ground
-        - *Gate applied every approach solo* — go-around without prompting if not met
+        - *Gate/abort point applied every approach solo* — go-around without prompting if not met
         - *BUMPFISH every downwind leg* without prompting
         - Self-debrief after each session: describe each circuit; note gate compliance on every approach
         - Report any deviations to instructor honestly after landing
@@ -51,7 +51,7 @@
       title: "Common Errors",
       content: [
         - *Rushing T&G reconfiguration solo* → Flap and trim before power — every time, no shortcuts
-        - *Gate not applied solo* → If session debrief reveals gate was not applied, priority correction before next solo
+        - *Gate/abort point not applied solo* → If session debrief reveals gate was not applied, priority correction before next solo
         - *Fatigue not self-recognised* → Know when to call it; stop the session; do not continue flying when tired
       ],
     ),
@@ -59,8 +59,8 @@
 
   standards: [
     *Minimum for Phase 3: ≥2 hours solo circuit time + all E8/E11/E12 at or approaching C standard on dual check* \
-    *Solo (S):* Height ±100 ft; BUMPFISH complete; all calls correct; gate applied every approach; landing ±50 m; EFATO managed \
-    *C standard:* Height ±75 ft; gate unconditional; landing ±30 m; all admin fully independent
+    *Solo (S):* Height ±100 ft; BUMPFISH complete; all calls correct; gate applied every approach; landing +250 m; EFATO managed \
+    *C standard:* Height ±75 ft; gate unconditional; landing +150 m; all admin fully independent
   ],
 
   safety: [

@@ -18,8 +18,7 @@
         - Sum all weights → total weight
         - Sum all moments → total moment
         - *CG = Total Moment ÷ Total Weight*
-        - Plot CG at the calculated weight on the POH envelope chart
-        - Confirm within forward and aft CG limits
+        - Plot CG at the calculated weight on the POH envelope chart or refer to foward and aft limits
         - *Also check at zero fuel weight* — fuel burn can move CG out of limits
       ],
     ),
@@ -51,8 +50,7 @@
       content: [
         - *Forgetting zero fuel CG check* → Fuel burn shifts CG; check both MTOW loading and zero fuel loading
         - *Wrong fuel density* → AVGAS = 0.72 kg/L
-        - *Not applying safety margin* → The W&B report is the baseline; actual loading must be verified before every non-standard flight
-        - *Aft CG dismissed as "just within limits"* → Aft limit is safety-critical; no margin should be accepted casually
+        - *CG dismissed as "just within limits"* → limit is safety-critical; no margin should be accepted casually
       ],
     ),
   ),

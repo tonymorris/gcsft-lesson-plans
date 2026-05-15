@@ -150,16 +150,25 @@ Student conducts return transit and landing independently. Instructor may assist
 - *Dutch roll turn reversal*: Completes with minor correction to coordination or timing
 - *Sustained 360°*: Completes at 45° with ±20° rollout error; 60° attempted
 
+#text(size:12pt)[*Solo Standard (C) — required twice before solo*]
+- *60° steep turn*: Bank ±10°; altitude ±200 ft; airspeed ±10 kts; coordinated throughout; rollout ±20° of target heading
+- *45° steep turn*: Bank ±10°; altitude ±200 ft; airspeed ±10 kts; coordinated throughout; rollout ±20° of target heading
+- *Spiral dive recovery*: Identified and recovered correctly without prompting; correct sequence every time
+- *Slipping turn*: Demonstrated correctly; ball interpretation correct
+- *Dutch roll turn reversal*: coordinated with some assistance; some altitude deviation acceptable
+- *HASSELL*: Completed before sequence, then every 15 minutes, with one prompt
+- *Student-as-PIC*: All trained flight portions without any instructor input
+
 #text(size:12pt)[*Certificate Standard (C) — required before flight test*]
-- *60° steep turn*: Bank ±5°; altitude ±100 ft; airspeed ±10 kts; coordinated throughout; rollout ±10° of heading
+- *60° steep turn*: Bank ±5°; altitude ±100 ft; airspeed ±10 kts; coordinated throughout; rollout ±10° of target heading
 - *Spiral dive recovery*: Identified and recovered promptly and correctly without prompting; correct sequence every time
 - *Slipping turn*: Demonstrated correctly; ball interpretation correct; coordinated recovery smooth
 - *Dutch roll turn reversal*: Smooth, timely, coordinated; minimal altitude deviation
-- *Sustained 360° at 60° AoB*: AoB maintained ±5°; rollout ±10° of entry heading
+
 - *HASSELL*: Completed before sequence, then every 15 minutes, without prompting
 - *Student-as-PIC*: All trained flight portions without any instructor input
 
-- *Outcome*: Recorded in training record as P or C with specific comments.
+- *Outcome*: Recorded in training record as P, S or C with specific comments.
 ]
 
 ,safety:[

@@ -117,8 +117,8 @@ The instructor observes and assesses — does not lead or prompt. Student conduc
 - Transit to training area with correct radio call and traffic awareness
 - Straight and level at cruise: heading ±5°, altitude ±200 ft, ball centred
 - Transition to slow cruise using PAT; maintain with LARI
-- Vy climb to nominated altitude; level off using APT
-- Cruise descent to nominated altitude; level off using PAT
+- Vx climb to nominated altitude; level off using APT
+- Powered descent to nominated altitude; level off using PAT
 - 15° and 30° turns in both directions; climbing and descending turns
 - HASSELL check; slow flight; pre-stall recognition and incipient recovery
 - Return to aerodrome: student may fly the circuit; directions provided by instructor in the context of already practiced skills (eg. fly straight level at 70 knots. start a descending left turn etc.)

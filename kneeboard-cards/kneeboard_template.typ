@@ -6,11 +6,23 @@
 //  ------------------
 //  Add a `pagebreaks` tuple to any card listing the section
 //  names that should force a new page *after* them.
-//  Valid names: "aim" "sequence" "errors" "columns" "standards"
+//  Valid names: "aim" "sequence" "errors" "centre" "columns" "standards"
 //
 //  Example:
 //    pagebreaks: ("sequence",),   // break after the task list
 //    pagebreaks: ("errors",),     // break after common errors
+//
+//  Centre sections
+//  ---------------
+//  Add a `centre` tuple of (title: "…", content: […]) dicts.
+//  Each section renders full-width with a light border — useful
+//  for reference material that follows a sequence.
+//
+//  Example:
+//    centre: (
+//      (title: "Stable Approach Gate", content: [ ... ]),
+//      (title: "Common Errors",        content: [ ... ]),
+//    ),
 // ============================================================
 
 // ── Colour palette ─────────────────────────────────────────
@@ -133,17 +145,46 @@
     if break_after("sequence") { pagebreak() }
   }
 
-  // ── ERRORS (compact, full width, below sequence) ─────────
-  if "errors" in card {
-    section[Common Errors]
-    v(1pt)
-    tight(card.errors)
+
+  // ── CENTRE SECTIONS (full-width, bordered) ────────────────
+  // Each entry in card.centre renders as a full-width titled box
+  // with a light border — ideal for reference material after a
+  // sequence where a half-page right column would look odd.
+  if "centre" in card {
+    align(center,
+      for (i, s) in card.centre.enumerate() {
+        block(
+          width: 70%,
+          stroke: 0.6pt + divider,
+          radius: 2pt,
+          inset: 5pt,
+          clip: true,
+          {
+            align(left,
+            block(
+              width: 100%,
+              fill: crimson,
+              inset: (x: 5pt, y: 3pt),
+              [#text(fill: white, size: 7.5pt, weight: "bold",
+                tracking: 0.8pt)[#upper(s.title)]]
+            ))
+            align(left,
+            block(
+              width: 100%,
+              inset: (x: 6pt, y: 4pt),
+              tight(s.content)
+            ))
+          }
+        )
+        if i < card.centre.len() - 1 { v(4pt) }
+      }
+    )
     v(3pt)
-    if break_after("errors") { pagebreak() }
+    if break_after("centre") { pagebreak() }
   }
 
-  // ── TWO-COLUMN BODY (non-sequence cards) ─────────────────
-  if "left" in card or ("right" in card and "sequence" not in card) {
+  // ── TWO-COLUMN BODY ───────────────────────────────────────
+  if "left" in card or "right" in card {
     grid(columns: (1fr, 1fr), gutter: 6pt,
       if "left" in card {
         for (i, s) in card.left.enumerate() {
@@ -160,6 +201,15 @@
     )
     v(5pt)
     if break_after("columns") { pagebreak() }
+  }
+
+  // ── ERRORS (compact, full width, below sequence) ─────────
+  if "errors" in card {
+    section[Common Errors]
+    v(1pt)
+    tight(card.errors)
+    v(3pt)
+    if break_after("errors") { pagebreak() }
   }
 
   // ── STANDARDS ────────────────────────────────────────────

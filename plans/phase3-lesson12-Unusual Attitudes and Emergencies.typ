@@ -115,9 +115,9 @@ Student operates as PIC. Instructor is silent observer. All ground operations, t
 
 #text(size:12pt)[*Demonstration*]
 - Nose-high unusual attitude: instructor creates the attitude using a realistic entry (distraction or clipboard accidently placed on trim switch); demonstrates recovery
-- Nose-low unusual attitude: instructor creates the attitude; narrates recognition cues; demonstrates recovery — throttle, roll wings level, ease back
-- In-flight fire scenario (simulated): instructor calls "engine fire"; narrates immediate actions
-- Smoke/fumes scenario: instructor calls "smoke in cockpit"; narrates actions and ventilation
+- Nose-low unusual attitude: instructor creates the attitude; patters recognition cues; demonstrates recovery — throttle, roll wings level, ease back
+- In-flight fire scenario (simulated): instructor calls "engine fire"; patters immediate actions
+- Smoke/fumes scenario: instructor calls "smoke in cockpit"; patters actions and ventilation
 - Scenario task with student: Jammed flight controls; use the ADM procedure to walk through possible actions; run a control test; if the controls become jammed at 75 knots, can we add flaps 3?
 
 #text(size:12pt)[*Student Practice*]
@@ -127,9 +127,9 @@ Student operates as PIC. Instructor is silent observer. All ground operations, t
   - Nose-high, with bank
   - Nose-low, wings level
   - Nose-low, with bank
-- Fire simulation: instructor calls scenario; student executes from memory; narrates each action
-- Smoke/fumes simulation: student identifies and narrates actions
-- Trim failure simulation: instructor applies trim deflection without comment; student identifies, compensates, narrates actions
+- Fire simulation: instructor calls scenario; student executes from memory; patters each action
+- Smoke/fumes simulation: student identifies and patters actions
+- Trim failure simulation: instructor applies trim deflection without comment; student identifies, compensates, patters actions
 - Participate the the Jammed flight controls scenario with the instructor: offer suggested actions
 - Scenario task: "You are at 3500 ft in the training area and there is smoke coming from behind the panel. Do we adopt best glide? What are your actions?"
 

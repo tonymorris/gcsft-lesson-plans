@@ -6,8 +6,8 @@
 <title>GCSFT — Ab-Initio Lesson Plans</title>
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
-<!-- Marked.js for README markdown rendering -->
 <script src="https://cdnjs.cloudflare.com/ajax/libs/marked/9.1.6/marked.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.min.js"></script>
 <style>
 :root {
   --navy:       #1b3f6b;
@@ -77,18 +77,18 @@ aside {
 aside::-webkit-scrollbar { width: 4px; }
 aside::-webkit-scrollbar-thumb { background: rgba(255,255,255,.15); border-radius: 2px; }
 
-/* Overview nav link — sits above the phase groups */
-.nav-overview {
+/* Top nav items (Overview, Kneeboard) */
+.nav-top-item {
   display: flex; align-items: center; gap: 10px;
   padding: 11px 1rem 11px 1.1rem;
   color: rgba(255,255,255,.7); font-size: 13px; font-weight: 500;
   cursor: pointer; border-left: 3px solid transparent;
-  transition: all .15s; border-bottom: 1px solid rgba(255,255,255,.07);
-  user-select: none;
+  transition: all .15s; user-select: none;
 }
-.nav-overview:hover { background: rgba(255,255,255,.06); border-left-color: rgba(255,255,255,.25); color: #fff; }
-.nav-overview.active { background: rgba(255,255,255,.1); border-left-color: var(--sky-light); color: #fff; }
-.nav-overview-icon { font-size: 14px; opacity: .8; }
+.nav-top-item:hover { background: rgba(255,255,255,.06); border-left-color: rgba(255,255,255,.25); color: #fff; }
+.nav-top-item.active { background: rgba(255,255,255,.1); border-left-color: var(--sky-light); color: #fff; }
+.nav-top-item .nav-top-icon { font-size: 14px; opacity: .85; flex-shrink: 0; }
+.nav-top-divider { height: 1px; background: rgba(255,255,255,.08); margin: 0; }
 
 .sidebar-empty { flex: 1; display: flex; flex-direction: column; align-items: center; justify-content: center; padding: 2rem; text-align: center; gap: .75rem; }
 .sidebar-empty .icon { font-size: 2.5rem; opacity: .3; }
@@ -120,7 +120,7 @@ aside::-webkit-scrollbar-thumb { background: rgba(255,255,255,.15); border-radiu
 .nav-subitem:hover .sub-dot { background: var(--sky-light); }
 
 /* ── MAIN ── */
-main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-width: calc(var(--sidebar-w) + 820px); }
+main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-width: calc(var(--sidebar-w) + 860px); }
 
 /* ── STATES ── */
 .main-state { display: flex; flex-direction: column; align-items: center; justify-content: center; min-height: 60vh; gap: 1.25rem; text-align: center; }
@@ -130,6 +130,8 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .main-state ol { text-align: left; padding-left: 1.25rem; display: flex; flex-direction: column; gap: .4rem; }
 .state-icon { font-size: 3rem; opacity: .25; }
 .spinner { width: 32px; height: 32px; border: 3px solid var(--border); border-top-color: var(--sky); border-radius: 50%; animation: spin .7s linear infinite; }
+.btn-primary { background: var(--sky); color: #fff; border: none; padding: 9px 20px; border-radius: var(--radius-sm); font-size: 14px; font-weight: 500; cursor: pointer; font-family: inherit; transition: background .15s; }
+.btn-primary:hover { background: var(--navy-mid); }
 
 /* ── EXPAND BAR ── */
 .expand-bar { display: flex; align-items: center; justify-content: flex-end; gap: 6px; margin-bottom: 1rem; }
@@ -137,18 +139,15 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .expand-btn:hover { border-color: var(--sky); color: var(--sky); background: var(--sky-pale); }
 .expand-divider { width: 1px; height: 16px; background: var(--border); }
 
-/* ── OVERVIEW / README PAGE ── */
+/* ── OVERVIEW / README ── */
 #overview-page { display: none; }
 #overview-page.visible { display: block; }
-
 .readme-loading { display: flex; align-items: center; gap: 10px; color: var(--text-muted); font-size: 14px; padding: 3rem 0; }
-
-/* Rendered README prose */
 .readme-body { max-width: 720px; }
 .readme-body h1 { font-size: 1.8rem; font-weight: 600; color: var(--navy); margin-bottom: 1rem; padding-bottom: .75rem; border-bottom: 2px solid var(--border); }
 .readme-body h2 { font-size: 1.2rem; font-weight: 600; color: var(--navy); margin: 2rem 0 .6rem; padding-bottom: .35rem; border-bottom: 1px solid var(--border); }
 .readme-body h3 { font-size: 1rem; font-weight: 600; color: var(--navy-mid); margin: 1.5rem 0 .5rem; }
-.readme-body h4 { font-size: .9rem; font-weight: 600; color: var(--text-mid); margin: 1.25rem 0 .4rem; text-transform: uppercase; letter-spacing: .05em; font-size: 11px; }
+.readme-body h4 { font-size: 11px; font-weight: 600; color: var(--text-mid); margin: 1.25rem 0 .4rem; text-transform: uppercase; letter-spacing: .05em; }
 .readme-body p { font-size: 14px; color: var(--text-mid); line-height: 1.75; margin-bottom: .85rem; }
 .readme-body ul, .readme-body ol { padding-left: 1.5rem; margin-bottom: .85rem; }
 .readme-body li { font-size: 14px; color: var(--text-mid); line-height: 1.7; margin-bottom: .25rem; }
@@ -165,13 +164,127 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .readme-body a:hover { text-decoration: underline; }
 .readme-body hr { border: none; border-top: 1px solid var(--border); margin: 2rem 0; }
 .readme-body img { max-width: 100%; border-radius: var(--radius-sm); }
-
 .readme-not-found { background: var(--amber-bg); border: 1px solid var(--amber-bdr); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
 .readme-not-found h3 { color: var(--amber); font-size: 15px; margin-bottom: .5rem; }
 .readme-not-found p { font-size: 13.5px; color: var(--text-mid); line-height: 1.6; margin: 0; }
 .readme-not-found code { font-family: 'Consolas', monospace; background: rgba(176,106,16,.12); color: var(--amber); padding: 1px 5px; border-radius: 3px; font-size: 12px; }
 
-/* ── LESSON ── */
+/* ── KNEEBOARD PAGE ── */
+#kneeboard-page { display: none; }
+#kneeboard-page.visible { display: block; }
+
+.kb-header { margin-bottom: 1.75rem; padding-bottom: 1.25rem; border-bottom: 2px solid var(--border); }
+.kb-header h1 { font-size: 1.9rem; font-weight: 600; color: var(--navy); margin-bottom: .4rem; }
+.kb-header p { font-size: 14px; color: var(--text-muted); }
+
+.kb-loading { display: flex; align-items: center; gap: 12px; color: var(--text-muted); font-size: 14px; padding: 2rem 0; }
+
+/* Card grid */
+.kb-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
+  gap: 1.5rem;
+}
+
+.kb-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  overflow: hidden;
+  cursor: pointer;
+  transition: box-shadow .2s, transform .2s, border-color .2s;
+  display: flex; flex-direction: column;
+}
+.kb-card:hover {
+  box-shadow: 0 8px 28px rgba(27,63,107,.15);
+  transform: translateY(-2px);
+  border-color: var(--sky);
+}
+
+.kb-card-preview {
+  background: #e8eef8;
+  display: flex; align-items: center; justify-content: center;
+  overflow: hidden; position: relative;
+  /* height set by JS based on aspect ratio */
+  min-height: 140px;
+}
+.kb-card-preview canvas { display: block; width: 100% !important; height: auto !important; }
+
+/* Placeholder while loading */
+.kb-card-preview .kb-thumb-loading {
+  position: absolute; inset: 0;
+  display: flex; flex-direction: column; align-items: center; justify-content: center;
+  gap: 8px; color: var(--text-pale); font-size: 12px;
+}
+.kb-card-preview .kb-thumb-loading .mini-spinner {
+  width: 20px; height: 20px;
+  border: 2px solid var(--border); border-top-color: var(--sky);
+  border-radius: 50%; animation: spin .7s linear infinite;
+}
+
+.kb-card-info { padding: .7rem .9rem .85rem; }
+.kb-card-name { font-size: 13px; font-weight: 600; color: var(--navy); line-height: 1.3; margin-bottom: 2px; }
+.kb-card-pages { font-size: 11px; color: var(--text-muted); }
+
+.kb-card-actions {
+  display: flex; gap: 6px; padding: 0 .9rem .85rem;
+}
+.kb-action-btn {
+  flex: 1; background: var(--sky-bg); color: var(--sky);
+  border: 1px solid var(--border); border-radius: var(--radius-sm);
+  padding: 5px 0; font-size: 11.5px; font-weight: 500;
+  cursor: pointer; transition: all .15s; font-family: inherit; text-align: center;
+  text-decoration: none; display: inline-block;
+}
+.kb-action-btn:hover { background: var(--sky); color: #fff; border-color: var(--sky); }
+
+.kb-none { background: var(--amber-bg); border: 1px solid var(--amber-bdr); border-radius: var(--radius); padding: 1.25rem 1.5rem; }
+.kb-none h3 { color: var(--amber); font-size: 15px; margin-bottom: .5rem; }
+.kb-none p { font-size: 13.5px; color: var(--text-mid); line-height: 1.6; margin: 0; }
+.kb-none code { font-family: 'Consolas', monospace; background: rgba(176,106,16,.12); color: var(--amber); padding: 1px 5px; border-radius: 3px; font-size: 12px; }
+
+/* ── LIGHTBOX ── */
+.lightbox-overlay {
+  display: none; position: fixed; inset: 0; z-index: 500;
+  background: rgba(10,18,35,.88);
+  align-items: center; justify-content: center;
+  padding: 1rem;
+}
+.lightbox-overlay.open { display: flex; }
+
+.lightbox {
+  background: var(--off-white); border-radius: 10px;
+  width: min(820px, 96vw); max-height: 92vh;
+  display: flex; flex-direction: column;
+  box-shadow: 0 32px 80px rgba(0,0,0,.5);
+  overflow: hidden;
+}
+
+.lightbox-header {
+  display: flex; align-items: center; gap: 1rem;
+  padding: .85rem 1.25rem;
+  background: var(--navy-dark); flex-shrink: 0;
+}
+.lightbox-title { color: #fff; font-size: 14px; font-weight: 500; flex: 1; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.lightbox-controls { display: flex; align-items: center; gap: 6px; flex-shrink: 0; }
+.lb-btn {
+  background: rgba(255,255,255,.1); color: rgba(255,255,255,.8);
+  border: 1px solid rgba(255,255,255,.15); padding: 5px 11px;
+  border-radius: var(--radius-sm); font-size: 12px; cursor: pointer;
+  transition: all .15s; font-family: inherit; white-space: nowrap;
+  text-decoration: none; display: inline-flex; align-items: center; gap: 4px;
+}
+.lb-btn:hover { background: rgba(255,255,255,.2); color: #fff; }
+.lb-close { background: none; border: none; color: rgba(255,255,255,.6); font-size: 20px; cursor: pointer; padding: 0 4px; line-height: 1; }
+.lb-close:hover { color: #fff; }
+
+.lightbox-body { overflow-y: auto; padding: 1.5rem; display: flex; flex-direction: column; align-items: center; gap: 1rem; background: #2a2a30; flex: 1; }
+.lightbox-body canvas { display: block; max-width: 100%; box-shadow: 0 4px 20px rgba(0,0,0,.5); border-radius: 2px; }
+.lb-page-label { color: rgba(255,255,255,.35); font-size: 11px; letter-spacing: .06em; margin-top: -.25rem; }
+.lb-loading { color: rgba(255,255,255,.5); font-size: 14px; display: flex; align-items: center; gap: 10px; padding: 3rem; }
+.lb-spinner { width: 24px; height: 24px; border: 2px solid rgba(255,255,255,.15); border-top-color: var(--sky-light); border-radius: 50%; animation: spin .7s linear infinite; }
+
+/* ── LESSON SECTIONS ── */
 .lesson { display: none; }
 .lesson.visible { display: block; }
 .lesson-header { margin-bottom: 1.5rem; padding-bottom: 1.5rem; border-bottom: 2px solid var(--border); }
@@ -180,7 +293,6 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .lesson-aim { font-size: 14.5px; color: var(--text-mid); line-height: 1.7; max-width: 680px; }
 .overview-box { background: var(--sky-pale); border-left: 3px solid var(--sky); border-radius: 0 var(--radius) var(--radius) 0; padding: 1rem 1.25rem; margin-bottom: 1.25rem; font-size: 14px; color: var(--text-mid); line-height: 1.7; }
 
-/* ── SECTIONS ── */
 .section { margin-bottom: .75rem; border: 1px solid var(--border); border-radius: var(--radius); overflow: hidden; background: var(--white); scroll-margin-top: calc(var(--hdr-h) + 12px); }
 .section-toggle { display: flex; align-items: center; gap: .75rem; padding: .9rem 1.25rem; cursor: pointer; width: 100%; text-align: left; background: var(--white); border: none; transition: background .15s; font-family: inherit; }
 .section-toggle:hover { background: var(--sky-bg); }
@@ -198,7 +310,6 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .section.open .section-chevron { transform: rotate(90deg); color: var(--sky); }
 .section-body { display: none; padding: 1.1rem 1.25rem; }
 .section.open .section-body { display: block; }
-
 .section-body p { font-size: 13.5px; color: var(--text-mid); line-height: 1.75; }
 .section-body ul { padding-left: 1.25rem; }
 .section-body li { font-size: 13.5px; color: var(--text-mid); line-height: 1.75; margin-bottom: 3px; }
@@ -206,7 +317,6 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .section-body h4:first-child { margin-top: 0; }
 .section-body strong { color: var(--navy); font-weight: 600; }
 .section-body em { color: var(--sky); font-style: normal; font-weight: 500; }
-
 .standards-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem; margin-top: .75rem; }
 .std-card { border-radius: var(--radius); padding: 1rem; border: 1px solid var(--border); }
 .std-card.prog { background: #eef5fd; border-color: rgba(46,122,181,.3); }
@@ -216,7 +326,6 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 .std-card.solo .std-label { color: var(--green); }
 .std-card ul { padding-left: 1rem; }
 .std-card li { font-size: 12.5px; color: var(--text-mid); line-height: 1.6; margin-bottom: 3px; }
-
 .safety-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(160px,1fr)); gap: .75rem; margin-top: .75rem; }
 .safety-item { background: var(--red-bg); border: 1px solid var(--red-bdr); border-radius: var(--radius-sm); padding: .75rem; }
 .safety-item .s-label { font-size: 9.5px; font-weight: 700; letter-spacing: .12em; text-transform: uppercase; color: var(--red); margin-bottom: .4rem; }
@@ -232,6 +341,7 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
   aside.open { transform: translateX(0); box-shadow: 6px 0 30px rgba(0,0,0,.25); }
   main { margin-left: 0; padding: 1.5rem 1rem 3rem; }
   .standards-grid { grid-template-columns: 1fr; }
+  .kb-grid { grid-template-columns: repeat(auto-fill, minmax(150px, 1fr)); gap: 1rem; }
 }
 </style>
 </head>
@@ -244,7 +354,7 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
     <span class="hdr-sub">Ab-Initio Lesson Plans</span>
   </div>
   <div class="hdr-right">
-    <button class="btn-hdr" onclick="refreshAll()" id="refresh-btn" title="Reload plans from server">
+    <button class="btn-hdr" onclick="refreshAll()" id="refresh-btn" title="Reload from server">
       <span class="refresh-icon">↻</span> Refresh
     </button>
     <button class="menu-btn" onclick="toggleSidebar()">☰</button>
@@ -257,23 +367,17 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
 </aside>
 
 <main id="main-content">
-  <div class="main-state" id="state-loading">
-    <div class="spinner"></div>
-    <p>Loading lesson plans…</p>
-  </div>
-
+  <div class="main-state" id="state-loading"><div class="spinner"></div><p>Loading…</p></div>
   <div class="main-state" id="state-setup" style="display:none">
     <div class="state-icon">📁</div>
     <h2>No lesson plans found</h2>
-    <p>The app couldn't find <code>plans/index.json</code>. Add your <code>.typ</code> files to the <code>plans/</code> folder and list them in <code>plans/index.json</code>.</p>
+    <p>Add <code>.typ</code> files to <code>plans/</code> and list them in <code>plans/index.json</code>.</p>
   </div>
-
   <div class="main-state" id="state-empty" style="display:none">
     <div class="state-icon">✈</div>
     <h2>No lesson plans listed</h2>
-    <p><code>plans/index.json</code> exists but is empty. Add filenames to load your plans.</p>
+    <p><code>plans/index.json</code> exists but is empty.</p>
   </div>
-
   <div class="main-state" id="state-error" style="display:none">
     <div class="state-icon">⚠️</div>
     <h2>Something went wrong</h2>
@@ -281,18 +385,40 @@ main { margin-left: var(--sidebar-w); flex: 1; padding: 2.5rem 2.5rem 5rem; max-
     <button class="btn-primary" onclick="refreshAll()">Try again</button>
   </div>
 
-  <!-- Overview / README page -->
   <div id="overview-page"></div>
-
-  <!-- Lesson plans -->
+  <div id="kneeboard-page"></div>
   <div id="lessons-container" style="display:none"></div>
 </main>
 </div>
 
+<!-- Lightbox -->
+<div class="lightbox-overlay" id="lightbox">
+  <div class="lightbox">
+    <div class="lightbox-header">
+      <span class="lightbox-title" id="lb-title"></span>
+      <div class="lightbox-controls">
+        <a class="lb-btn" id="lb-download" href="#" download target="_blank">⬇ Download</a>
+        <button class="lb-close" onclick="closeLightbox()" title="Close">✕</button>
+      </div>
+    </div>
+    <div class="lightbox-body" id="lb-body">
+      <div class="lb-loading"><div class="lb-spinner"></div> Rendering…</div>
+    </div>
+  </div>
+</div>
+
 <script>
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
+//  PDF.js worker
+// ─────────────────────────────────────────────
+if (typeof pdfjsLib !== 'undefined') {
+  pdfjsLib.GlobalWorkerOptions.workerSrc =
+    'https://cdnjs.cloudflare.com/ajax/libs/pdf.js/3.11.174/pdf.worker.min.js';
+}
+
+// ─────────────────────────────────────────────
 //  SECTION DEFINITIONS
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 const SECTION_DEFS = [
   { key: 'learning_outcomes',         label: 'Learning Outcomes',         emoji: '📋', icon: 'ic-sky'   },
   { key: 'theory_knowledge',          label: 'Theory & Textbook Refs',    emoji: '📖', icon: 'ic-navy'  },
@@ -306,43 +432,105 @@ const SECTION_DEFS = [
   { key: 'homework',                  label: 'Homework',                  emoji: '📚', icon: 'ic-navy'  },
 ];
 
-// ═══════════════════════════════════════════════════════════
-//  STATE
-// ═══════════════════════════════════════════════════════════
-let plans        = [];
-let activePlanId = null;  // null = overview is showing
-let readmeHtml   = null;  // cached rendered README
+// ─────────────────────────────────────────────
+//  APP STATE
+// ─────────────────────────────────────────────
+let plans          = [];
+let kneeboardCards = [];   // { filename, title, path }
+let activePlanId   = null; // null = top-level page showing
+let activeTopPage  = 'overview'; // 'overview' | 'kneeboard'
+let readmeHtml     = null;
+let kneeboardLoaded = false;
 
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 //  FETCH PLANS
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 async function fetchPlans() {
-  const idxRes = await fetch('./plans/index.json', { cache: 'no-cache' });
-  if (!idxRes.ok) return null;
-  const files = await idxRes.json();
+  const r = await fetch('./plans/index.json', { cache: 'no-cache' });
+  if (!r.ok) return null;
+  const files = await r.json();
   if (!Array.isArray(files) || files.length === 0) return [];
-
-  const settled = await Promise.allSettled(
-    files.map(async filename => {
-      const r = await fetch('./plans/' + filename, { cache: 'no-cache' });
-      if (!r.ok) throw new Error(filename + ' not found');
-      const text = await r.text();
-      const parsed = parseOneLesson(text);
-      if (!parsed) throw new Error('Could not parse ' + filename);
-      parsed.id       = filename.replace(/\.typ$/i, '').replace(/[^a-z0-9_-]/gi, '_');
-      parsed.filename = filename;
-      return parsed;
-    })
-  );
-
+  const settled = await Promise.allSettled(files.map(async filename => {
+    const res = await fetch('./plans/' + filename, { cache: 'no-cache' });
+    if (!res.ok) throw new Error(filename + ' not found');
+    const text = await res.text();
+    const parsed = parseOneLesson(text);
+    if (!parsed) throw new Error('Could not parse ' + filename);
+    parsed.id       = filename.replace(/\.typ$/i, '').replace(/[^a-z0-9_-]/gi, '_');
+    parsed.filename = filename;
+    return parsed;
+  }));
   return settled.filter(r => r.status === 'fulfilled').map(r => r.value);
 }
 
-// ═══════════════════════════════════════════════════════════
-//  FETCH & RENDER README
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
+//  FETCH KNEEBOARD INDEX
+// ─────────────────────────────────────────────
+async function fetchKneeboardIndex() {
+  const r = await fetch('./kneeboard-cards/index.json', { cache: 'no-cache' });
+  if (!r.ok) return [];
+  const files = await r.json();
+  if (!Array.isArray(files)) return [];
+  return files.map(filename => ({
+    filename,
+    title: filename.replace(/\.pdf$/i, '').replace(/[-_]/g, ' ').replace(/\b\w/g, c => c.toUpperCase()),
+    path: './kneeboard-cards/pdf/' + filename,
+  }));
+}
+
+// ─────────────────────────────────────────────
+//  PDF RENDERING
+// ─────────────────────────────────────────────
+async function renderPdfThumbnail(pdfPath, canvas) {
+  try {
+    const pdf = await pdfjsLib.getDocument(pdfPath).promise;
+    const page = await pdf.getPage(1);
+    const viewport = page.getViewport({ scale: 1 });
+    // Scale to fill the card width (~200px)
+    const scale = 200 / viewport.width;
+    const scaled = page.getViewport({ scale });
+    canvas.width  = scaled.width;
+    canvas.height = scaled.height;
+    await page.render({ canvasContext: canvas.getContext('2d'), viewport: scaled }).promise;
+    return pdf.numPages;
+  } catch(e) {
+    console.warn('Thumbnail failed for', pdfPath, e);
+    return 0;
+  }
+}
+
+async function renderPdfAllPages(pdfPath, container) {
+  container.innerHTML = '<div class="lb-loading"><div class="lb-spinner"></div> Rendering…</div>';
+  try {
+    const pdf = await pdfjsLib.getDocument(pdfPath).promise;
+    container.innerHTML = '';
+    for (let i = 1; i <= pdf.numPages; i++) {
+      const page = await pdf.getPage(i);
+      // Scale to fit lightbox width ~740px
+      const viewport = page.getViewport({ scale: 1 });
+      const scale = Math.min(740 / viewport.width, 2.5);
+      const scaled = page.getViewport({ scale });
+      const canvas = document.createElement('canvas');
+      canvas.width  = scaled.width;
+      canvas.height = scaled.height;
+      await page.render({ canvasContext: canvas.getContext('2d'), viewport: scaled }).promise;
+      container.appendChild(canvas);
+      if (pdf.numPages > 1) {
+        const lbl = document.createElement('p');
+        lbl.className = 'lb-page-label';
+        lbl.textContent = `Page ${i} of ${pdf.numPages}`;
+        container.appendChild(lbl);
+      }
+    }
+  } catch(e) {
+    container.innerHTML = `<p style="color:rgba(255,255,255,.5);padding:2rem">Failed to render PDF: ${e.message}</p>`;
+  }
+}
+
+// ─────────────────────────────────────────────
+//  OVERVIEW PAGE
+// ─────────────────────────────────────────────
 async function fetchReadme() {
-  // Try common README filenames
   for (const name of ['README.md', 'readme.md', 'Readme.md']) {
     try {
       const r = await fetch('./' + name, { cache: 'no-cache' });
@@ -353,45 +541,228 @@ async function fetchReadme() {
 }
 
 function showOverview() {
-  // Deactivate any active plan
-  activePlanId = null;
-  document.querySelectorAll('.lesson').forEach(el => el.classList.remove('visible'));
-  document.getElementById('lessons-container').style.display = 'none';
-
-  // Update sidebar active state
-  document.querySelectorAll('.nav-item').forEach(el => el.classList.remove('active'));
-  document.querySelector('.nav-overview')?.classList.add('active');
-
+  activeTopPage  = 'overview';
+  activePlanId   = null;
+  hideAllContent();
   const page = document.getElementById('overview-page');
   page.classList.add('visible');
+  renderSidebar();
 
-  // Already rendered — nothing more to do
-  if (readmeHtml !== null) return;
+  if (readmeHtml !== null) return; // already loaded
 
-  // Show loading, then fetch
   page.innerHTML = '<div class="readme-loading"><div class="spinner"></div> Loading overview…</div>';
-
   fetchReadme().then(md => {
     if (md) {
-      // marked.js is loaded from CDN
       readmeHtml = marked.parse(md);
       page.innerHTML = `<div class="readme-body">${readmeHtml}</div>`;
     } else {
-      readmeHtml = ''; // mark as attempted
-      page.innerHTML = `
-        <div class="readme-not-found">
-          <h3>No README found</h3>
-          <p>Add a <code>README.md</code> to the root of your repository and it will appear here automatically.</p>
-        </div>`;
+      readmeHtml = '';
+      page.innerHTML = `<div class="readme-not-found"><h3>No README found</h3><p>Add a <code>README.md</code> to the root of the repository and it will appear here automatically.</p></div>`;
     }
   });
-
   if (window.innerWidth <= 860) document.getElementById('sidebar').classList.remove('open');
 }
 
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
+//  KNEEBOARD PAGE
+// ─────────────────────────────────────────────
+async function showKneeboard() {
+  activeTopPage = 'kneeboard';
+  activePlanId  = null;
+  hideAllContent();
+  const page = document.getElementById('kneeboard-page');
+  page.classList.add('visible');
+  renderSidebar();
+
+  if (window.innerWidth <= 860) document.getElementById('sidebar').classList.remove('open');
+  if (kneeboardLoaded) return; // already rendered
+
+  page.innerHTML = `
+    <div class="kb-header">
+      <h1>Kneeboard Cards</h1>
+      <p>Click any card to view full size. Use the download button to save as PDF.</p>
+    </div>
+    <div class="kb-loading"><div class="spinner"></div> Loading cards…</div>`;
+
+  const cards = await fetchKneeboardIndex();
+  kneeboardCards = cards;
+
+  if (cards.length === 0) {
+    page.innerHTML = `
+      <div class="kb-header"><h1>Kneeboard Cards</h1></div>
+      <div class="kb-none">
+        <h3>No kneeboard cards found</h3>
+        <p>Add PDF files to <code>kneeboard-cards/pdf/</code> and list them in <code>kneeboard-cards/index.json</code>.</p>
+      </div>`;
+    return;
+  }
+
+  // Build the grid — thumbnails render asynchronously per card
+  let gridHtml = `
+    <div class="kb-header">
+      <h1>Kneeboard Cards</h1>
+      <p>${cards.length} card${cards.length !== 1 ? 's' : ''} — click to view full size.</p>
+    </div>
+    <div class="kb-grid">`;
+
+  cards.forEach((card, i) => {
+    gridHtml += `
+      <div class="kb-card" onclick="openLightbox(${i})">
+        <div class="kb-card-preview" id="kb-preview-${i}">
+          <div class="kb-thumb-loading">
+            <div class="mini-spinner"></div>
+            <span>Rendering…</span>
+          </div>
+        </div>
+        <div class="kb-card-info">
+          <div class="kb-card-name">${escHtml(card.title)}</div>
+          <div class="kb-card-pages" id="kb-pages-${i}">Loading…</div>
+        </div>
+        <div class="kb-card-actions">
+          <a class="kb-action-btn" href="${escHtml(card.path)}" download="${escHtml(card.filename)}" onclick="event.stopPropagation()" title="Download PDF">⬇ Download</a>
+        </div>
+      </div>`;
+  });
+
+  gridHtml += '</div>';
+  page.innerHTML = gridHtml;
+  kneeboardLoaded = true;
+
+  // Render thumbnails progressively — don't block the grid display
+  cards.forEach(async (card, i) => {
+    const previewEl = document.getElementById('kb-preview-' + i);
+    const pagesEl   = document.getElementById('kb-pages-' + i);
+    if (!previewEl) return;
+
+    const canvas = document.createElement('canvas');
+    previewEl.innerHTML = '';
+    previewEl.appendChild(canvas);
+
+    const numPages = await renderPdfThumbnail(card.path, canvas);
+    if (pagesEl) pagesEl.textContent = numPages > 0 ? `${numPages} page${numPages !== 1 ? 's' : ''}` : 'PDF';
+    if (numPages === 0) {
+      previewEl.innerHTML = '<div style="padding:2rem;color:var(--text-muted);font-size:12px;text-align:center;">Preview unavailable</div>';
+    }
+  });
+}
+
+// ─────────────────────────────────────────────
+//  LIGHTBOX
+// ─────────────────────────────────────────────
+function openLightbox(cardIndex) {
+  const card = kneeboardCards[cardIndex];
+  if (!card) return;
+  document.getElementById('lb-title').textContent = card.title;
+  document.getElementById('lb-download').href = card.path;
+  document.getElementById('lb-download').download = card.filename;
+  document.getElementById('lightbox').classList.add('open');
+  document.body.style.overflow = 'hidden';
+  renderPdfAllPages(card.path, document.getElementById('lb-body'));
+}
+
+function closeLightbox() {
+  document.getElementById('lightbox').classList.remove('open');
+  document.body.style.overflow = '';
+  document.getElementById('lb-body').innerHTML = '<div class="lb-loading"><div class="lb-spinner"></div> Rendering…</div>';
+}
+
+// Close on overlay click
+document.getElementById('lightbox').addEventListener('click', e => {
+  if (e.target === e.currentTarget) closeLightbox();
+});
+// Close on Escape
+document.addEventListener('keydown', e => {
+  if (e.key === 'Escape') closeLightbox();
+});
+
+// ─────────────────────────────────────────────
+//  SIDEBAR
+// ─────────────────────────────────────────────
+function renderSidebar() {
+  const nav = document.getElementById('sidebar-nav');
+  nav.innerHTML = '';
+
+  // Overview
+  const ovEl = document.createElement('div');
+  ovEl.className = 'nav-top-item' + (activeTopPage === 'overview' && activePlanId === null ? ' active' : '');
+  ovEl.innerHTML = '<span class="nav-top-icon">📄</span> Overview';
+  ovEl.onclick = showOverview;
+  nav.appendChild(ovEl);
+
+  // Kneeboard Cards
+  const kbEl = document.createElement('div');
+  kbEl.className = 'nav-top-item' + (activeTopPage === 'kneeboard' && activePlanId === null ? ' active' : '');
+  kbEl.innerHTML = '<span class="nav-top-icon">🗂️</span> Kneeboard Cards';
+  kbEl.onclick = showKneeboard;
+  nav.appendChild(kbEl);
+
+  // Divider
+  const div = document.createElement('div');
+  div.className = 'nav-top-divider';
+  nav.appendChild(div);
+
+  if (plans.length === 0) {
+    const empty = document.createElement('div');
+    empty.className = 'sidebar-empty';
+    empty.innerHTML = '<div class="icon">✈</div><p>No lesson plans loaded.</p>';
+    nav.appendChild(empty);
+    return;
+  }
+
+  // Phase groups
+  const groups = {};
+  plans.forEach(p => {
+    const ph = guessPhase(p.meta.unit || '');
+    if (!groups[ph]) groups[ph] = [];
+    groups[ph].push(p);
+  });
+
+  for (const [phase, items] of Object.entries(groups)) {
+    const grp = document.createElement('div');
+    grp.className = 'phase-group';
+    grp.innerHTML = `<div class="phase-label">${escHtml(phase)}</div>`;
+    items.forEach(p => {
+      const isActive = p.id === activePlanId;
+      const code = extractCode(p.meta.unit || '');
+      const name = p.meta.title || stripTypst(p.lesson.title || '') || 'Untitled';
+      const sectionLinks = SECTION_DEFS
+        .filter(def => p.lesson[def.key] && p.lesson[def.key].trim())
+        .map(def => `<button class="nav-subitem" onclick="scrollToSection('${p.id}','${def.key}')"><span class="sub-dot"></span>${escHtml(def.label)}</button>`)
+        .join('');
+      const el = document.createElement('div');
+      el.className = 'nav-item' + (isActive ? ' active' : '');
+      el.dataset.id = p.id;
+      el.innerHTML = `
+        <div class="nav-item-row" onclick="showPlan('${p.id}')">
+          <div class="nav-item-content">
+            <span class="nav-code">${escHtml(code)}</span>
+            <span class="nav-name">${escHtml(name)}</span>
+          </div>
+          <span class="nav-chevron">▶</span>
+        </div>
+        <div class="nav-submenu">${sectionLinks}</div>`;
+      grp.appendChild(el);
+    });
+    nav.appendChild(grp);
+  }
+}
+
+function guessPhase(unit) {
+  if (/phase\s*1|lesson\s*[1-9]/i.test(unit)) return 'Phase 1 — Dual';
+  if (/phase\s*2|stage\s*c/i.test(unit)) return 'Phase 2 — Circuits';
+  if (/phase\s*3/i.test(unit)) return 'Phase 3 — Area';
+  return 'Other';
+}
+function extractCode(unit) {
+  const m = unit.match(/[EeC]\d+[A-Za-z]?(?:[\/,][EeC]\d+[A-Za-z]?)*/g);
+  if (m) return m.join(', ');
+  const s = unit.match(/Stage\s+\w+/i);
+  return s ? s[0] : '';
+}
+
+// ─────────────────────────────────────────────
 //  TYPST PARSER
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 function parseOneLesson(raw) {
   const meta = parseMetadata(raw), lesson = parseLessonBlock(raw);
   if (!meta && !lesson) return null;
@@ -427,9 +798,9 @@ function extractBracketField(text, field) {
   return text.slice(bs + 1, i - 1).trim();
 }
 
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 //  TYPST → HTML
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 function typstToHtml(raw) {
   if (!raw) return '';
   let s = raw;
@@ -440,8 +811,7 @@ function typstToHtml(raw) {
   s = s.replace(/#strong\[([^\]]*)\]/g, '<strong>$1</strong>');
   s = s.replace(/#text\[[^\]]*\]/g, '');
   s = s.replace(/#[a-z]+\([^)]*\)/g, '');
-  s = s.replace(/\\$/gm, '<br>');
-  s = s.replace(/\\\n/g, '<br>');
+  s = s.replace(/\\$/gm, '<br>'); s = s.replace(/\\\n/g, '<br>');
   const lines = s.split('\n'), out = []; let inList = false;
   for (const line of lines) {
     const t = line.trim();
@@ -468,105 +838,25 @@ function processInline(s) {
 function stripTypst(s) { return String(s).replace(/\[|\]/g, '').replace(/#[a-z]+/g, '').trim(); }
 function escHtml(s)    { return String(s).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;'); }
 
-// ═══════════════════════════════════════════════════════════
-//  SIDEBAR
-// ═══════════════════════════════════════════════════════════
-function renderSidebar() {
-  const nav = document.getElementById('sidebar-nav');
-  nav.innerHTML = '';
-
-  // ── Overview item (always first) ──
-  const overviewEl = document.createElement('div');
-  overviewEl.className = 'nav-overview' + (activePlanId === null ? ' active' : '');
-  overviewEl.innerHTML = '<span class="nav-overview-icon">📄</span> Overview';
-  overviewEl.onclick = showOverview;
-  nav.appendChild(overviewEl);
-
-  if (plans.length === 0) {
-    const empty = document.createElement('div');
-    empty.className = 'sidebar-empty';
-    empty.innerHTML = '<div class="icon">✈</div><p>No lesson plans loaded.</p>';
-    nav.appendChild(empty);
-    return;
-  }
-
-  // ── Phase groups ──
-  const groups = {};
-  plans.forEach(p => {
-    const ph = guessPhase(p.meta.unit || '');
-    if (!groups[ph]) groups[ph] = [];
-    groups[ph].push(p);
-  });
-
-  for (const [phase, items] of Object.entries(groups)) {
-    const grp = document.createElement('div');
-    grp.className = 'phase-group';
-    grp.innerHTML = `<div class="phase-label">${escHtml(phase)}</div>`;
-
-    items.forEach(p => {
-      const isActive = p.id === activePlanId;
-      const code     = extractCode(p.meta.unit || '');
-      const name     = p.meta.title || stripTypst(p.lesson.title || '') || 'Untitled';
-
-      const sectionLinks = SECTION_DEFS
-        .filter(def => p.lesson[def.key] && p.lesson[def.key].trim())
-        .map(def => `<button class="nav-subitem" onclick="scrollToSection('${p.id}','${def.key}')"><span class="sub-dot"></span>${escHtml(def.label)}</button>`)
-        .join('');
-
-      const el = document.createElement('div');
-      el.className = 'nav-item' + (isActive ? ' active' : '');
-      el.dataset.id = p.id;
-      el.innerHTML = `
-        <div class="nav-item-row" onclick="showPlan('${p.id}')">
-          <div class="nav-item-content">
-            <span class="nav-code">${escHtml(code)}</span>
-            <span class="nav-name">${escHtml(name)}</span>
-          </div>
-          <span class="nav-chevron">▶</span>
-        </div>
-        <div class="nav-submenu">${sectionLinks}</div>`;
-      grp.appendChild(el);
-    });
-    nav.appendChild(grp);
-  }
-}
-
-function guessPhase(unit) {
-  if (/phase\s*1|lesson\s*[1-9]/i.test(unit)) return 'Phase 1 — Dual';
-  if (/phase\s*2|stage\s*c/i.test(unit)) return 'Phase 2 — Circuits';
-  if (/phase\s*3/i.test(unit)) return 'Phase 3 — Area';
-  return 'Other';
-}
-function extractCode(unit) {
-  const m = unit.match(/[EeC]\d+[A-Za-z]?(?:[\/,][EeC]\d+[A-Za-z]?)*/g);
-  if (m) return m.join(', ');
-  const s = unit.match(/Stage\s+\w+/i);
-  return s ? s[0] : '';
-}
-
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 //  RENDER LESSONS
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 function renderLesson(plan) {
   const m = plan.meta, l = plan.lesson;
   const title = stripTypst(l.title || m.title || 'Untitled');
   const pid   = plan.id;
-
   let html = `
     <div class="lesson-header">
       <div class="lesson-badge">${escHtml(m.unit || '')}</div>
       <h1 class="lesson-title">${escHtml(title)}</h1>
       ${l.aim ? `<p class="lesson-aim">${escHtml(stripTypst(l.aim).replace(/\n/g,' '))}</p>` : ''}
     </div>`;
-
   if (l.overview) html += `<div class="overview-box">${escHtml(stripTypst(l.overview).replace(/\s+/g,' ').trim())}</div>`;
-
   html += `<div class="expand-bar">
     <button class="expand-btn" onclick="expandAll()">Expand all</button>
     <div class="expand-divider"></div>
     <button class="expand-btn" onclick="collapseAll()">Collapse all</button>
   </div>`;
-
   for (const def of SECTION_DEFS) {
     const content = l[def.key];
     if (!content || !content.trim()) continue;
@@ -580,7 +870,6 @@ function renderLesson(plan) {
         <div class="section-body">${typstToHtml(content)}</div>
       </div>`;
   }
-
   return html;
 }
 
@@ -596,21 +885,23 @@ function renderPlansContainer() {
   });
 }
 
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 //  SHOW / SCROLL / EXPAND
-// ═══════════════════════════════════════════════════════════
-function showPlan(id) {
-  activePlanId = id;
-
-  // Hide overview
+// ─────────────────────────────────────────────
+function hideAllContent() {
   document.getElementById('overview-page').classList.remove('visible');
-
-  // Show lessons container
-  document.getElementById('lessons-container').style.display = 'block';
+  document.getElementById('kneeboard-page').classList.remove('visible');
+  document.getElementById('lessons-container').style.display = 'none';
   document.querySelectorAll('.lesson').forEach(el => el.classList.remove('visible'));
+}
+
+function showPlan(id) {
+  activePlanId  = id;
+  activeTopPage = 'plans';
+  hideAllContent();
+  document.getElementById('lessons-container').style.display = 'block';
   const target = document.getElementById('plan-' + id);
   if (target) target.classList.add('visible');
-
   renderSidebar();
   window.scrollTo({ top: 0, behavior: 'smooth' });
   if (window.innerWidth <= 860) document.getElementById('sidebar').classList.remove('open');
@@ -638,26 +929,25 @@ function collapseAll() {
 }
 function toggleSection(el) { el.classList.toggle('open'); }
 
-// ═══════════════════════════════════════════════════════════
-//  UI HELPERS
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
+//  STATE DISPLAY
+// ─────────────────────────────────────────────
 function showState(state) {
   ['loading','setup','empty','error'].forEach(s => {
     document.getElementById('state-' + s).style.display = s === state ? 'flex' : 'none';
   });
-  const isContent = state === 'content';
-  document.getElementById('lessons-container').style.display = isContent ? 'block' : 'none';
-  if (!isContent) document.getElementById('overview-page').classList.remove('visible');
+  if (state !== 'content') hideAllContent();
 }
 
 function toggleSidebar() { document.getElementById('sidebar').classList.toggle('open'); }
 
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 //  INIT & REFRESH
-// ═══════════════════════════════════════════════════════════
+// ─────────────────────────────────────────────
 async function init() {
   showState('loading');
-  readmeHtml = null; // clear cache on refresh so README reloads too
+  readmeHtml      = null;
+  kneeboardLoaded = false;
 
   let fetchedPlans;
   try {
@@ -668,26 +958,23 @@ async function init() {
     return;
   }
 
-  if (fetchedPlans === null)     { renderSidebar(); showState('setup'); return; }
-  if (fetchedPlans.length === 0) { renderSidebar(); showState('empty'); return; }
+  if (fetchedPlans === null)     { renderSidebar(); showState('setup'); showOverview(); return; }
+  if (fetchedPlans.length === 0) { renderSidebar(); showState('empty'); showOverview(); return; }
 
   plans = fetchedPlans;
+  if (!activePlanId || !plans.find(p => p.id === activePlanId)) activePlanId = null;
 
   renderSidebar();
   renderPlansContainer();
   showState('content');
-
-  // Default to Overview page on first load
-  showOverview();
+  showOverview(); // always land on Overview
 }
 
 async function refreshAll() {
   const btn = document.getElementById('refresh-btn');
-  btn.disabled = true;
-  btn.classList.add('spinning');
+  btn.disabled = true; btn.classList.add('spinning');
   await init();
-  btn.disabled = false;
-  btn.classList.remove('spinning');
+  btn.disabled = false; btn.classList.remove('spinning');
 }
 
 init();

@@ -96,8 +96,9 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 
 ,in_flight_tasks:[
 #text(size:12pt)[*Demonstration*]
-- Instructor demonstrates one crosswind circuit including takeoff, drift correction on all legs, approach, and landing — narrate corrections throughout
+- Instructor demonstrates one crosswind circuit including takeoff, drift correction on all legs, approach, and landing — patter corrections throughout
 - Highlight drift on downwind; demonstrate crab angle or sideslip on final; demonstrate hold-off and crosswind landing rollout
+- Instructor demonstrates one additional crosswind landing using the technique not used in the first demonstration. The student should have been demonstrated both the wing-down and crabbed method
 
 #text(size:12pt)[*Student Practice*]
 - Crosswind takeoff: into-wind aileron before roll; rudder for centreline; release aileron progressively
@@ -116,6 +117,7 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 - *Insufficient into-wind aileron on rollout*: Apply and maintain after touchdown; the upwind wing will lift if not held.
 - *No drift correction in circuit*: Apply correction angle and hold; do not chase the runway with frequent heading changes.
 - *Airspeed fixation*: Attitude is the primary indication; especially in gusty conditions; do not chase the airspeed indicator.
+- *Misjudging student ability*: Do not push students so far outside their skill level that they feel defeated. Constant control intervention does not help student; consider another activity if student progress is regressing.
 ]
 
 ,post_flight:[
@@ -136,7 +138,7 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 - *Circuit tracking*: Wind correction applied on most legs; occasional drift with self-correction
 - *Gate assessment*: Gate assessed at 300 ft with occasional prompting; go-around initiated when gate not met
 - *Landing*: Crosswind landing completed safely; may require prompting on aileron application during rollout
-- *Weather*: NAIPS TAF obtained independently; crosswind component calculated with minor guidance
+- *Weather*: NAIPS TAF/GAF/GPWT obtained independently; crosswind component calculated with minor guidance
 
 #text(size:12pt)[*Solo Standard (S) — required for crosswind solo authorisation; two separate flights in 5–8 kt crosswind*]
 - *Crosswind takeoff*: Into-wind aileron applied consistently; centreline maintained throughout
@@ -144,7 +146,7 @@ Equipment required: Whiteboard, runway diagram, aircraft model \
 - *Gate assessment*: All four criteria assessed at 300 ft every approach; gate met or go-around initiated without prompting
 - *Landing*: Technique selected and briefed; drift controlled throughout approach; airspeed +5/−0 kts; into-wind aileron maintained through rollout
 - *Go-around*: Initiated proactively when approach unstable; no prompting
-- *Weather*: NAIPS TAF obtained and interpreted independently; crosswind component calculated correctly
+- *Weather*: NAIPS TAF/GAF/GPWT obtained and interpreted independently; crosswind component calculated correctly
 
 - *Outcome*: Recorded as P, S, or NC per session with specific comments. S standard in 5–8 kt crosswind noted separately from dual-only training in stronger conditions.
 ]

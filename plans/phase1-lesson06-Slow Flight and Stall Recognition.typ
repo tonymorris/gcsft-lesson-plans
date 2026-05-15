@@ -123,11 +123,12 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 ]
 
 ,common_errors:[
-- *Insufficient HASSELL check*: HASSELL is mandatory. 360° lookout turn required.
+- *HASSELL forgotten*: HASSELL is mandatory. 360° lookout turn required.
 - *Over-controlling in slow flight*: Smooth, deliberate inputs only; excessive input causes oscillation.
 - *Overzealous recovery*: _Relax_ backpressure, rather than sharp nose-down input.
 - *Using ailerons on wing drop*: Rudder to control yaw; ailerons neutral until wing is unstalled.
 - *Flap limit not respected*: Smoothly but positively pitch nose to the horizon in an approach configuration stall.
+- *Recovering to S&L*: All stalls are to be recovered to a Vy climb
 - *Losing LARI scan in slow flight*: The LARI scan continues in slow flight — attitude and reference are more critical.
 ]
 

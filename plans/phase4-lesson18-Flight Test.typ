@@ -67,7 +67,7 @@ _Training record:_
 
 ,ground_tasks:[
 #text(size:12pt)[*Candidate*]
-- Obtains NAIPS TAF/GAF; checks BOM radar; briefs conditions and suitability
+- Obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability
 - Checks NOTAMs; briefs examiner on any relevant items
 - Reviews maintenance release; briefs examiner on all items checked
 - Calculates weight and balance for today's actual loading; plots CG on envelope; confirms within limits; briefs examiner

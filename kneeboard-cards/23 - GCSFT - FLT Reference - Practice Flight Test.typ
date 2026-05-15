@@ -53,8 +53,8 @@
       content: [
         - Silent assessor throughout — *no coaching or prompting*
         - Intervene only for safety
-        - Record C, approaching C, or NC per element with notes
-        - *NC items from practice test = priority targets for L5.3 remediation*
+        - Record C, S or NC per element with notes
+        - *NC, P or S items from practice test = priority targets for L5.3 remediation*
         - If multiple elements clearly not at C standard → stop flight; debrief; reschedule after targeted remediation
         - Note: assessment flight can cause increased student stress — brief stress management before flight
       ],
@@ -64,7 +64,7 @@
       content: [
         - *W&B incomplete or incorrect* → NC for E1
         - *HASSELL omitted* → NC for E9 and E10 — non-negotiable
-        - *Gate not applied* → NC for E12
+        - *Stable Gate not applied* → NC for E12
         - *Radio omissions on transitions* → NC for E13
         - *ABCDEF incomplete or out of order* → NC for E14
       ],

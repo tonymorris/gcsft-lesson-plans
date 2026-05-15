@@ -39,7 +39,7 @@ Equipment required: Student training record \
 
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
-- Obtain or verify NAIPS TAF; confirm conditions meet solo weather minima
+- Obtain or verify NAIPS TAF/GAF/GPWT; confirm conditions meet solo weather minima
 - Check NOTAMs; confirm no restrictions relevant to solo flight
 - Review maintenance release; sign the release
 - Enter solo authorisation in the student training record

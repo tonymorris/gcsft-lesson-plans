@@ -8,7 +8,7 @@
   aim: [Fly constant direction and altitude at varying airspeeds using the PAT and LARI workcycles.],
   sequence: (
     (badge: "d", content: [*QNH*: Set during taxi using ATIS/AWIS or airfield elevation; student observes]),
-    (badge: "dp", content: [*E8*: Instructor TO/liftoff; student takes control in initial climb — maintain heading on reference]),
+    (badge: "dp", content: [*E8 Takeoff*: Instructor TO/liftoff; student takes control in initial climb — maintain heading on reference]),
     (badge: "dp", content: [*S&L cruise*: *PAT* to establish; hold attitude _without instruments_; student practices]),
     (badge: "dp", content: [*Deviation/correction*: Instructor induces pitch/roll/power deviations; student corrects]),
     (badge: "dp", content: [*LARI*: Introduce PAT -> LARI transition; same deviation/correction sequence, just use LARI after each]),
