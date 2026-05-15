@@ -61,7 +61,7 @@ Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 - Four forces in slow flight; lift generated at high angles of attack
 - Critical angle of attack (~15°) exceeded, regardless of airspeed = stall
 - Stall speed and factors: weight; load factor; flap; power; CoG; wing contamination
-- Pre-stall symptoms in sequence: control position; decreasing airspeed; high nose attitude; decreasing control effectivness; control heaviness; stall warning; buffet
+- Pre-stall symptoms in sequence: control position; decreasing airspeed; high nose attitude; decreasing control effectiveness; control heaviness; stall warning; buffet
 - Stall: uncommanded pitch, possibly roll, descent rate; control reversal
 - Wing drop intro: one wing reaches critical angle first; ailerons worsen the roll — rudder to keep straight; rudder to stop roll when close to critical angle of attack
 
@@ -157,7 +157,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 - *Slow flight*: Maintains airspeed +10/−0 kts of target (S), altitude ±150 ft (S), heading ±5° (S)
 - *HASSELL check*: Completed thoroughly and without prompting before each exercise
 - *Impending stall recognition*: Consistently identifies symptoms before the full stall develops (S)
-- *Impending stall recovery*: Recognises a stall is cetain and initiates correct recovery within 3 seconds (S); recovers with ≤300 ft height loss (S)
+- *Impending stall recovery*: Recognises a stall is certain and initiates correct recovery within 3 seconds (S); recovers with ≤300 ft height loss (S)
 - *Stall recovery*: Initiates recovery at the point the aircraft stalls, without overcontrolling or incorrect control input; height loss ≤400 ft
 - *Coordination*: Ball ±1/4 width during slow flight and recovery (S)
 - *Knowledge*: Explains stall aerodynamics, symptoms, and recovery sequence with minor prompting

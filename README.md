@@ -8,7 +8,7 @@ These lesson plans are the proposed plans going forward from June 01.
 These new lessons are designed to comply with the V8 RAAus RPC syllabus. Although not formally required yet, at a time in the not-too-distant future RAAus will require flight schools to implement some new syllabus elements.
 This will also clean up FSP and make the records far more readable for us and external parties.
 
-The lesson plans are very verbose (wordy). And they done this way intentionally, not because instructors need reminding of the primary effects of the controls, but to make sure that we are all covering *all* the required material **in a similar and consistent way** for our students. The idea of a lesson plan, is to provide a single document that we all teach to. If there's any doubt about how to teach something, the answer should be in the lesson plan.
+The lesson plans are very verbose (wordy). And they are done this way intentionally, not because instructors need reminding of the primary effects of the controls, but to make sure that we are all covering *all* the required material **in a similar and consistent way** for our students. The idea of a lesson plan is to provide a single document that we all teach to. If there's any doubt about how to teach something, the answer should be in the lesson plan.
 
 ## To-Do
 - Rework the briefings to align with the new syllabus
@@ -24,7 +24,7 @@ The lesson plans are very verbose (wordy). And they done this way intentionally,
 
 ## Training Structure/Competency Standards
 
-The competency standards in the plans follow the V8 syllabus of NC - Not competent, S - Solo, C - Competent. I've added one extra, P - Progressing, which indicates that they are not quite at solo standard, but at a high enough standard for progression to the next lesson. A "P" standard, means that at some later stage, that lesson will need to be marked an "S" when they achieve it. P does not equal S
+The competency standards in the plans follow the V8 syllabus of NC - Not competent, S - Solo, C - Competent. I've added one extra, P - Progressing, which indicates that they are not quite at solo standard, but at a high enough standard for progression to the next lesson. A "P" standard means that at some later stage, that lesson will need to be marked as an "S" when they achieve it. P does not equal S
 
 To compare with the current standard:
 - NC = Not competent = 5
@@ -34,7 +34,7 @@ To compare with the current standard:
 
 ### Phase 1 — Upper Airwork (Lessons 1–7)
 In previous training structures, the goal has always been to push students to the circuit as quickly as possible. This syllabus keeps the student in the training area for a little longer, in order to refine their basic aircraft handling skills.
-The lessons in phase 1 only include the basics - ie, no steep turns, no advanced stalling - enough to keep the students safe. However, the standard for passing these lessons is higher. The student needs to perform the basics **well**.
+The lessons in phase 1 only include the basics - i.e., no steep turns, no advanced stalling - enough to keep the students safe. However, the standard for passing these lessons is higher. The student needs to perform the basics **well**.
 
 Lesson 00 is a ground only lesson - covering an overview of the entire training process, pre-flight inspection, documentation, weather and the effects of controls briefing.
 
@@ -79,7 +79,7 @@ Advanced training, and area training solo preparation. Weight and Balance conduc
 | 15 | CODE: 1.2 WB | Weight and Balance |
 
 ### Phase 4 — Flight Test
-Preparation for the flight test, including documentation checks, the the flight test itself.
+Preparation for the flight test, including documentation checks, the flight test itself.
 
 | Lesson | Elements | Topic |
 |-------|----------|-------|
@@ -102,5 +102,5 @@ The **Bob Tait Basic Aeronautical Knowledge for RAAus** is used throughout. Page
 
 ## Feedback
 
-Send feedback via email to CFI
-Or, for those inclined - feel free to use github...
+Send feedback via email to CFI.
+Or, for those inclined - feel free to use GitHub...

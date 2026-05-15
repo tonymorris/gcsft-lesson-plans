@@ -11,7 +11,7 @@
     (badge: "dp", content: [*E8 Takeoff*: Instructor ground roll/lift-off; student takes control after lift-off — maintain climbout attitude and heading]),
     (badge: "dp", content: [*Vy climb*: _PAT_ to establish; Vy ±5 kt, hdg ±5°; student practices; _Nose down + lookout every 500 feet_]),
     (badge: "dp", content: [*Level-off from Vy*: APT — anticipate ~50 ft (10% ROC); student aims for ±100 ft]),
-    (badge: "p",  content: [*Short Straight and Level practice*: S&L ±150 kt, hdg ±10° -> LARI. Correct deviations with PAT -> LARI]),
+    (badge: "p",  content: [*Short Straight and Level practice*: S&L ±150 ft, hdg ±10° -> LARI. Correct deviations with PAT -> LARI]),
     (badge: "d", content: [*Descent*: Instructor can discuss next demonstration with student while descending.]),
     (badge: "dp", content: [*Vy to Vx climb*: Start Vy climb, transition to Vx. Show steeper attitude and reduced VS; student practices and compares]),
     (badge: "dP", content: [*Descent*: Student or instructor descends.]),

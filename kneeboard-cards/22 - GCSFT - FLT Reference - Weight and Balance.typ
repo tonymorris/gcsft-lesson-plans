@@ -18,7 +18,7 @@
         - Sum all weights → total weight
         - Sum all moments → total moment
         - *CG = Total Moment ÷ Total Weight*
-        - Plot CG at the calculated weight on the POH envelope chart or refer to foward and aft limits
+        - Plot CG at the calculated weight on the POH envelope chart or refer to forward and aft limits
         - *Also check at zero fuel weight* — fuel burn can move CG out of limits
       ],
     ),

@@ -11,7 +11,7 @@
     (badge: "dp", content: [*HASSELL*: Demo all items; student participates — _before stalling begins, and every 15 min_]),
     (badge: "dp", content: [*Slow flight*: ~1.3Vs, coordinated S&L; student manages PAT/LARI; note control position at slow speed]),
     (badge: "p",  content: [*Slow flight turns*: Shallow banked; maintain coordination and altitude; lead with rudder]),
-    (badge: "d",  content: [*Pre-stall symptoms*: Patter each in sequence — _control position_, airspeed decay, high nose, sloppyness, stall warning, buffet]),
+    (badge: "d",  content: [*Pre-stall symptoms*: Patter each in sequence — _control position_, airspeed decay, high nose, sloppiness, stall warning, buffet]),
     (badge: "dp", content: [*Impending stall recovery*: Relax backpressure when just forward of stall position (do not actually stall); full power; PAT; student practices; <=300 ft loss]),
     (badge: "dp", content: [*S&L idle power stall*: Demo full stall all symptoms; student practices]),
     (badge: "dp", content: [*Approach config stalls*: 3000 RPM, flaps 2 _same control position at stall_; student practices]),

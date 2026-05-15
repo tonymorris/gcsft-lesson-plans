@@ -33,7 +33,7 @@
     - *T&G rushed* -> Flap before power — every time
   ],
   standards: [
-    *Progressing (P):* Gate with occasional prompting; ASI +10/-5 kt; touchdown -50/+250 m; prompting still needed for go-arounds; control intervension no longer required\
+    *Progressing (P):* Gate with occasional prompting; ASI +10/-5 kt; touchdown -50/+250 m; prompting still needed for go-arounds; control intervention no longer required\
     *Solo (S) — two separate flights:* Gate without prompting; ASI +5/-0 kt; touchdown -0/+100 m; TGL with correct technique independently; go-around decisions made independently with no prompting
   ],
   safety: [

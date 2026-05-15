@@ -98,7 +98,7 @@ _Weather on the day:_
 Crosswind *\<5 knots* + BASIC requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement NOT met = Do not solo ❌\
-Crossind *>8 knots* = Do not solo. ❌ Move to Phase 3. Return when conditions allow.
+Crosswind *>8 knots* = Do not solo. ❌ Move to Phase 3. Return when conditions allow.
 ]
 
 ,safety:[

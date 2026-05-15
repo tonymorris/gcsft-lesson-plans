@@ -72,7 +72,7 @@ Equipment required: Aircraft, aircraft model, access to electronic briefing, POH
 
 *Non-Technical Skills and IMSAFE* (5 minutes)
 - IMSAFE: Illness, Medication, Stress, Alcohol, Fatigue, Eating/Drinking — apply before every flight without exception; if any item is a concern, do not fly
-- [TEM] Ground operation hazards: propellers (do not walk in front of occupied aircraft, keys visable on the dash, master on only when needed); prop wash; other aircraft taxiing; confined spaces; wind effects on parked and taxiing aircraft
+- [TEM] Ground operation hazards: propellers (do not walk in front of occupied aircraft, keys visible on the dash, master on only when needed); prop wash; other aircraft taxiing; confined spaces; wind effects on parked and taxiing aircraft
 - [SA] Airport layout orientation: parking, runup area, runway, taxiways, windsock, circuit direction; orient the student using the actual aerodrome
 - [CRM] Control handover procedure: "I have control/you have control" stated clearly; both occupants confirm on controls before release; "follow me through" technique — feel the input, do not add to it
 
@@ -83,7 +83,7 @@ Equipment required: Aircraft, aircraft model, access to electronic briefing, POH
 
 *Aircraft Documentation — Maintenance Release and POH* (5 minutes)
 - Purpose: confirms the aircraft has been maintained in accordance with the correct schedule and is authorised for flight
-- Key items: last signed date; any required maintainence ouside the schedule; any endorsements; oil entries
+- Key items: last signed date; any required maintenance outside the schedule; any endorsements; oil entries
 - Who signs it: the student reviews all items and briefs the instructor before the instructor signs
 - Location of the POH
 
@@ -168,7 +168,7 @@ Not applicable
   - Confirm the student can walk through the pre-flight inspection sequence from memory at a high level
   - Confirm required documents are understood and their purpose is clear
   - Preview Lesson 1: "In the next lesson, we taxi for the first time and then fly. Your job before then is to read the homework so the theory is solid."
-- *Next Steps*: Assign homework. The student should be able to recall all primary effects, further effects, and describle trim usage before Lesson 1.
+- *Next Steps*: Assign homework. The student should be able to recall all primary effects, further effects, and describe trim usage before Lesson 1.
 ]
 
 ,standards_for_progression:[

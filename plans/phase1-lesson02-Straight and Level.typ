@@ -20,7 +20,7 @@ Building on the control skills from Lesson 1, the student now integrates all pri
 ,learning_outcomes: [
 #text(size:12pt)[*Knowledge*]
 - Recall the four aerodynamic forces (lift, weight, thrust, drag) and their importance in straight and level flight
-- Explain lift generation and how angle of attack and airspeed effect lift
+- Explain lift generation and how angle of attack and airspeed affect lift
 - Describe the concept of attitude flying: Power + Attitude = Performance
 - Explain the PAT and LARI workcycles and when each is used
 - Explain the altimeter subscale purpose and the QNH setting procedure
@@ -57,7 +57,7 @@ Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 - [HF] Parallax correction in left seat; visual illusions in level flight
 
 *Four Aerodynamic Forces and Lift* (10 minutes)
-- Lift, weight, thrust, drag — equalibrium in level flight
+- Lift, weight, thrust, drag — equilibrium in level flight
 - Coupling in the four forces and tail-down force
 - Lift generation: angle of attack and airspeed
 - Effect of flaps on lift and drag
