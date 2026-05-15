@@ -70,7 +70,7 @@ Equipment required: Aircraft model, whiteboard \
 - Recognition: low pitch attitude, airspeed increasing, high rate of descent, tight bank
 - Recovery: close throttle, roll wings level with ailerons and rudder, ease back once wings are level — not before
 - Connection to E9: this is the spiral dive recovery; the procedure is identical
-- Do not apply backpressure before wings are level — this tightens the spiral and increases asymetrical structural load
+- Do not apply backpressure before wings are level — this tightens the spiral and increases asymmetrical structural load
 
 *In-Flight Fire* (5 minutes)
 - Refer to POH for all procedures; cover the following procedures using the POH:
@@ -99,7 +99,7 @@ Equipment required: Aircraft model, whiteboard \
 - Student checks NOTAMs; briefs relevant items
 - Student reviews maintenance release; briefs instructor
 - Student briefs planned flight including HASSELL minimum height and each emergency scenario to be covered
-- Participate in discussions with instructor about different scenarios, and how the ADM principles would apply"
+- Participate in discussions with instructor about different scenarios, and how the ADM principles would apply
 
 #text(size:12pt)[*Instructor*]
 - Receives brief
@@ -130,7 +130,7 @@ Student operates as PIC. Instructor is silent observer. All ground operations, t
 - Fire simulation: instructor calls scenario; student executes from memory; patters each action
 - Smoke/fumes simulation: student identifies and patters actions
 - Trim failure simulation: instructor applies trim deflection without comment; student identifies, compensates, patters actions
-- Participate the the Jammed flight controls scenario with the instructor: offer suggested actions
+- Participate in the jammed flight controls scenario with the instructor: offer suggested actions
 - Scenario task: "You are at 3500 ft in the training area and there is smoke coming from behind the panel. Do we adopt best glide? What are your actions?"
 
 #text(size:12pt)[*Observer/PIC Phase — Return*]

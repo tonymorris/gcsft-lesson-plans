@@ -35,7 +35,7 @@ S standard must be demonstrated on two separate flights before area solo is auth
 - Select a suitable landing field using the 6-S criteria before entering the FLWOP circuit
 - Position the aircraft in the FLWOP circuit to arrive at high/low-key points at the correct altitudes
 - Conduct the FAST check during the circuit without compromising aircraft control or field awareness
-- Deliver a simulated a simulated MAYDAY call (D) and passenger brief (E)
+- Deliver a simulated MAYDAY call (D) and passenger brief (E)
 - Conduct a precautionary search: inspection passes at correct heights; decide to land or reject
 
 #text(size:12pt)[*Non-Technical Skills*]
@@ -190,7 +190,7 @@ Student conducts return transit, area radio calls, overhead join, and landing in
 - *ABC checks*: Executes all steps in correct order; content of each step mostly correct
 - *A step*: Glide attitude achieved within 10 seconds; best glide speed ±10 kts
 - *B step*: Field selected before exercise begins; 6-S criteria assessed with guidance; aim point approximately at one-third
-- *C step*: FAST checks initiated,  with promting for items
+- *C step*: FAST checks initiated,  with prompting for items
 - *D and E steps*: MAYDAY and passenger brief simulated with instructor guidance
 - *FLWOP circuit*: Arrives at low-key at approximately 1000 ft
 - *Precautionary search*: Two passes completed; heights approximately correct; decision made with guidance
@@ -210,8 +210,8 @@ Student conducts return transit, area radio calls, overhead join, and landing in
 - All S standard items plus:
 - *ABC checks*: Executed promptly and fluently with no hesitation; tasks managed effectively; no instructor input
 - *FLWOP circuit*: Altitude management acceptable; field assured by 500 ft with margin
-- *Field selection*: Appropriate field (6-S not required to be verbalised, but field mut be appropriate); aim point precisely at one-third
-- *Precautionary search*: Heights correct; airspeed managaged; decision reasoning complete; no instructor input at any point
+- *Field selection*: Appropriate field (6-S not required to be verbalised, but field must be appropriate); aim point precisely at one-third
+- *Precautionary search*: Heights correct; airspeed managed; decision reasoning complete; no instructor input at any point
 
 - *Outcome*: Recorded in training record as P, S, or C. Two flights at S standard noted separately. Reference card use recorded for first attempts.
 ]
@@ -221,7 +221,7 @@ Student conducts return transit, area radio calls, overhead join, and landing in
 - *Altitude*: Training go-around height specified by instructor before flight — minimum 500 ft AGL for FLWOP;  precautionary search minimum pass heights (300 ft AGL) at aerodrome only.
 - *Emergency Procedures*: Go-around height confirmed; student confirms understanding
 - *TEM*:
-  - *Do not* operate the aircraft in such a way that a real engine failure puts the flight in jeapody. If the exercise is being conducted to the only available field, and the glide is being mismanaged, go around
+  - *Do not* operate the aircraft in such a way that a real engine failure puts the flight in jeopardy. If the exercise is being conducted to the only available field, and the glide is being mismanaged, go around
   - Clear engine every 1000 feet in the descent and monitor engine temperatures; do not add full power to cold engine
   - Precautionary search passes: 300 ft AGL pass is to be conducted at an aerodrome only
   - Monitor for spatial disorientation during low, slow passes in precautionary search

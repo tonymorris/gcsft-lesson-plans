@@ -31,13 +31,13 @@ Stage C3 introduces circuit emergency procedures before first solo. Engine failu
 - Describe actions in the event of animal hazards: go-around is always acceptable; do not attempt to land if the runway is uncertain
 
 #text(size:12pt)[*Skills*]
-- Exceute a rejected takeoff safely: brakes and throttle controlled effectively, without confusion; centreline maintained
+- Execute a rejected takeoff safely: brakes and throttle controlled effectively, without confusion; centreline maintained
 - Execute EFATO procedure safely: lower nose, close throttle, land ahead — do not turn back; MAYDAY if able
 - Manage EFIC from each circuit position: select appropriate landing runway; configure appropriately; execute; use sideslip to manage excess height if required
 - Conduct a flapless circuit and landing: correct airspeed (+5 kts), adjusted circuit profile, correct landing technique
 - Conduct a low level circuit (500 ft AGL), applying correct procedure and flying neighbourly
 - Execute a go-around immediately for an occupied runway without prompting
-- Enter and exit a slidslip; use sideslip to steepen approach path when on a high energy profile
+- Enter and exit a sideslip; use sideslip to steepen approach path when on a high energy profile
 - Obtain NAIPS weather and complete NOTAM check independently
 ]
 
@@ -58,8 +58,8 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - [HF] Startle response in engine failure: the instinct is to freeze or pull back — trained immediate actions must override this; discuss and prepare before flight
 
 *Rejected Takeoff - RTO* (2 minutes)
-- In the takeoff safety brief identify toe or hand brakes; mimic physical actions as the breifing is conducted
-- Distinct, 3 step processs: Close throttle; maximum braking; feed in rearward elevator; directional control maintained throughout
+- In the takeoff safety brief identify toe or hand brakes; mimic physical actions as the briefing is conducted
+- Distinct, 3 step process: Close throttle; maximum braking; feed in rearward elevator; directional control maintained throughout
 - If not airborne by the pre-selected abort point: RTO; not negotiable
 
 *Engine Failure After Takeoff — EFATO* (8 minutes)
@@ -83,7 +83,7 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - What it is: uncoordinated use of aileron and opposite rudder to steepen the approach angle without increasing airspeed
 - When to use: high energy profile on EFIC or flapless final when other options are exhausted; last resort to avoid overrunning
 - How to enter: apply aileron toward intended slip direction; apply opposite rudder to prevent the aircraft turning; nose drops and rate/angle of descent increases
-- Airspeed: nose down attitue must be maintained — monitor closely as sideslip reduces airspeed indication accuracy; reference attitude
+- Airspeed: nose down attitude must be maintained — monitor closely as sideslip reduces airspeed indication accuracy; reference attitude
 - How to exit: roll level, while slowly reducing rudder input as needed; aircraft returns to coordinated flight; round out normally
 
 *Partial Power Failure* (2 minutes)
@@ -134,7 +134,7 @@ Equipment required: Circuit diagram showing EFATO and EFIC positions, whiteboard
 - Sideslip practice: conducted on a normal circuit final — student enters and exits sideslip at safe height
 - Flapless circuit: instructor calls "assume flap failure on base"; conducts flapless approach; instructor can ask "any troubleshooting actions?"
 - Low level circuit: student conducts one low level circuit at approximately 500 ft AGL as a deteriorating weather scenario; assess circuit management differences at reduced height; fly neighbourly
-- Partial power failure: instructor reduces to partial power (without normal "engine failure" annuciation to simulate startle); student makes continuation decision or initiates EFIC/EFATO as appropriate
+- Partial power failure: instructor reduces to partial power (without normal "engine failure" annunciation to simulate startle); student makes continuation decision or initiates EFIC/EFATO as appropriate
 - Occupied runway: instructor calls "aircraft on the runway"; student executes go-around immediately without prompting
 - Normal circuits with landings: interspersed throughout — emergency training must not displace landing currency
 ]

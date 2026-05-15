@@ -11,7 +11,7 @@
     (badge: "dp", content: [*Jammed controls on climbout*: ADM — _"How much time?"_; test landing config at altitude before committing; student participates. Some suggested instructor prompts: what next?, how do you think that will go?, any problems with that plan?, what resources do you need?, who can you talk to for help? etc.]),
     (badge: "d",  content: [*Nose-high UA*: Instructor creates; recovery — push, power if needed, roll wings level if bank present]),
     (badge: "d",  content: [*Nose-low UA*: Instructor creates; recovery — _throttle, roll wings level, ease back once level — not before_]),
-    (badge: "p",  content: [*UA practice*: Instructor creates — nose-high wings level -> with bank -> nose-low wings level -> with bank; stuent recovers on "recover" prompt]),
+    (badge: "p",  content: [*UA practice*: Instructor creates — nose-high wings level -> with bank -> nose-low wings level -> with bank; student recovers on "recover" prompt]),
     (badge: "dp", content: [*In-flight fire*: "Engine fire" — procedure as per POH; student performs from memory]),
     (badge: "dp", content: [*Smoke/fumes*: Procedure as per POH; student performs from memory]),
     (badge: "p",  content: [*Trim failure*: Instructor applies deflection without comment; student identifies, compensates]),

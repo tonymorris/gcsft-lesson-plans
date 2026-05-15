@@ -92,7 +92,7 @@ _Radio failure — initial actions_
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
 - Review student training record before the lesson; identify any elements requiring focus
-- Review weather, NOTAMs, and maintence release with student; confirm conditions suitable for all Phase 1 elements including stalling
+- Review weather, NOTAMs, and maintenance release with student; confirm conditions suitable for all Phase 1 elements including stalling
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and operations whiteboard

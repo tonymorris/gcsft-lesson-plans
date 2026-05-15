@@ -10,7 +10,7 @@
 title: [Descending]
 
 ,aim: [
-Descend the aircraft at various rates and in various configurations to a predetermined altitude whilst maintaining balance and; formally introduce the full takeoff sequence.
+Descend the aircraft at various rates and in various configurations to a predetermined altitude whilst maintaining balance, and formally introduce the full takeoff sequence.
 ]
 
 ,overview: [

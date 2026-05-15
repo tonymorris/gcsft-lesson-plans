@@ -140,7 +140,7 @@ _Inbound — Overhead Join:_
 - BUMPFISH early; complete circuit; touch and go, repeat
 
 _Inbound - Other Joins:_
-- Inbount call; determine runway in use ahead of time
+- Inbound call; determine runway in use ahead of time
 - Descend to 1000 AGL well ahead of circuit join
 - Join onto chosen leg; sequence with existing traffic; radio call
 - BUMPFISH; complete circuit; touch and go

@@ -92,7 +92,7 @@ Equipment required: Aircraft POH (weight and balance section), loading charts, w
 
 *Aircraft Weight and Balance Report/Card — from the Aircraft* (5 minutes)
 - The empty values for the weight and balance calculations come from a weight and balance report
-- Each report is unique to the airframe; a report from another aircraft can not be substituded
+- Each report is unique to the airframe; a report from another aircraft cannot be substituted
 
 *Practical Calculation Walkthrough* (10 minutes)
 - Instructor works through one loading scenario from the POH step by step:
@@ -127,7 +127,7 @@ Equipment required: Aircraft POH (weight and balance section), loading charts, w
 ]
 
 ,common_errors:[
-- *Forgetting to include zero fuel weight calculation*: Zero fuel could move the GC out of limits; check both the take-off loading and zero fuel loading is within GC limits.
+- *Forgetting to include zero fuel weight calculation*: Zero fuel could move the CG out of limits; check both the take-off loading and zero fuel loading is within CG limits.
 - *Using the wrong fuel density*: AVGAS = 0.72 kg/L
 ]
 

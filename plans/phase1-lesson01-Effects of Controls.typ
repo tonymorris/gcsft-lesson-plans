@@ -36,7 +36,7 @@ This lesson establishes the control technique habits, and horizon referencing di
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Monitor surrounding airspace; note other traffic; maintain awareness on the ground
-- [TEM] Identify threats on the ground, during starup and taxi; verbalise at least one threat in the training area when prompted
+- [TEM] Identify threats on the ground, during startup and taxi; verbalise at least one threat in the training area when prompted
 - [HF] Identify parallax error from the left seat — horizon and instrument references will differ under certain circumstances; expect and correct for it
 - [CRM] Apply correct control handover procedure throughout; hand over promptly and clearly; follow through on controls during demonstrations without adding input
 ]

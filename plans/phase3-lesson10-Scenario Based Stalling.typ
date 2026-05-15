@@ -186,7 +186,7 @@ Student conducts return transit, circuit join, radio calls, and landing independ
   - Instructor takes control at first sign of incipient spin development
   - Monitor student for overload — pause between exercises; do not stack scenarios
   - Maintain SA regarding controlled airspace boundaries
-- *Aerobatic manoeuvring*: Tailslide is a risk in high power-to-weight ratio aircraft. Do not stall in an agressive nose high attitude with full power set. *+25° pitch limit when >5000 RPM*
+- *Aerobatic manoeuvring*: Tailslide is a risk in high power-to-weight ratio aircraft. Do not stall in an aggressive nose high attitude with full power set. *+25° pitch limit when >5000 RPM*
 ]
 
 ,homework:[
