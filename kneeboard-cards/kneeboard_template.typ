@@ -80,7 +80,7 @@
       #set text(size: 6.5pt, fill: midgrey)
       #grid(columns: (1fr, 1fr, 1fr),
         align(left)[#datetime.today().display("[day]/[month]/[year]")],
-        align(center)[#metadata.unit],
+        align(center)[#metadata.version],
         align(right)[#metadata.author]
       )
     ]

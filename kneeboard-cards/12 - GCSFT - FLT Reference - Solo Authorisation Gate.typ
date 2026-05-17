@@ -4,6 +4,7 @@
   title: "Solo Authorisation Gate",
   unit: "Phase 2 — Stage C4 | Decision Record",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let card = (

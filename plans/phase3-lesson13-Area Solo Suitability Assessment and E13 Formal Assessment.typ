@@ -4,6 +4,7 @@
   title: "Area Solo Suitability Assessment and E13 Formal Assessment",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 6 | Decision Gate + E13",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

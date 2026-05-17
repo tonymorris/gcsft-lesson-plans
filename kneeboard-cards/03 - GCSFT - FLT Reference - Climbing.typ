@@ -3,6 +3,7 @@
   title: "Climbing",
   unit: "Phase 1 — Lesson 3 | E4",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Climb at various rates and angles to a predetermined altitude while maintaining balance.],

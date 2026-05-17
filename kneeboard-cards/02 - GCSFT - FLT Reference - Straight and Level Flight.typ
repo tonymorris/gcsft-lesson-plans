@@ -3,6 +3,7 @@
   title: "Straight and Level Flight",
   unit: "Phase 1 — Lesson 2 | E3",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Fly constant direction and altitude at varying airspeeds using the PAT and LARI workcycles.],

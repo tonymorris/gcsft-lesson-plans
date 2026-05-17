@@ -3,6 +3,7 @@
   title: "Advanced Turning",
   unit: "Phase 3 — Lesson 9 | E9",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Perform steep turns up to 60° AoB and manage turning upsets including spiral dive recovery.],

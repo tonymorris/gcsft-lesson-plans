@@ -4,6 +4,7 @@
   title: "Straight and Level Flight",
   unit: "Group A (3-Axis) | Phase 1 — Lesson 2 | E3",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

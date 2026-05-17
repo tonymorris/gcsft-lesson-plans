@@ -3,6 +3,7 @@
   title: "Flight Preparation and Ground Operations",
   unit: "Phase 1 — Lesson 0 | E1",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Ground-only lesson. Cockpit familiarisation and pre-flight procedures. No flight conducted.],

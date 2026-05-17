@@ -3,6 +3,7 @@
   title: "Crosswind Circuits",
   unit: "Phase 2 — Stage C2B | E8, E11, E12",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Conduct takeoffs, circuits, and landings in 5–15 kt crosswind using correct technique throughout.],

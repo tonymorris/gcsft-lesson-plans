@@ -4,6 +4,7 @@
   title: "RPC Flight Test",
   unit: "Group A (3-Axis) | Phase 5 — Lesson 4 | All Elements",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

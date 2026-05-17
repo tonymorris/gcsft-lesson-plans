@@ -3,6 +3,7 @@
   title: "Descending",
   unit: "Phase 1 — Lesson 4 | E5",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Descend in various configurations to a predetermined altitude; introduce full takeoff sequence (E8).],

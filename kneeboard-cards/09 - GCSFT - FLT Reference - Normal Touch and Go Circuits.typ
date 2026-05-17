@@ -3,6 +3,7 @@
   title: "Normal Touch and Go Circuits",
   unit: "Phase 2 — Stage C2A | E8, E11, E12",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Land from a powered approach and conduct touch-and-go circuits to solo standard.],

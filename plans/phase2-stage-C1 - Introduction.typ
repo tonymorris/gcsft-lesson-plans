@@ -4,6 +4,7 @@
   title: "Basic Circuits",
   unit: "Group A (3-Axis) | Phase 2 — Stage C1 | E8, E11",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

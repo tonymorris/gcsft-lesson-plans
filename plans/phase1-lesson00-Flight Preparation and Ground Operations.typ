@@ -4,6 +4,7 @@
   title: "Flight Preparation and Ground Operations",
   unit: "Group A (3-Axis) | Phase 1 — Lesson 0 | E1",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

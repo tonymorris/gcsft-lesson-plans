@@ -4,6 +4,7 @@
   title: "Practice Flight Test",
   unit: "Group A (3-Axis) | Phase 5 — Lesson 2 | All Elements",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

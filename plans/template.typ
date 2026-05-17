@@ -8,7 +8,7 @@
       #grid(
         columns: (1fr, 1fr, 1fr),
         align(left, [Date: #{datetime.today().display("[month repr:long] [day], [year]")}]),
-        align(center, [Revision: 1.0]),
+        align(center, [Version: #metadata.version]),
         align(right, [Author: #metadata.author])
       )
     ]

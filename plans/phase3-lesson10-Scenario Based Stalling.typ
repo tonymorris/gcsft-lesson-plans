@@ -4,6 +4,7 @@
   title: "Scenario Based Stalling",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 3 | E10",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

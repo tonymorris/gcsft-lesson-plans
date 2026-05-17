@@ -3,6 +3,7 @@
   title: "Slow Flight and Stall Recognition",
   unit: "Phase 1 — Lesson 6 | E7",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Identify approaching stall symptoms in a range of configurations; execute a safe, timely recovery.],

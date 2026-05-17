@@ -4,6 +4,7 @@
   title: "Advanced Turning",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 2 | E9",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

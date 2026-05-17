@@ -3,6 +3,7 @@
   title: "Forced Landing and Precautionary Search",
   unit: "Phase 3 — Lesson 11 | E14",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Execute the ABCDEF sequence and FLWOP circuit from memory. Conduct a precautionary search.],

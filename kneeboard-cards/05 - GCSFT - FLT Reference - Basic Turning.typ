@@ -3,6 +3,7 @@
   title: "Basic Turning",
   unit: "Phase 1 — Lesson 5 | E6",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Turn to a preselected heading at a predetermined angle of bank, maintaining altitude and balance.],

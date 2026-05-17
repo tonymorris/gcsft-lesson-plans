@@ -4,6 +4,7 @@
   title: "Effects of Controls",
   unit: "Group A (3-Axis) | Phase 1 — Lesson 1 | E1/E2",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

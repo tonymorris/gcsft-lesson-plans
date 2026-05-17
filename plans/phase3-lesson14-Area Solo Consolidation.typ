@@ -4,6 +4,7 @@
   title: "Area Solo Consolidation",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 7 | E9, E10, E14, E15, E16",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

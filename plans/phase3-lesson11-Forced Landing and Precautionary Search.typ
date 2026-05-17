@@ -4,6 +4,7 @@
   title: "Forced Landing and Precautionary Search",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 4 | E14",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

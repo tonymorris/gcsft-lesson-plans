@@ -3,6 +3,7 @@
   title: "Training Area Operations — IOR",
   unit: "Phase 3 — Lesson 8 | E15",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Depart the circuit, operate in the training area, and return using the correct overhead joining procedure.],

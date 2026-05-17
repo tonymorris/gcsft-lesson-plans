@@ -4,6 +4,7 @@
   title: "Weight and Balance",
   unit: "Group A (3-Axis) | Phase 5 — Lesson 1 | CODE: 1.2 WB",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

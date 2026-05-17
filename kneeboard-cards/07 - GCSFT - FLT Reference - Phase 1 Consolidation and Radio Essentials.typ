@@ -3,6 +3,7 @@
   title: "Phase 1 Consolidation and Radio Essentials",
   unit: "Phase 1 — Lesson 7 | E1–E8 assessed; E13 intro",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Confirm all Phase 1 elements to solo standard. Formally assess E8. Introduce radio procedures for circuit operations.],

@@ -4,6 +4,7 @@
   title: "Phase 1 Consolidation and Radio Essentials",
   unit: "Group A (3-Axis) | Phase 1 — Lesson 7 | E1–E7, E8 assessed; E13 introduced",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

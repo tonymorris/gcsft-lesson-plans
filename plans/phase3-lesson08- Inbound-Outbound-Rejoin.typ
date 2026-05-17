@@ -4,6 +4,7 @@
   title: "Training Area Operations — Inbound/Outbound/Rejoin",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 1 | E15",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

@@ -3,6 +3,7 @@
   title: "Basic Circuits",
   unit: "Phase 2 — Stage C1 | E8, E11",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Establish a consistent circuit pattern using go-around circuits only. Introduce BUMPFISH, radio calls, and the stable approach gate.],

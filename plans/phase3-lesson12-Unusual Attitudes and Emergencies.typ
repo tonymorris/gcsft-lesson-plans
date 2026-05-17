@@ -4,6 +4,7 @@
   title: "Unusual Attitudes and Emergencies",
   unit: "Group A (3-Axis) | Phase 4 — Lesson 5 | E16",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

@@ -3,6 +3,7 @@
   title: "Circuit Emergencies",
   unit: "Phase 2 — Stage C3 | E8, E11",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Manage simulated engine failures and circuit abnormalities with correct decisions and procedures.],

@@ -3,6 +3,7 @@
   title: "Short and Soft Field Operations",
   unit: "Phase 2 — Stage C6 | E8, E11, E12",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Conduct short and soft field takeoffs and landings to C standard using correct technique and performance calculations.],

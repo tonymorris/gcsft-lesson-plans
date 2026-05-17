@@ -4,6 +4,7 @@
   title: "Climbing",
   unit: "Group A (3-Axis) | Phase 1 — Lesson 3 | E4",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let lesson = (

@@ -4,6 +4,7 @@
   title: "Weight and Balance",
   unit: "Phase 5 — Lesson 1 | Ground Lesson",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 
 #let card = (

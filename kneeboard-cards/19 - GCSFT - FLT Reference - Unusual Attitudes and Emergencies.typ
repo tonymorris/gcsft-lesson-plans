@@ -3,6 +3,7 @@
   title: "Unusual Attitudes and Emergencies",
   unit: "Phase 3 — Lesson 12 | E16",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Recognise and recover from nose-high and nose-low unusual attitudes; manage in-flight emergencies using the ADM framework.],

@@ -3,6 +3,7 @@
   title: "Scenario Based Stalling",
   unit: "Phase 3 — Lesson 10 | E10",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   aim: [Identify and recover from stalls in all configurations with emphasis on realistic circuit and departure scenarios.],

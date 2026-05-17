@@ -3,6 +3,7 @@
   title: "Effects of Controls",
   unit: "Phase 1 — Lesson 1 | E1/E2",
   author: "C.Moroney",
+  version: "v1.0.0",
 )
 #let card = (
   pagebreaks: ("errors"),
