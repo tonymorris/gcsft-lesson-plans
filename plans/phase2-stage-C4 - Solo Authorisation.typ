@@ -4,7 +4,7 @@
   title: "Solo Authorisation Gate",
   unit: "Group A (3-Axis) | Phase 2 — Stage C4 | Decision Record",
   author: "C.Moroney",
-  version: "v1.0.0",
+  version: "v1.1.0",
 )
 
 #let lesson = (
@@ -15,7 +15,7 @@ Formally record assessment of all pre-solo requirements and authorise first solo
 ]
 
 ,overview: [
-Stage C4 is not a training lesson — it is a structured decision record completed by the authorising instructor before first solo. It documents that all regulatory, competency, and weather requirements have been met. This lesson plan defines whether solo flight can proceed and under what conditions. This record is recorded in the student training records per RAAus FOM Section 2.06.
+Stage C4 is not a training lesson — it is a structured decision record completed by the authorising instructor before first solo. It documents that all regulatory, competency, and weather requirements have been met. This lesson plan defines whether solo flight can proceed and under what conditions. This record is entered in the student training records per RAAus FOM Section 2.06.
 ]
 
 ,learning_outcomes: [
@@ -72,20 +72,22 @@ Not applicable.
 
 _Regulatory requirements (RAAus FOM S2.06):_
 - ☐ Valid RAAus Student Pilot Certificate held
-- ☐ Age 15 years
+- ☐ Age 15 years or older
 - ☐ Financial flying membership of RAAus current
 - ☐ Health declaration current (driver licence medical standard)
 - ☐ Pre-Solo Air Legislation Exam passed (minimum 80%)
 
 _Competency requirements:_
-- ☐ E2–E7 all at S standard twice (Phase 1 gate met; recorded in training record)
+- ☐ E2–E7 all at S standard (Phase 1 gate met; recorded in training record)
+- ☐ E9 (Advanced Turning) at S standard — Phase 1 Lesson 7; two-flight requirement met (E6 + E9)
+- ☐ E10 (Scenario Based Stalling) at S standard — Phase 1 Lesson 8; two-flight requirement met (E7 + E10)
 - ☐ E8 (Take Off) at S standard
 - ☐ E11 (Circuits) — C1 completed; C2A normal circuits at S standard on two separate flights
 - ☐ E11 (Circuits) — C3 circuit emergencies at S standard on two separate flights
 - ☐ Radio — circuit call sequence correct without prompting; radio failure procedure known
 
 _Weather on the day:_
-- ☐ Crosswind \<5 knots (see below if \>5 knots)
+- ☐ Crosswind <5 knots (see below if >5 knots)
 - ☐ Ceiling >1500 ft AGL
 - ☐ Visibility >8 km
 - ☐ No significant turbulence, windshear, showers, or thunderstorms; conditions stable for the duration of planned solo
@@ -93,20 +95,20 @@ _Weather on the day:_
 #text(size:12pt)[*CROSSWIND REQUIREMENT — Additional requirement if crosswind 5–8 knots on solo day*]
 - ☐ All BASIC requirements met PLUS
 - ☐ C2B crosswind circuits at S standard on two separate flights in 5–8 kt crosswind
-- ☐ Crosswind \<8 knots
+- ☐ Crosswind <8 knots
 
 #text(size:12pt)[*Weather decision on solo day:*]\
-Crosswind *\<5 knots* + BASIC requirement met = Solo authorised ✅\
+Crosswind *<5 knots* + BASIC requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement NOT met = Do not solo ❌\
-Crosswind *>8 knots* = Do not solo. ❌ Move to Phase 3. Return when conditions allow.
+Crosswind *>8 knots* = Do not solo ❌ — move to Phase 3; return when conditions allow.
 ]
 
 ,safety:[
-- *Weather*: Conditions must meet BASIC minima at the time of solo departure; if conditions deteriorate, solo is cancelled and rebooked. Zero wind conditions may induce excessive floating. This risk should be assessed during dual portion of the lesson, especially if using a shorter runway. Emphasis on abort point discipline.
+- *Weather*: Conditions must meet BASIC minima at the time of solo departure; if conditions deteriorate between authorisation and flight, solo is cancelled and rebooked. Zero wind conditions may induce excessive floating; assess this risk during the dual portion of the lesson, particularly on shorter runways; emphasis on abort point discipline.
 - *Emergency Procedures*: Student must verbally state EFATO plan and radio failure procedure to instructor before flight
 - *TEM*:
-  - Instructor to observe entire first solo from a position with clear view of circuit and runway
+  - Instructor to observe the entire first solo from a position with a clear view of the circuit and runway
   - Have radio available on CTAF throughout; be prepared to call student if a safety concern is observed
   - Have a clear plan for intervention if student deviates significantly from the briefed profile
   - Do not authorise solo if any doubt exists — competency-based progression means there is no time pressure

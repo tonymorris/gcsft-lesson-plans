@@ -40,16 +40,20 @@ Lesson 00 is a ground only lesson - covering an overview of the entire training 
 
 EXX is the element from the RAAus V8 syllabus exposure draft that will be assessed in the lesson.
 
+### Phase 1 — Ab Initio
+
 | Lesson | Element | Topic |
 |--------|---------|-------|
-| 0 | E1/E2 | Flight Preparation & Ground Operations |
-| 1 | E1/E2 | Flight Preparation & Effects of Controls |
+| 0 | E1/E2 | Flight Preparation & Ground Operations (ground only) |
+| 1 | E1/E2 | Effects of Controls |
 | 2 | E3 | Straight and Level Flight |
 | 3 | E4 | Climbing |
 | 4 | E5 | Descending |
 | 5 | E6 | Basic Turning |
 | 6 | E7 | Slow Flight & Stall Recognition |
-| 7 | E1–E7, E13 | Phase 1 Consolidation & Radio Essentials |
+| 7 | E9 | Advanced Turning |
+| 8 | E10 | Scenario Based Stalling |
+| 9 | E1–E10, E13 | Phase 1 Consolidation & Radio Essentials |
 
 ### Phase 2 — Circuits
 Circuit training from introduction to solo. Structured as progressive stages.
@@ -60,32 +64,31 @@ Circuit training from introduction to solo. Structured as progressive stages.
 | C2A | E8, E11, E12 | Normal Touch and Go Circuits |
 | C2B | E8, E11, E12 | Crosswind Circuits |
 | C3 | E8, E11 | Circuit Emergencies |
-| C4 | — | Solo Authorisation Gate |
+| C4 | — | Solo Authorisation Gate (includes E9 and E10 requirements) |
 | C5 | E8, E11, E12 | Solo Circuit Consolidation |
 | C6 | E8, E11, E12 | Short & Soft Field Operations |
 
 ### Phase 3 — Advanced/Area Training
-Advanced training, and area training solo preparation. Weight and Balance conducted as a theory lesson at any stage during phase 3. In this phase, a lot of emphasis is placed on developing independence and ADM. Students are now preparing for their flight test, and eventual private hiring - they need to be able to think and *problem solve* for themselves.
+Advanced training, and area training solo preparation. Weight and Balance conducted as a theory lesson at any stage during phase 3. The student-as-PIC philosophy in this phase means that the student should lead in all aspects of the flight _where they are already marked competent_. In this phase, a lot of emphasis is placed on developing independence and ADM. Students are now preparing for their flight test, and eventual private hiring - they need to be able to think and *problem solve* for themselves.
 
 | Lesson | Elements | Topic |
-|-------|----------|-------|
+|--------|----------|-------|
 | 8 | E15 | Training Area Operations — Inbound/Outbound/Rejoin |
-| 9 | E9 | Advanced Turning |
-| 10 | E10 | Scenario Based Stalling |
-| 11 | E14 | Forced Landing and Precautionary Search |
-| 12 | E16 | Unusual Attitudes and Emergencies |
-| 13 | E13 | Area Solo Authorisation Gate and E13 Formal Assessment |
-| 14 | E9, E10, E14, E15, E16 | Area Solo Consolidation |
-| 15 | CODE: 1.2 WB | Weight and Balance |
+| 9 | E14a + E9 check | Precautionary Search & Training Area Familiarisation (ADM knowledge topic) |
+| 10 | E14b | Forced Landing Without Power |
+| 11 | E16 + E10 check | Unusual Attitudes & Emergencies (ADM second exposure) |
+| 12 | E13 + all | Area Solo Suitability Assessment + E13 Formal Assessment |
+| 13 | all | Area Solo Consolidation |
+| 14 | CODE: 1.2 WB | Weight and Balance |
 
 ### Phase 4 — Flight Test
 Preparation for the flight test, including documentation checks, the flight test itself.
 
 | Lesson | Elements | Topic |
-|-------|----------|-------|
-| 16 | ALL | Practice Flight Test |
-| 17 | AS RQD | Remediation |
-| 18 | ALL | RPC Flight Test |
+|--------|----------|-------|
+| 15 | ALL | Practice Flight Test |
+| 16 | AS RQD | Remediation |
+| 17 | ALL | RPC Flight Test |
 
 ---
 

@@ -15,7 +15,7 @@ Identify the symptoms of an impending stall in a range of configurations and exe
 ]
 
 ,overview: [
-Stall awareness is a prerequisite for safe circuit operations — every approach and landing involves flight close to minimum control speed. This lesson is therefore placed before circuit training begins not only to train the student in stall recognition and avoidance, but to prepare them for the landing manoeuvre. The student learns to configure and manage the aircraft in slow flight, recognise progressive pre-stall symptoms across configurations, and execute correct recovery actions. The HASSELL check is introduced and will be used for all subsequent high-risk manoeuvre training. This lesson is the first of a paired element: Scenario Based Stalling (E10) in Phase 3 completes the two flight requirement for this element.
+Stall awareness is a prerequisite for safe circuit operations — every approach and landing involves flight close to minimum control speed. This lesson is therefore placed before circuit training begins not only to train the student in stall recognition and avoidance, but to prepare them for the landing manoeuvre. The student learns to configure and manage the aircraft in slow flight, recognise progressive pre-stall symptoms across configurations, and execute correct recovery actions. The HASSELL check is introduced and will be used for all subsequent high-risk manoeuvre training. This lesson is the first of a paired element: Scenario Based Stalling (E10) in Lesson 8 completes the two flight requirement for this element.
 ]
 
 ,learning_outcomes: [
