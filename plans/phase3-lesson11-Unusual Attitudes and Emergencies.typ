@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Unusual Attitudes and Emergencies",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 11 | E16 + E10 check",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 4 | E16 + E10 check",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -189,7 +189,7 @@ Student conducts return transit, circuit join, and landing independently.
 ]
 
 ,safety:[
-- *Weather*: Horizon clearly visible; ceiling >3500 ft AGL (E10 requirement); smooth air essential; wind <25 knots
+- *Weather*: Horizon clearly visible; ceiling >3500 ft AGL (E10 requirement); smooth air essential; wind \<25 knots
 - *Altitude*: E10 check above 2500 ft AGL; E16 unusual attitude exercises above 2500 ft AGL; recoveries complete above 2000 ft AGL
 - *Emergency Procedures*: All exercises clearly briefed; HASSELL before E10 check; brief nose-high maximum angle and nose-low maximum airspeed before flight
 - *TEM*:

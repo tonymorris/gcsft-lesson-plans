@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Area Solo Consolidation",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 13 | E9, E10, E14a, E14b, E15, E16",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 6 | E9, E10, E14a, E14b, E15, E16",
   author: "C.Moroney",
   version: "v1.1.0",
 )

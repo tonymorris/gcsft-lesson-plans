@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Remediation",
-  unit: "Group A (3-Axis) | Phase 5 — Lesson 3 | Targeted Elements",
+  unit: "Group A (3-Axis) | Phase 5 — Lesson 2 | Targeted Elements",
   author: "C.Moroney",
   version: "v1.0.0",
 )

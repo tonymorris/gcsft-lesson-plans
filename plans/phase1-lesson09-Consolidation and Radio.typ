@@ -15,11 +15,11 @@ Confirm all Phase 1 flight elements to solo standard in a connected flight, form
 ]
 
 ,overview: [
-This lesson is the Phase 1 milestone check and the confirmation of readiness for circuits. It now includes E9 (Advanced Turning) and E10 (Scenario Based Stalling) in the assessment sequence, following their introduction in Lessons 7 and 8.
+This lesson is the Phase 1 milestone check and the confirmation of readiness for circuits.
 
-The first part of the ground brief reviews Phase 1 theory and briefs the assessment sequence. The second part covers the radio and transponder procedures needed in the circuit. In the air, the student demonstrates all Phase 1 elements in a connected sequence — E9 and E10 included — with relevant radio calls attempted throughout. The instructor observes and assesses; does not coach.
+The first part of the ground brief reviews Phase 1 theory and briefs the assessment sequence. The second part covers the radio and transponder procedures needed in the circuit. Full E13 competency — airspace detail, area procedures, and radio failure — is formally assessed later in Phase 3. In the air, the student demonstrates all Phase 1 elements in a connected sequence with relevant radio calls attempted throughout. The instructor observes and assesses; does not coach.
 
-Because E10 requires ceiling >3500 ft AGL, this condition applies to the full assessment flight. If conditions do not allow E10, E7 and E10 may be assessed separately on a different day; remaining elements may be assessed in lower conditions.
+Because E10 requires ceiling >3000 ft AGL, this condition applies to the full assessment flight. If conditions do not allow E10, E7 and E10 may be assessed separately on a different day; remaining elements may be assessed in lower conditions.
 ]
 
 ,learning_outcomes: [
@@ -45,7 +45,7 @@ Because E10 requires ceiling >3500 ft AGL, this condition applies to the full as
 - [SA] Maintains LARI scan and lookout throughout without prompting; HASSELL completed before E9/E10 sequence
 - [TEM] Identifies and verbalises threats throughout without prompting; radio used as an alerted see-and-avoid tool
 - [HF] Applies IMSAFE; demonstrates correct startle response management in stalling scenarios
-- [CRM] Operates as pilot-in-command throughout; all decisions are the student's
+- [CRM] Operates confidently as pilot-in-command; uses correct control handover
 ]
 
 ,theory_knowledge: [
@@ -61,17 +61,17 @@ Equipment required: Student training record, progress checklist, local VTC \
 
 *Phase 1 Theory Review and Assessment Brief* (10 minutes)
 - Brief verbal Q&A: key theory from E2–E10 and E8
-- Student briefs today's planned sortie: departure, tasks, return, TEM threats
+- Student briefs today's planned flight as pilot-in-command: departure, tasks, return, TEM threats
 - Assessment criteria confirmed: all elements assessed today; standards required
 - Pre-solo Air Legislation exam: confirm study is underway; must be passed before first solo
-- Weather check: ceiling >3500 ft AGL required to include E10; confirm before proceeding
+- Weather check: ceiling >3000 ft AGL required to include E10; confirm before proceeding
 
 *Radio Essentials for Circuit Operations* (20 minutes)
 
 _Radio equipment and operation_
 - PTT, frequency selector, squelch, volume, standby frequency
 - Confirm serviceability before flight; intercom check
-- Transponder: modes (A, C, S); standard codes (1200, 7700, 7600, 7500); squawk ALT once airborne
+- Transponder: modes (A, C, S); standard codes (1200, 7700, 7600, 7500); ALT before taxi if possible
 
 _CTAF procedure_
 - CTAF concept: listening watch; transmit clearly and concisely
@@ -83,7 +83,7 @@ _Circuit call sequence at GCSFT_
 
 _Radio failure — initial actions_
 - Confirm failure: volume, squelch, PTT, frequency
-- Transmit blind; squawk 7600; continue visually; land normally
+- Transmit blind; squawk 7600; continue with increased vigilance in see-and-avoid; land normally
 
 *Pre-Solo Requirements Reminder* (10 minutes)
 - Pre-solo Air Legislation exam: must be passed before first solo
@@ -94,7 +94,7 @@ _Radio failure — initial actions_
 ,ground_tasks:[
 #text(size:12pt)[*Instructor*]
 - Review student training record before the lesson; identify any elements requiring focus
-- Review weather and NOTAMs with student; confirm ceiling >3500 ft AGL for E10; if not, plan split assessment
+- Spot check of weather and NOTAMs with student; confirm ceiling >3000 ft AGL for E10; if not, plan split assessment
 
 #text(size:12pt)[*Student*]
 - Complete IMSAFE self-assessment and operations whiteboard
@@ -162,20 +162,21 @@ Instructor observes and assesses — does not lead or prompt. Student conducts a
 *All of the following must be at S standard before Phase 2 commences:*
 - *E2 — Effects of Controls*: Smooth, positive inputs; correct trim technique
 - *E3 — Straight and Level*: Heading ±5°, altitude ±200 ft, ball ±1/4 width
-- *E4 — Climbing*: Vy +10/−0 kts, heading ±5°; nose-down every 500 ft; correct level-off
+- *E4 — Climbing*: Vy +10/−0 kts, heading ±5°; lowers nose every 500 ft; correct level-off
 - *E5 — Descending*: All descent types ±10 kts; correct level-off
 - *E6 — Basic Turning*: Bank ±5°, altitude ±150 ft, rollout ±10°; pre-turn lookout without prompting
 - *E7 — Slow Flight and Stall Recognition*: HASSELL complete; pre-stall symptoms identified before full stall; impending stall recovery ≤300 ft height loss; correct rudder on wing drop without prompting
 - *E8 — Take Off*: Pre-takeoff brief delivered before taxi; directional control maintained; Vy established; after-takeoff checks complete
 - *E9 — Advanced Turning*: 60° steep turns ±5° bank, ±150 ft; spiral dive recovery correct and unprompted; HASSELL before sequence
 - *E10 — Scenario Based Stalling*: Turning stall recovery ≤300 ft, rudder on wing drop without prompting; go-around and EFATO stall prevention; elevator trim stall recovery
-- *E13 — Radio Essentials*: Circuit call sequence transmitted with correct structure; transponder operated correctly; initial radio failure actions known
-- *Note*: Full E13 competency (airspace, area procedures) assessed in Phase 3 Lesson 12. Two-flight requirements confirmed: E6+E9 (turning), E7+E10 (stalling).
+*These elements may be at a P standard*
+- *E13 — Radio Essentials*: Circuit call sequence transmitted with correct structure; transponder operated correctly; initial radio failure actions known; instructor assistance or prompting acceptable
+- *Note*: Full E13 competency (airspace, area procedures) assessed in Phase 3 Lesson 12.
 - *Outcome*: All elements recorded in student training record as S (or C). NC elements require remediation before Phase 2 commences.
 ]
 
 ,safety:[
-- *Weather*: Ceiling >3500 ft AGL and smooth air required to include E9 and E10; if conditions are marginal, E9/E10 may be assessed on a separate day and remaining elements assessed today. Wind <15 knots.
+- *Weather*: Ceiling >3000 ft AGL and smooth air required to include E9 and E10; if conditions are marginal, E9/E10 may be assessed on a separate day and remaining elements assessed today. Wind \<15 knots.
 - *Altitude*: E10 above 2500 ft AGL; all stall recoveries complete above 2500 ft AGL; E9 above 2000 ft AGL; all other elements above 1000 ft AGL
 - *Emergency Procedures*: EFATO brief completed; HASSELL before the high-risk manoeuvre sequence; forced landing area preselected
 - *TEM*:

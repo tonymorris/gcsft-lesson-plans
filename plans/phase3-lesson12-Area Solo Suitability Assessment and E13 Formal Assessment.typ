@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Area Solo Suitability Assessment and E13 Formal Assessment",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 12 | Decision Gate + E13",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 5 | Decision Gate + E13",
   author: "C.Moroney",
   version: "v1.1.0",
 )
@@ -127,7 +127,7 @@ _Training area sequence:_
 - ☐ E14b (FLWOP) first S standard flight: L10
 - ☐ E16 at P or higher: L11
 - ☐ E15 (IOR) at S standard: L8
-- ☐ Conditions suitable: ceiling >3500 ft AGL (E16/E10); smooth air preferred; wind <25 knots
+- ☐ Conditions suitable: ceiling >3500 ft AGL (E16/E10); smooth air preferred; wind \<25 knots
 
 #text(size:12pt)[*Area Solo Authorisation Requirements — all must be confirmed at conclusion of this lesson*]
 
@@ -178,7 +178,7 @@ All competency requirements met ✓ + Weather marginal = ❌ Defer; rebook when 
 ]
 
 ,safety:[
-- *Weather*: Ceiling >3500 ft AGL for E10/E16; >2500 ft for all other exercises; smooth air preferred; wind <25 knots
+- *Weather*: Ceiling >3500 ft AGL for E10/E16; >2500 ft for all other exercises; smooth air preferred; wind \<25 knots
 - *Altitude*: HASSELL minimum heights enforced; FLWOP go-around height confirmed before departure; unusual attitude exercises above 2500 ft AGL
 - *Emergency Procedures*: EFATO brief before departure; ABCDEF sequence and training go-around height confirmed before flight
 - *TEM*:

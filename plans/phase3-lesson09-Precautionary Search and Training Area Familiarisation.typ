@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Precautionary Search and Training Area Familiarisation",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 9 | E14a + E9 check",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 2 | E14a + E9 check",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -11,15 +11,15 @@
 title: [Precautionary Search and Training Area Familiarisation]
 
 ,aim: [
-Confirm E9 (Advanced Turning) competency to S standard under student-as-PIC conditions, introduce Aviation Decision Making as a formal framework, and develop the precautionary search procedure to S standard.
+To determine the suitability of an off-airfield landing area, and carry out required procedures to prepare the aircraft and passenger for an off-airfield landing. Confirm E9 (Advanced Turning) competency to S standard under student-as-PIC conditions. Introduce the Aviation Decision Making (ADM) concept.
 ]
 
 ,overview: [
-Lesson 9 is the first lesson of the student-as-PIC phase in Phase 3 that introduces genuinely new material. The lesson has two distinct parts: an E9 confirmation check and the precautionary search (E14a).
+This lesson has two distinct parts: an E9 confirmation check and the precautionary search (E14a).
 
-The E9 check is entirely student-led. The student completes HASSELL, briefs the sequence, and executes steep turns and a spiral dive check without instructor input. The instructor is a silent observer throughout. If E9 is assessed as NC, the instructor notes this in the training record and continues to the PSL for exposure — remediation for E9 is scheduled as a separate flight before the area solo suitability assessment. The PSL S standard for this lesson stands independently of the E9 result.
+The E9 check is entirely student-led. The student completes HASSELL and executes steep turns and a spiral dive recovery without instructor input. The instructor is a silent observer throughout. If E9 is assessed as NC, the instructor notes this in the training record and continues to the PSL for exposure — remediation for E9 is scheduled as a separate flight before the area solo suitability assessment. The PSL S standard for this lesson stands independently of the E9 result.
 
-The precautionary search (PSL) is new material. ADM (Aviation Decision Making) is introduced as the primary knowledge framework for this lesson — the decision to conduct a precautionary search is itself a high-quality ADM exercise. The instructor delivers the PSL ground brief, demonstrates the procedure in flight, then returns to observer as the student practises. From this lesson onward the student is expected to maintain an active mental map of suitable landing areas and alternates throughout all training area flights.
+The precautionary search (PSL) is new material. ADM (Aviation Decision Making) is formally introduced as a framework — the decision to conduct a precautionary search is itself a realistic ADM exercise. The instructor delivers the PSL ground brief, demonstrates the procedure in flight, then returns to observer as the student practises. From this lesson onward the student is expected to maintain an active mental map of suitable landing areas and alternates throughout all training area flights.
 
 ERSA interpretation is introduced in this lesson using Southport Airport (YSPT) as the nominated alternate aerodrome.
 
@@ -43,7 +43,7 @@ Two S standard flights on E14a are required before area solo authorisation. This
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [ADM] Apply Time → Assess → Predict → Evaluate to the precautionary search decision; brief this framework explicitly before the PSL scenarios
-- [SA] Maintain an active mental map of suitable landing areas and alternates throughout every Phase 3 flight from this lesson onward; update continuously during every LARI cycle
+- [SA] Maintain an active mental map of suitable landing areas and alternates throughout every Phase 3 flight from this lesson onward
 - [TEM] The precautionary search is a TEM action — identifying and managing a threat before it becomes an emergency; brief the failure mode (waiting too long) before flight
 - [CRM] Student plans and briefs the complete flight as PIC; instructor receives the brief; all decisions are the student's
 ]
@@ -60,9 +60,9 @@ Total time: 40 minutes \
 Equipment required: VNC chart, ERSA (or EFB with ERSA access), NAIPS access, whiteboard \
 
 *Non-Technical Skills* (5 minutes)
-- [SA] From this lesson onward: the student's mental map of suitable landing areas is active at all times; brief two candidate fields and the alternate aerodrome before every training area flight
-- [TEM] The precautionary search is a proactive safety action; the threat is the scenario that develops when the decision is delayed too long
-- [CRM] Student as PIC: all decisions today are the student's; the instructor receives briefings and asks questions; does not volunteer solutions
+- [SA] From this lesson onward: the student's mental map of suitable landing areas is active at all times
+- [TEM] The precautionary search is a proactive safety action; it may have become nessecary to resolve an error, but delaying could lead to a greater threat
+- [CRM] Student as PIC: all decisions today are the student's; the instructor receives briefings and asks questions; does not immediately volunteer solutions 
 
 *E9 Check — Student Led* (5 minutes)
 - This is a confirmation of standard, not a new lesson; no ground instruction is provided
@@ -73,36 +73,34 @@ Equipment required: VNC chart, ERSA (or EFB with ERSA access), NAIPS access, whi
 *Aviation Decision Making (ADM)* (15 minutes)
 
 _Why ADM matters_
-- In routine training flights, the instructor makes or validates key decisions; in the training area solo environment, the student is entirely responsible for every decision
-- Poor or rushed decision making is a leading cause of general aviation accidents; having a disciplined approach prevents impulsive action that makes situations worse
-- ADM is not a slow process — it is a structured, fast process that prevents skipping critical steps under pressure
+- Poor or rushed decision has caused many aviation accidents; having a disciplined approach prevents impulsive action that makes situations worse
+- ADM is not a slow process — it is a structured process that prevents skipping critical steps under pressure
 
 _The ADM Framework: Time → Assess → Predict → Evaluate_
-- *Time*: After establishing aircraft control, the first question is "How much time do I have?" This one question stops panic and starts problem-solving; a clear-headed answer to this question determines the urgency of everything that follows
+- *Time*: After establishing aircraft control, the first question is "How much time do I have?" This question stops panic and starts problem-solving; a clear-headed answer to this question determines the urgency of everything that follows
 - *Assess*: What is actually happening? What do I know? What do I not know? What resources do I have? (fuel, altitude, weather, radio, alternates, passengers)
-- *Predict*: Play the scenario forward; if I do nothing, where does this lead? If I apply Plan A, what problems might I encounter?
+- *Predict*: Play the scenario forward; if I do nothing, where does this lead? If I apply Plan A, what problems might I encounter? What resources do I need for that plan?
 - *Evaluate*: As the plan is executed, does it match the prediction? If not, re-assess
 
 _Applying ADM to the precautionary search decision_
 - Scenario: ceiling is lowering; you are in the training area; the forecast was for conditions to improve
-- Time: how long before the ceiling becomes a problem?
-- Assess: current ceiling, home aerodrome weather, alternate aerodrome (YSPT), your fuel state, how far you are from each
-- Predict: if I delay 15 minutes, what will the ceiling be? Is the route home clear? What is the wind doing?
-- Evaluate: after departing the training area, does the weather match the prediction? If not, execute precautionary search
+- Time: how long before the ceiling becomes a problem? Possibly 20 minutes
+- Assess: current ceiling, home aerodrome weather, alternate aerodrome (YSPT), how far you are from each, the alternate is closer
+- Predict: if I delay 10 minutes, what will the ceiling be? Is the route to the alternate clear?
+- Evaluate: after 10 minutes, does the weather match the prediction? It's still deteriorating, there's no clear path to the alternate, or home aerodrome execute precautionary search?
 
 *ERSA — Southport Airport (YSPT)* (5 minutes)
-- Access the ERSA entry for Southport Airport (YSPT) now; extract: elevation, CTAF frequency, circuit direction, runway details, remarks
-- Load the YSPT CTAF frequency as standby before departure on every Phase 3 flight
-- Non-standard items at YSPT: brief the student on anything operationally relevant (controlled airspace proximity, circuit joining requirements)
+- Access the ERSA entry for Southport Airport (YSPT); extract: elevation, CTAF frequency, circuit direction, runway details, remarks
+- Non-standard items at YSPT: brief the student on anything operationally relevant
 
 *Precautionary Search Procedure* (10 minutes)
-- Decision to search: made early — when conditions are marginal, not when they are dangerous; brief the decision criteria before flight
-- Configure for the search: slow to approximately 80 knots; flap as required; set power; announce on CTAF
-- Join "circuit" around the field at 1000 ft AGL: assess field surface, slope, length, obstacles, circuit direction
-- Continue to downwind; extend to a full approach to 500 ft AGL: confirm surface; assess overshoot/undershoot threats; decide to land or reject
-- If any doubt: remaining at 500 ft AGL, fly a low-level circuit; make a third inspection pass at 300 ft AGL — this pass is a commitment pass
-- If landing: confirm; announce intentions on CTAF (PAN-PAN if not already declared)
-- If rejecting: go-around to 1000 ft AGL; reassess; consider alternate aerodrome
+- Decision to search: made early — when conditions are urgent, not when they are catastrophic
+- Configure for the search: slow to approximately 80 knots
+- Join "circuit" around the field at 1000 ft AGL: assess field size, surface, slope, situation, surroundings, services
+- Continue to downwind; conduct normal approach to 500 ft AGL: confirm surface; assess overshoot/undershoot threats; decide to land or reject
+- If any doubt: remaining at 500 ft AGL, fly a low-level circuit; make a third inspection pass at 300 ft AGL
+- If landing: brief passenger, PAN-PAN if not already declared
+- If rejecting: go-around to 1000 ft AGL; reassess
 - PAN-PAN format: "PAN-PAN PAN-PAN PAN-PAN, [station], [callsign], [position], [nature of urgency], [plan], [POB]"
 ]
 
@@ -111,9 +109,8 @@ _Applying ADM to the precautionary search decision_
 - Obtains NAIPS TAF/GAF/GPWT; checks BOM radar; briefs conditions and suitability to instructor
 - Checks NOTAMs; identifies any relevant items; briefs instructor
 - Reviews maintenance release; briefs instructor; instructor signs
-- Identifies two candidate forced landing fields in training area from VNC; briefs positions to instructor
-- Briefs ERSA for YSPT: elevation, CTAF, circuit direction, runway, non-standard items; loads YSPT CTAF as standby frequency
-- Briefs the planned flight: departure, transit, E9 check sequence (including HASSELL minimum height), PSL scenario and field, return, EFATO plan
+- Reviews ERSA with instructor: elevation, CTAF, circuit direction, runway, non-standard items
+- Briefs the planned flight: departure, transit, return, EFATO plan
 - Delivers pre-takeoff safety brief independently
 
 #text(size:12pt)[*Instructor*]
@@ -140,22 +137,21 @@ The student completes and executes the E9 check entirely without instructor inpu
 #text(size:12pt)[*Instructor Assumes Instructor Role — PSL New Material*]
 
 #text(size:12pt)[*Demonstration*]
-The instructor demonstrates the complete precautionary search procedure once with full patter:
-- Announce scenario: "Deteriorating weather — ceiling dropping; decide to conduct a precautionary search"
+The instructor patters the student - while they stay in control - through the complete precautionary search procedure:
 - Apply ADM aloud: Time → Assess → Predict → Evaluate — brief it aloud as if genuinely deciding
-- Select a field; announce on CTAF (simulated PAN-PAN); configure; join at 1000 ft AGL
-- First pass: patter what is being assessed (surface, slope, length, obstacles, circuit direction)
+- Select a field, or use aerodrome; configure; join at 1000 ft AGL
+- First pass: patter what is being assessed
 - Continue to downwind; approach to 500 ft AGL; second pass; patter the decision
-- Go-around; patter the decision to reject or land; narrate what would happen next
+- Go-around; patter the decision to reject or land; what would happen next
 
 #text(size:12pt)[*Student Practice — PSL*]
-Instructor returns to observer role after one demonstration.
-- Student selects a field or aerodrome for the PSL; briefs the scenario to the instructor
-- Student applies ADM aloud before entering the search
+Instructor returns to observer role, and directs the student to return to and join the home aerodrome circuit
+- Student selects the aerodrome for a PSL
 - Student conducts the inspection passes: 1000 ft first pass; approach to 500 ft second pass; states landing/reject decision with reasoning aloud
 - Instructor may introduce a scenario variation on the second attempt: "The surface looks questionable on the second pass — what is your decision?"
 - If at the home aerodrome: third pass at 300 ft AGL is permitted; approach conducted to 300 ft; go-around
-- A minimum of two PSL attempts in the session; the student should make all decisions independently
+- Student simulates a PAN-PAN call and briefs passenger on the situation
+- A minimum of two PSL attempts in the session
 
 #text(size:12pt)[*Student-as-PIC — Return*]
 Student conducts return transit, area departure call, inbound call, overhead join, and landing independently.
@@ -163,9 +159,7 @@ Student conducts return transit, area departure call, inbound call, overhead joi
 
 ,common_errors:[
 - *E9: backpressure before wings level in spiral dive check*: Reinforcement from Phase 1 — level wings first; NC if sequence is incorrect.
-- *PSL decision delayed*: The ADM framework drives an early decision; waiting until the ceiling is already at 1000 ft AGL is too late; brief the decision trigger before flight.
-- *First pass too fast or too high*: Configure to approximately 80 knots and 1000 ft AGL before the first pass; the pass is for assessment, not for a rushed look.
-- *PAN-PAN omitted*: The PAN-PAN is part of the PSL procedure; brief it as non-negotiable.
+- *First pass too fast or too high*: Configure to approximately 80 knots and 1000 ft AGL before the first pass
 - *Altitude loss in slow flight during PSL*: Power + Attitude = Performance; check power before assuming an aerodynamic problem.
 ]
 
@@ -193,13 +187,13 @@ Student conducts return transit, area departure call, inbound call, overhead joi
 #text(size:12pt)[*Solo Standard (S) — required for area solo; first of two flights*]
 - *PSL*: First pass at 1000 ft AGL ±150 ft; approach to 500 ft AGL ±100 ft; clear decision stated with correct reasoning without prompting; PAN-PAN transmitted without prompting; configure to approximately 80 knots before first pass
 - *ADM*: Time → Assess → Predict → Evaluate applied aloud before the PSL entry without prompting; decision made proactively
-- *ERSA*: YSPT details correctly stated; frequency loaded as standby before departure
+- *ERSA*: YSPT details correctly stated
 
 - *Outcome*: E9 check recorded as S or NC. E14a first S standard flight recorded if S was met. NC items noted for remediation. If E14a is not at S standard, this lesson is recorded as P.
 ]
 
 ,safety:[
-- *Weather*: Ceiling >2500 ft AGL for E9 check; PSL operates at 1000/500/300 ft AGL so ceiling must support E9 at altitude before descending; wind <25 knots; visibility >5 km
+- *Weather*: Ceiling >2500 ft AGL for E9 check; PSL operates at 1000/500/300 ft AGL so ceiling must support E9 at altitude before descending; wind \<25 knots; visibility >5 km
 - *Altitude*: E9 check above 2000 ft AGL; all spiral dive recoveries above 1500 ft AGL; PSL passes at briefed heights; go-around height not lower than 300 ft AGL (aerodrome passes); 500 ft AGL in the field (never)
 - *Emergency Procedures*: EFATO brief before departure; two forced landing fields identified before flight; YSPT alternate briefed
 - *TEM*:
@@ -220,7 +214,7 @@ Student conducts return transit, area departure call, inbound call, overhead joi
   - VHF Radio: Pg 62–63 (MAYDAY call format)
   - Memorise the ABCDEF sequence completely before the next lesson
 - Reflect:
-  - "You are at 2000 ft in the training area; the ceiling is at 2500 ft and dropping. Describe your ADM process: what is your Time assessment? What do you Assess? What do you Predict? When do you Evaluate?"
+  - "You are at 1500 ft in the training area; the ceiling is at 1700 ft and dropping. Describe your ADM process: what is your Time assessment? What do you Assess? What do you Predict?
   - "What would you assess on the first PSL pass that you cannot assess from 2000 ft?"
 ]
 )

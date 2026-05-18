@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Training Area Operations — Inbound/Outbound/Rejoin",
-  unit: "Group A (3-Axis) | Phase 4 — Lesson 1 | E15",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 1 | E13",
   author: "C.Moroney",
   version: "v1.0.0",
 )

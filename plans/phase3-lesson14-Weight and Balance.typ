@@ -2,20 +2,10 @@
 
 #let metadata = (
   title: "Weight and Balance",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 14 | CODE: 1.2 WB",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 7 | CODE: 1.2 WB",
   author: "C.Moroney",
   version: "v1.1.0",
 )
-
-// Content unchanged from phase3-lesson15-Weight and Balance.typ (v1.0.0)
-// This file is the renumbered version following Phase 3 restructure:
-//   - Old L15 → New L14
-//   - Old L14 (Area Solo Consolidation) → New L13
-//   - Old L13 (Area Solo Gate) → New L12
-//   - Old L12 (Unusual Attitudes) → New L11
-//   - Old L11 (Forced Landing) → Split into new L09 (PSL) and new L10 (FLWOP)
-//   - Old L09 (Advanced Turning) → Moved to Phase 1 L07
-//   - Old L10 (Scenario Stalling) → Moved to Phase 1 L08
 
 #let lesson = (
 title: [Weight and Balance]

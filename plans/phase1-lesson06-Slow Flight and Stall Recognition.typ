@@ -166,7 +166,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 ]
 
 ,safety:[
-- *Weather*: Horizon clearly visible, ceiling >3500 ft, smooth air, wind \<25 knots. Postpone if turbulent
+- *Weather*: Horizon clearly visible, ceiling >3000 ft, smooth air, wind \<25 knots. Postpone if turbulent
 - *Altitude*: Conduct manoeuvres above 2500 ft AGL; all recoveries complete by 2500 ft AGL minimum
 - *Emergency Procedures*: Forced landing area pre-selected before HASSELL; instructor ready to intervene immediately if wing drop develops with incorrect aileron input or minimum height is threatened
 - *TEM*:
