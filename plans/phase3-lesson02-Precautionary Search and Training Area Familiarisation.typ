@@ -131,7 +131,6 @@ The student completes and executes the E9 check entirely without instructor inpu
 - Student executes spiral dive check: enters a 60° banked turn briefly and recovers; instructor observes
 - Student may also execute a slipping turn or dutch roll turn reversal if they choose
 - Instructor records S or NC for E9 in training record based on silent observation
-- *If E9 is NC*: instructor does not intervene; does not comment until the debrief; continues to PSL; schedules a remediation flight note in the training record
 - *If E9 takes more than approximately 15 minutes of the session*: instructor may signal transition to PSL by stating "let's move on to the PSL"; records E9 as NC
 
 #text(size:12pt)[*Instructor Assumes Instructor Role — PSL New Material*]

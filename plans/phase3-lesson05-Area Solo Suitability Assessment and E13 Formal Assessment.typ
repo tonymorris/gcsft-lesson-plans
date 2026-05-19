@@ -15,9 +15,9 @@ Demonstrate all Phase 3 elements to S or C standard in a connected student-plann
 ]
 
 ,overview: [
-Lesson 12 is the area solo suitability assessment and E13 formal assessment. It combines all Phase 3 competency confirmations into a single connected flight planned and conducted by the student as PIC. The instructor is a silent assessor throughout — no coaching or prompting is provided for any assessed item.
+Lesson 12 is the area solo suitability assessment and E13 formal assessment. It combines all Phase 3 competency confirmations into a single connected flight planned and conducted by the student as PIC. The instructor is an observer throughout — no coaching or prompting is provided for any assessed item.
 
-This flight counts as the second S standard flight for both E14a (Precautionary Search) and E14b (Forced Landing Without Power). The assessment sortie therefore must include both a precautionary search scenario (instructor sets a weather deterioration scenario) and an engine failure simulation (instructor calls "engine failure" during the training area transit). E9 and E10 have been confirmed in Lessons 9 and 11 respectively; any NC result from those checks is addressed through instructor-inserted remediation flights before this lesson proceeds.
+This flight counts as the second S standard flight for both E14a (Precautionary Search) and E14b (Forced Landing Without Power). The assessment flight therefore must include both a precautionary search scenario and an engine failure simulation (instructor calls "engine failure" during the training area transit). E9 and E10 have been confirmed in Lessons 9 and 11 respectively; any NC result from those checks is addressed through instructor-inserted remediation flights before this lesson proceeds.
 
 The E13 formal assessment is continuous throughout the complete flight. If all requirements are met at the conclusion of this flight, area solo is authorised.
 ]
@@ -28,7 +28,7 @@ No new learning outcomes — this is a milestone assessment and decision gate.
 
 ,theory_knowledge: [
 - Consolidation of all Phase 3 reading
-- Theory exam completion confirmed or a solid plan to complete remaining exams imminently
+- Theory exam completion confirmed or a solid plan to complete remaining exams
 ]
 
 ,ground_brief_topics: [
@@ -41,17 +41,16 @@ Equipment required: Student training record, VNC, NAIPS access, ERSA \
 - Maintenance release reviewed; brief presented to instructor
 - ERSA: YSPT elevation, CTAF, circuit direction, runway, non-standard items; frequency loaded as standby
 - VNC: training area boundaries, candidate FLWOP fields, candidate PSL areas all identified and briefed
-- Route: departure, training area entry, element sequence (E9 check, then E14a PSL scenario, then E14b FLWOP, then E16 UA recovery — in a logical order given altitude and time), training area exit, overhead join, circuit and landing
+- Route: departure, training area entry, element sequence (E9 check, then E14a PSL scenario, then E14b FLWOP, then E16 UA recovery — in a logical order given altitude and time), return to aerodrome, join, circuit and landing
 - HASSELL minimum heights for E9 and E10/E16 exercises; FLWOP go-around height stated
 - EFATO plan for today's runway and conditions
 - Theory exam status: student confirms which exams are complete
-- ADM: student briefs the decision framework for any unexpected scenario during the flight
 
 *Assessment Criteria Brief* (5 minutes)
 - Instructor confirms this is an assessment and decision gate — no coaching or prompting will be provided for any assessed item
 - E14a: this flight is the second S standard flight for the precautionary search; the instructor will introduce a weather deterioration scenario at an unannounced point during the training area transit
 - E14b: this flight is the second S standard flight for FLWOP; the instructor will call "engine failure" at an unannounced point
-- E16: S standard assessed; instructor will create an unusual attitude while student is heads-down
+- E16: S standard assessed; instructor will create an unusual attitude for the student to recover
 - E9 and E10: confirmed in earlier lessons; any NC items must be remediated before this lesson proceeds
 - E13: assessed formally across the complete flight
 ]
@@ -83,9 +82,8 @@ _Training area sequence:_
 - *E9 confirmation*: Student-led HASSELL; student-led steep turns (45° and 60°); instructor observes silently; recorded separately
 - *E14a (PSL) — second S standard flight*: At an unannounced point, instructor states "the ceiling has dropped to 1200 ft AGL and is still dropping"; student applies ADM aloud; makes precautionary search decision; selects field or alternate; conducts inspection passes; states landing/reject decision with reasoning
 - *E14b (FLWOP) — second S standard flight*: At an unannounced point, instructor calls "engine failure"; student executes complete ABCDEF sequence from memory; FLWOP circuit; go-around at pre-briefed training height
-- *E16*: At an unannounced point, instructor creates an unusual attitude while student is heads-down; student detects and recovers correctly
-- Inbound call at 5–10 NM; overhead join; correct procedure
-- BUMPFISH on downwind; downwind radio call
+- *E16*: At an unannounced point, instructor creates an unusual attitude; student detects and recovers correctly
+- Inbound call at 5–10 NM; join; correct procedure
 - Circuit and landing
 - Simulated radio failure (instructor's discretion): student confirms failure; transmits blind; squawks 7600; states subsequent actions
 
@@ -99,10 +97,8 @@ _Training area sequence:_
 ,common_errors:[
 - *Element-specific errors*: Refer to common errors in each Phase 3 lesson plan for remediation guidance.
 - *HASSELL omitted before E9 check*: NC for E9 check — non-negotiable.
-- *ABCDEF out of order or incomplete*: NC for E14b.
-- *PSL decision delayed — applies ADM too late*: NC for E14a; the decision must be proactive.
 - *Nose-low recovery — backpressure before wings level*: NC for E16.
-- *Radio omissions during transitions*: Most commonly missed on the area departure and inbound calls — E13 assessed items.
+- *Radio omissions during transitions*: Most commonly missed are inbound calls — E13 assessed items.
 - *ERSA items not briefed before departure*: NC for E13.
 ]
 
@@ -159,15 +155,13 @@ _Weather on the day of area solo:_
 
 _Additional area solo conditions:_
 - ☐ Valid RAAus Student Pilot Certificate held
+- ☐ 15 years of age
 - ☐ Minimum 2 hours solo PIC circuit time
 - ☐ Maintenance release reviewed and briefed by student before every solo flight
 
 _Area solo self-brief requirements (stated before every area solo):_
 - ☐ EFATO plan for today's runway
 - ☐ Training area entry/exit procedures
-- ☐ Radio failure procedure
-- ☐ FLWOP fields in training area identified from chart
-- ☐ YSPT CTAF frequency loaded
 
 #text(size:12pt)[*Weather decision on area solo day:*]\
 All competency requirements met ✓ + All weather conditions met ✓ = ✅ Area solo authorised\
@@ -178,9 +172,9 @@ All competency requirements met ✓ + Weather marginal = ❌ Defer; rebook when 
 ]
 
 ,safety:[
-- *Weather*: Ceiling >3500 ft AGL for E10/E16; >2500 ft for all other exercises; smooth air preferred; wind \<25 knots
+- *Weather*: Ceiling >3000 ft AGL for E10/E16; >2500 ft for all other exercises; smooth air preferred; wind \<25 knots
 - *Altitude*: HASSELL minimum heights enforced; FLWOP go-around height confirmed before departure; unusual attitude exercises above 2500 ft AGL
-- *Emergency Procedures*: EFATO brief before departure; ABCDEF sequence and training go-around height confirmed before flight
+- *Emergency Procedures*: EFATO brief before departure; training go-around height confirmed before flight
 - *TEM*:
   - Assessment flight — instructor maintains non-interventionist stance while remaining safety-ready
   - Overhead join: monitor for traffic conflicts; intervene if student is about to descend into conflict

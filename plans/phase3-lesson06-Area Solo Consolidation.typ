@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Area Solo Consolidation",
-  unit: "Group A (3-Axis) | Phase 3 — Lesson 6 | E9, E10, E14a, E14b, E15, E16",
+  unit: "Group A (3-Axis) | Phase 3 — Lesson 6 | E9, E7, E14a, E14b, E15, E16",
   author: "C.Moroney",
   version: "v1.1.0",
 )
@@ -17,7 +17,7 @@ Build solo training area experience, consolidate all Phase 3 elements toward C s
 ,overview: [
 Lesson 13 is the area solo consolidation phase. Multiple supervised solo training area flights are conducted, with the instructor performing periodic dual check flights to assess progress toward C standard. The student handles all pre-flight administration independently. The instructor spot-checks rather than leads. This stage continues until the student has accumulated sufficient solo training area experience for the instructor to be confident that all Phase 3 elements are approaching or at C standard, and the student is ready for Phase 4 (flight test preparation).
 
-Elements practised include all Phase 3 elements: E9 (Advanced Turning), E10 (Scenario Based Stalling), E14a (Precautionary Search), E14b (Forced Landing Without Power), E15 (Training Area Operations), and E16 (Unusual Attitudes and Emergencies). Solo application of E9 and E10 is appropriate here — the student met S standard in Phase 1 and has confirmed that standard in Phase 3; solo practice develops the consistency required for C standard.
+Elements practised include all Phase 3 elements: E9 (Advanced Turning), E7 (Stalling), E14a (Precautionary Search), E14b (Forced Landing Without Power), E15 (Training Area Operations), and E16 (Unusual Attitudes and Emergencies). Solo application of E9 and E7 is appropriate here — the student met S standard in Phase 1 and has confirmed that standard in Phase 3; solo practice develops the consistency required for C standard.
 ]
 
 ,learning_outcomes: [
@@ -29,7 +29,7 @@ Elements practised include all Phase 3 elements: E9 (Advanced Turning), E10 (Sce
 
 #text(size:12pt)[*Skills*]
 - Conduct solo training area flights managing all elements without instructor input
-- Apply HASSELL before E9 steep turns or E10 stalling exercises
+- Apply HASSELL before E9 steep turns or E7 stalling exercises
 - Manage all pre-flight administration independently: NAIPS TAF/GAF/GPWT, NOTAMs, maintenance release
 - Fly Phase 3 manoeuvres to progressively tighter tolerances approaching C standard on dual check flights
 
@@ -59,7 +59,7 @@ Equipment required: Student training record, VNC \
 - FLWOP fields in training area identified from chart; briefed before departure
 - EFATO plan for today's runway
 - Radio failure plan
-- HASSELL minimum heights for E9 and E10 exercises
+- HASSELL minimum heights for E9 and E7 exercises
 - Personal fitness: IMSAFE complete; am I fit to fly today?
 
 *C Standard Target Review* (dual check days only — 10 minutes)
@@ -89,16 +89,16 @@ Equipment required: Student training record, VNC \
 #text(size:12pt)[*Solo Training Area Flights*]
 - Student conducts solo flights; instructor observes from the aerodrome
 - Instructor contacts student by radio only if a safety concern is observed
-- Student applies HASSELL before E9 and E10 sequences — non-negotiable solo
+- Student applies HASSELL before E9 and E7 sequences — non-negotiable solo
 - Student manages all area operations, airspace awareness, and radio calls independently
-- Student practises E9, E10, E14a, E14b, E15, and E16 as appropriate to conditions and altitude
+- Student practises E9, E7, E14a, E14b, E15, and E16 as appropriate to conditions and altitude
 
-#text(size:12pt)[*Dual Check Sorties — at instructor's discretion*]
+#text(size:12pt)[*Dual Check Flights — at instructor's discretion*]
 - Instructor assesses C standard progress per element
 - E9: 60° steep turns ±5° AoB, ±100 ft; spiral dive recovery
-- E10: scenario stalls managed at or before onset; height loss ≤300 ft; HASSELL correct
+- E7: scenario stalls managed at or before onset; height loss ≤300 ft; HASSELL correct
 - E14a: PSL inspection passes at correct heights; ADM applied; decision made independently
-- E14b: ABCDEF from memory; FLWOP to high-key and low-key; MAYDAY simulated
+- E14b: ABC checks from memory; MAYDAY simulated correctly
 - E15: airspace managed; departure and join correct; circuit join correct
 - E16: unusual attitude recoveries correct; fire actions from memory
 - Set specific C standard targets for remaining solo sessions
@@ -112,7 +112,6 @@ Element-specific errors: refer to common errors in each Phase 3 lesson plan for 
 - *After solo sessions*: Student self-debriefs to instructor; describes manoeuvres; identifies deviations; confirms HASSELL was applied; confirms airspace managed; confirms ADM was applied to any novel situation
 - *After dual check flights*: Instructor provides assessment against C standard; identifies specific targets for remaining solo sessions
 - *Pre-flight admin spot-check*: Instructor provides feedback on GAF/GPWT interpretation, NOTAM brief, and maintenance release review quality
-- *Progress tracking*: Record solo hours and dual check results; assess trajectory toward Phase 4 readiness
 ]
 
 ,standards_for_progression:[
@@ -121,18 +120,19 @@ Element-specific errors: refer to common errors in each Phase 3 lesson plan for 
 - ☐ All Phase 3 elements at or approaching C standard on dual check
 - ☐ BAK exam passed *(minimum 80%, KDR required)*
 - ☐ Air Legislation exam passed *(minimum 80%, KDR required)*
-- ☐ Human Factors exam passed *(minimum 80%, KDR required, or approved course)*
+- ☐ Human Factors exam passed *(minimum 80%, KDR required)*
+- ☐ Radio exam passed *(minimum 80%, KDR required)*
 - ☐ Total flight hours on track for 20 hours total (5 hours PIC) before flight test
 
 #text(size:12pt)[*Solo Standard (S) — minimum for area solo operations*]
-- HASSELL completed before E9/E10 sequences and every 15 minutes without omission
+- HASSELL completed before E9/E7 sequences and every 15 minutes without omission
 - All manoeuvres managed safely without instructor input
 - Airspace managed continuously; no boundary proximity events
 - Pre-flight admin completed independently; YSPT alternate briefed before every departure
 
 #text(size:12pt)[*Certificate Standard (C) — target before Phase 4*]
 - *E9*: 60° steep turns ±5° AoB, ±100 ft, rollout ±10°; spiral dive recovery correct and prompt
-- *E10*: All scenario stalls managed at or before onset; height loss ≤300 ft; HASSELL every 15 min
+- *E7*: All scenario stalls managed at or before onset; height loss ≤300 ft; HASSELL every 15 min
 - *E14a*: PSL inspection passes at correct heights; ADM applied proactively; clear decision with correct reasoning; PAN-PAN correct
 - *E14b*: Best glide within 5 seconds; ABCDEF from memory; FLWOP to high-key and low-key; MAYDAY on Centre; field assured by 500 ft
 - *E15*: Airspace continuously managed; circuit join correct
@@ -144,14 +144,14 @@ Element-specific errors: refer to common errors in each Phase 3 lesson plan for 
 ]
 
 ,safety:[
-- *Weather*: Area solo minima apply: ceiling >2500 ft AGL; visibility >8 km; no significant turbulence or convective activity; crosswind within solo authorisation limit
+- *Weather*: Area solo minima apply: ceiling >2500 ft AGL; visibility >10 km; no significant turbulence or convective activity; crosswind within solo authorisation limit
 - *Maintenance release*: Student must review and brief instructor before every solo flight; any concern = consult instructor before flying
 - *HASSELL*: Student confirms HASSELL plan and minimum heights before every solo departure
 - *TEM*:
   - Instructor confirms area solo weather minima are met before every solo departure
   - If student reports any concern after a solo session: debrief thoroughly before next flight
   - If fatigue is detected in debrief: end the session; do not continue solo flying
-  - E9 and E10 solo: instructor confirms student has HASSELL plan and minimum heights before departing
+  - E9 and E7 solo: instructor confirms student has HASSELL plan and minimum heights before departing
 ]
 
 ,homework:[
@@ -159,7 +159,6 @@ Element-specific errors: refer to common errors in each Phase 3 lesson plan for 
 - Before every solo session, complete the pre-solo self-brief before arriving at the aerodrome
 - Reflect after every solo session:
   - "Which Phase 3 element is furthest from C standard? What specific aspect needs the most work?"
-  - "Did I apply ADM to anything today? If yes, walk through Time, Assess, Predict, Evaluate for that situation."
 ]
 )
 
