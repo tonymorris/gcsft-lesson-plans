@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Remediation",
-  unit: "Phase 5 — Lesson 3 | Targeted Elements",
+  unit: "Phase 5 — Lesson 2 | Targeted Elements",
   author: "C.Moroney",
   version: "v1.0.0",
 )

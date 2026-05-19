@@ -61,7 +61,7 @@ Equipment required: VNC chart, ERSA (or EFB with ERSA access), NAIPS access, whi
 
 *Non-Technical Skills* (5 minutes)
 - [SA] From this lesson onward: the student's mental map of suitable landing areas is active at all times
-- [TEM] The precautionary search is a proactive safety action; it may have become nessecary to resolve an error, but delaying could lead to a greater threat
+- [TEM] The precautionary search is a proactive safety action; it may have become necessary to resolve an error, but delaying could lead to a greater threat
 - [CRM] Student as PIC: all decisions today are the student's; the instructor receives briefings and asks questions; does not immediately volunteer solutions 
 
 *E9 Check — Student Led* (5 minutes)

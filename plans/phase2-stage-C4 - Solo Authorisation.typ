@@ -87,7 +87,7 @@ _Competency requirements:_
 - ☐ Radio — circuit call sequence correct without prompting; radio failure procedure known
 
 _Weather on the day:_
-- ☐ Crosswind <5 knots (see below if >5 knots)
+- ☐ Crosswind \<5 knots (see below if >5 knots)
 - ☐ Ceiling >1500 ft AGL
 - ☐ Visibility >8 km
 - ☐ No significant turbulence, windshear, showers, or thunderstorms; conditions stable for the duration of planned solo
@@ -95,10 +95,10 @@ _Weather on the day:_
 #text(size:12pt)[*CROSSWIND REQUIREMENT — Additional requirement if crosswind 5–8 knots on solo day*]
 - ☐ All BASIC requirements met PLUS
 - ☐ C2B crosswind circuits at S standard on two separate flights in 5–8 kt crosswind
-- ☐ Crosswind <8 knots
+- ☐ Crosswind \<8 knots
 
 #text(size:12pt)[*Weather decision on solo day:*]\
-Crosswind *<5 knots* + BASIC requirement met = Solo authorised ✅\
+Crosswind *\<5 knots* + BASIC requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement met = Solo authorised ✅\
 Crosswind *5–8 knots* + CROSSWIND requirement NOT met = Do not solo ❌\
 Crosswind *>8 knots* = Do not solo ❌ — move to Phase 3; return when conditions allow.

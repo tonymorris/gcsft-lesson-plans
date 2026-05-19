@@ -104,7 +104,7 @@ Student conducts takeoff independently. Instructor does not prompt during ground
 - Slow flight configuration: establish at ~1.3Vs, coordinated, straight and level; demonstrate control position
 - Slow flight turns: gentle shallow-banked turns maintaining coordination; lead with rudder for roll control
 - Pre-stall symptoms: demonstrate slowly and clearly; call out each symptom as it appears
-- Impending stall recognition: identify the moment of stall by control position, aircraft behavior and instrument crosscheck
+- Impending stall recognition: identify the moment of stall by control position, aircraft behaviour and instrument crosscheck
 - Impending stall recovery: relax backpressure (just forward of stall control position) full power (balance with rudder), PA(C)T to establish climb
 - Straight and level, idle power stall: demonstrate impending stall symptoms again, moving the controls past stall control position; call out stall symptoms
 - Straight and level, idle power stall recovery: same as impending stall

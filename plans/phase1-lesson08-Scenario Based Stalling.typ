@@ -26,6 +26,7 @@ The instructor demonstrates all new scenario content; the student then practises
 #text(size:12pt)[*Knowledge*]
 - Explain the aerodynamic conditions that produce an accelerated stall: G-loading, usually resulting from a steep turn
 - Describe the stall in a turn: one wing stalls before the other; wing drop; aileron input worsens the situation
+- Describe how adding power would affect the characteristics of the stall: high nose attitude (if wings level); decreased stability
 - Explain the sequence of events leading to stall entry from a go-around: full flap, high AoA, rapid power increase, nose pitches up; if elevator follows, AoA exceeds critical
 - Explain stall entry from EFATO scenario: excess rearward stick due to pilot stress; failure to lower the nose to glide attitude
 - Describe the elevator trim stall: when it occurs (full nose-up trim at slow speed with sudden large power application); recognition (abrupt pitch-up); recovery (push forward on controls against trim force; reduce power; re-trim)

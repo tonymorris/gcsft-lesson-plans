@@ -21,6 +21,10 @@ The lesson plans are very verbose (wordy). And they are done this way intentiona
 - 15/05 - Kneeboard plans made available for review
 - 15/05 - Several minor changes based on feedback
 - 15/05 - Spelling/grammar
+- 18/05 - Structure change - Scenario based stall and advanced turning moved to phase 1. Adjusted phase 3, by including advanced turning and stalling S standard check.
+- 18/05 - Reverted to split PSL and FLWOP lessons
+- 19/05 - Updated kneeboard cards, spelling/grammar
+
 
 ## Training Structure/Competency Standards
 

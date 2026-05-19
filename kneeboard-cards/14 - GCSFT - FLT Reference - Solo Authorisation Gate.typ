@@ -20,7 +20,7 @@
         - ☐ Financial RAAus flying membership current
         - ☐ Health declaration current
         - ☐ Pre-Solo Air Legislation Exam passed (min 80%)
-        - ☐ E2–E7 all at S standard (Phase 1 gate recorded)
+        - ☐ E2–E10 all at S standard (Phase 1 gate recorded)
         - ☐ E8 (Take Off) at S standard
         - ☐ E11 C1 completed; C2A at S standard on *two  flights*
         - ☐ E11 C3 circuit emergencies at S standard on *two  flights*
@@ -64,8 +64,11 @@
   ],
 
   safety: [
-    Zero wind days may pose an issue with floating past abort point - assess student in this regard during dual portion of the lesson. Emphasis on abort point discipline.
-    Instructor *must* be able to observe entire first solo with clear view of circuit and runway · Radio available on CTAF throughout · Have a clear plan for intervention if student deviates significantly · Conditions must still meet minima at time of departure — cancel and rebook if conditions deteriorate after authorisation
+    Zero wind days may pose an issue with floating past abort point - assess student in this regard during dual portion of the lesson. Emphasise abort point discipline.\
+
+    Instructor *must* be able to observe entire first solo with clear view of circuit and runway · Radio available on CTAF throughout · Have a clear plan for intervention if student deviates significantly\
+    
+    Conditions must still meet minima at time of departure — cancel and rebook if conditions deteriorate after authorisation
   ],
 )
 

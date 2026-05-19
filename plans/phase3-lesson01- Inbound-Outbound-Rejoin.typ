@@ -17,9 +17,9 @@ Depart the circuit correctly, operate in the training area, and return using the
 ,overview: [
 Lesson 4.1 is the first lesson of the student-as-PIC phase and is placed first deliberately — before any advanced training area manoeuvres begin, the student must be able to safely depart and rejoin the circuit. This lesson formalises the circuit departure and joining procedures from AC91-10 that have been introduced informally since Phase 2. The training area is reached by visual reference to local landmarks; no dead reckoning or systematic navigation is required.
 
-Radio procedures are practised throughout as an ongoing skill; formal E13 assessment occurs in Lesson 4.6 after the student has had multiple lessons to consolidate these procedures in the training area context.
+Radio procedures are practiced throughout as an ongoing skill; formal E13 assessment occurs in Lesson 4.6 after the student has had multiple lessons to consolidate these procedures in the training area context.
 
-The solo activities in subsequent lessons will consist primarily of repeating this same flight profile: depart, conduct practiced exercises in the training area, and rejoin. Consistent, confident execution of the departure and join is therefore the foundation for all Phase 4 solo operations.
+The solo activities in subsequent lessons will consist primarily of repeating this same flight profile: depart, conduct practised exercises in the training area, and rejoin. Consistent, confident execution of the departure and join is therefore the foundation for all Phase 4 solo operations.
 ]
 
 ,learning_outcomes: [

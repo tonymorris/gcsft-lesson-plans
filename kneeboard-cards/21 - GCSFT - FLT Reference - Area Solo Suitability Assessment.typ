@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Area Solo Suitability Assessment and E13",
-  unit: "Phase 4 — Lesson 6 | Decision Gate + E13",
+  unit: "Phase 4 — Lesson 5 | Decision Gate + E13",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -15,14 +15,14 @@
     (
       title: "Assessment Flight — Student as PIC",
       content: [
-        - *Instructor is silent assessor throughout — no coaching or prompting*
+        - *Instructor is assessor throughout — no coaching or prompting*
         - Startup → taxi → all radio calls → departure (E8 assessed)
         - Transponder: correct code; squawk ALT once airborne
         - Area departure call; track on visual landmarks; boundaries monitored
         - *HASSELL before sequence and every 15 minutes*
         - E9: steep turns 45° or 60° AoB
         - E10: ≥1 turning stall; HASSELL before sequence
-        - *E14: instructor calls "engine failure"; complete ABCDEF FLWOP; go-around at pre-briefed height* — counts as 2nd S standard flight if requirements met
+        - *E14: instructor calls "engine failure"; complete ABC checks; go-around at pre-briefed height* — counts as 2nd S standard flight if requirements met
         - E16: instructor creates UA; student detects and recovers
         - Inbound call at 5–10 NM; overhead join; BUMPFISH; circuit and landing
         - Simulated radio failure if called: confirm failure; transmit blind; squawk 7600; describe actions
@@ -32,7 +32,7 @@
 
   right: (
     (
-      title: "E13 Formal Assessment — Competency Variables",
+      title: "E13 Formal Assessment",
       content: [
         - ☐ ERSA home aerodrome: elevation, CTAF, circuit direction, runway details; frequency briefed before departure
         - ☐ All mandatory and recommended CTAF calls — correct structure and timing without prompting
@@ -65,7 +65,7 @@
   ],
 
   safety: [
-    Element-specific minima apply: ceiling *>3500 ft* for stalling, *>2500 ft* for other area exercises
+    Element-specific minima apply: ceiling *>3000 ft* for stalling, *>2500 ft* for other area exercises
   ],
 )
 

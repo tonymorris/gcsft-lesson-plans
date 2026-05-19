@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Weight and Balance",
-  unit: "Phase 5 — Lesson 1 | Ground Lesson",
+  unit: "Phase 4 — Lesson 7 | Ground Lesson",
   author: "C.Moroney",
   version: "v1.0.0",
 )

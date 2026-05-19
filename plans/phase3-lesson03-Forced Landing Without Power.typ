@@ -108,7 +108,7 @@ _F — Final_
 - Important exception: if flaps are required and are electrically operated, use flap before turning master off
 
 *Emergency Braking and Ground Loop* (3 minutes)
-- Emergency braking: maximum pedal pressure applied smoothly; threshold braking on sealed; avoid wheel lockup on soft ground; rearward elevator on rollout to load main wheels
+- Emergency braking: maximum pedal pressure applied smoothly; threshold braking on sealed; avoid wheel lock up on soft ground; rearward elevator on rollout to load main wheels
 - Ground loop (last resort): if an overrun into an obstacle is certain, a deliberate ground loop may be preferable; full brake and full opposite rudder to spin the aircraft around its undercarriage; the aircraft will be damaged but an obstacle strike may be worse; this is awareness only — never practised
 ]
 

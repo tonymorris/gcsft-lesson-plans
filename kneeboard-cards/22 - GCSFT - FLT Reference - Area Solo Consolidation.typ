@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Area Solo Consolidation",
-  unit: "Phase 4 — Lesson 7 | E9, E10, E14, E15, E16",
+  unit: "Phase 4 — Lesson 6 | E9, E7, E14, E15, E16",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -30,7 +30,7 @@
       title: "Dual Check — C Standard Targets",
       content: [
         - *E9:* 60° steep turns ±5° AoB, ±100 ft, rollout ±10°; spiral dive recovery correct
-        - *E10:* All scenario stalls at or before onset; height loss ≤300 ft; HASSELL every 15 min
+        - *E7:* All stalls recovered at onset; height loss ≤300 ft; HASSELL every 15 min
         - *E14:* Glide attitude within 5 s; FLWOP to 1000/500 ft; MAYDAY simulated; PSL correct
         - *E15:* Airspace monitored continuously; circuit join correct procedure
         - *E16:* Both UA recoveries correct; emergency actions from memory
@@ -69,7 +69,7 @@
   ],
 
   safety: [
-    Area solo minima every session: ceiling *>2500 ft AGL* · vis >8 km · no turbulence or convective activity · *Student must review MR and brief instructor before every solo* · Instructor confirms weather minima before every solo departure · If student reports concern after solo — debrief thoroughly before next flight
+    Area solo minima every session: ceiling *>2500 ft AGL* · vis >10 km · no turbulence or convective activity · *Student must review MR and brief instructor before every solo* · Instructor confirms weather minima before every solo departure · If student reports concern after solo — debrief thoroughly before next flight
   ],
 )
 

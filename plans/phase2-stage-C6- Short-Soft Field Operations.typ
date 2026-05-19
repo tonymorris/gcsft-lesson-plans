@@ -22,7 +22,7 @@ Stage C6 is a dedicated dual lesson covering short field and soft field operatio
 #text(size:12pt)[*Knowledge*]
 - Calculate takeoff and landing performance using the POH
 - Explain the effect of runway surface on takeoff and landing distance (sealed vs grass vs soft)
-- Describe emergency braking technique: maximum pedal pressure; rearward elevator; avoid lockup on unsealed surfaces
+- Describe emergency braking technique: maximum pedal pressure; rearward elevator; avoid lock up on unsealed surfaces
 - Explain the effect of runway slope on performance
 - Describe the safety margins applied to calculated performance figures
 
@@ -70,7 +70,7 @@ Equipment required: POH, performance charts, whiteboard \
 - Landing: normal approach; smooth hold-off; hold nose up throughout rollout to transfer weight progressively; avoid hard braking on soft surface; taxi clear immediately without stopping
 
 *Emergency braking* (5 minutes)
-- Maximum braking: pressure applied smoothly until wheel lockup is felt, release slightly
+- Maximum braking: pressure applied smoothly until wheel lock up is felt, release slightly
 - On grass or soft surfaces: do not lock the wheels
 - Use full rearward elevator during rollout to transfer weight rearward, reducing nosewheel load and improving braking traction on the main wheels
 - When to use: overrun risk; rejected takeoff; unexpected obstacle after touchdown; forced landing
