@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Scenario Based Stalling",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 8 | E10",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 8 | E10, E8, E1",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -11,7 +11,7 @@
 title: [Scenario Based Stalling]
 
 ,aim: [
-Identify and recover from stalls in all configurations, attitudes, and power settings, with particular emphasis on realistic circuit and departure scenarios where inadvertent stalls are most likely.
+Identify and recover from stalls in all configurations, attitudes, and power settings, with particular emphasis on realistic circuit and departure scenarios where inadvertent stalls are most likely. Formal assessment of flight preparation and ground handling.
 ]
 
 ,overview: [
@@ -20,6 +20,8 @@ Lesson 8 pairs with E7 (Slow Flight and Stall Recognition, Lesson 6) to satisfy 
 Spin entry awareness is discussed as a familiarisation exercise as intentional spinning is not conducted within this syllabus. Pro-spin inputs below manoeuvring speed are not permitted.
 
 The instructor demonstrates all new scenario content; the student then practises each scenario under supervision. Full C standard for E10 requires the element to be revisited in Phase 3. The standard required here is S — sufficient for safe operations before first solo.
+
+The first assessment of solo standard is for E1 (Flight Preparation and Ground Operations) occurs here. Standard 3 must be met twice before solo.
 ]
 
 ,learning_outcomes: [

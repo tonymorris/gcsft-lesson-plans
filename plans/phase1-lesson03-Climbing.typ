@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Climbing",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 3 | E4",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 3 | E4, E8",
   author: "C.Moroney",
   version: "v1.0.0",
 )
@@ -33,6 +33,7 @@ The student builds on straight and level skills to enter, maintain, and level of
 - Lower nose every 500 ft and complete a clearing lookout
 - Level off at a nominated altitude using the APT workcycle with correct anticipation
 - Manage flap configuration and observe effect on climb performance
+- Return the aircraft to the required climb profile following an unintended deviation or upset
 
 #text(size:12pt)[*Non-Technical Skills*]
 - [SA] Visual limitations in climb — high nose attitude restricts forward visibility
@@ -108,6 +109,7 @@ Instructor conducts ground roll and lift-off. Student takes control immediately 
 - Level-off from Vy: apply APT; aim for ±100 ft of nominated altitude
 - Vx climb: demonstrate understanding of difference from Vy
 - Deviation correction: recognise ±10 kts airspeed or ±10° heading; correct with LARI
+- Upset correction: return the aircraft to the correct Vx or Vy attitude after instructor induced upset
 ]
 
 ,common_errors:[

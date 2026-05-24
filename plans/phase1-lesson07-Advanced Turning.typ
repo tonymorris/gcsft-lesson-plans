@@ -15,7 +15,7 @@ Perform steep turns and manage turning upsets at angles of bank up to 60°, main
 ]
 
 ,overview: [
-This lesson builds directly on E6 (Basic Turning) and introduces steep turns at 45° and 60° AoB, slipping turns, spiral dive recognition and recovery and turn reversals (dutch rolls). Together with E6 (Lesson 5), this lesson satisfies the two-flight requirement for turning competency.
+This lesson builds directly on E6 (Basic Turning) and introduces steep turns at 45° and 60° AoB, slipping turns, spiral dive recognition and recovery and turn reversals (dutch rolls). Together with E6 (Lesson 5), this lesson satisfies the two-flight requirement for turning competency. Sideslips are also introduced in this lesson.
 
 The HASSELL check was introduced in Lesson 6 and is now mandatory before every manoeuvre sequence. The instructor demonstrates all new content; the student then practises each manoeuvre under supervision. The student should be able to manage most of the ground operations, including pre-flight, takeoff, and transit to the training area. The instructor should assume a supervisory role for these elements.
 
@@ -31,6 +31,7 @@ Full C standard for E9 requires the element to be revisited in Phase 3, where th
 - Explain the spiral dive recovery sequence: close throttle, level wings, ease out of the dive — in that order
 - Explain why rolling wings level must precede any pitch change in a nose-low recovery
 - Describe the cause and effect of slipping and skidding in turns, and the visual illusions and stalling risks associated with each
+- Explain the sideslip, where it can be applied and how it differs from a skid
 - Describe the significance of elevated stall speed in level turns
 
 #text(size:12pt)[*Skills*]
@@ -38,7 +39,7 @@ Full C standard for E9 requires the element to be revisited in Phase 3, where th
 - Enter, maintain, and exit a level turn at 45° and 60° AoB, maintaining altitude ±150 ft
 - Maintain appropriate coordination throughout all turns
 - Identify and recover from a spiral dive: close throttle, level wings, ease out of the dive
-- Demonstrate a deliberate slipping turn; recover to coordinated flight
+- Demonstrate a deliberate sideslip and slipping turn; recover to coordinated flight
 - Execute turn reversals (dutch rolls) at 20° AoB
 - Maintain a sustained 360° turn at 45° and 60° AoB to a nominated heading within ±10°
 
@@ -117,6 +118,7 @@ HASSELL check completed by student before the manoeuvre sequence. Instructor dem
 - *Spiral dive entry from 60° steep turn*: Allow bank to increase and nose to drop — patter the three symptoms (bank increasing, nose dropping, airspeed building); recovery: throttle, wings level, ease back; brief before entry; instructor takes control immediately if uncontrolled
 - *Slipping turn*: Enter — into-turn aileron, opposite rudder; patter ball displacement toward lower wing; patter aircraft tendency to roll level against the slip; maintain nose-low attitude; recover to coordinated
 - *Skidding turn (instructor demonstration only)*: Enter — patter ball displacement toward upper wing; patter tendency to roll into the turn; patter inner wing stall risk; recover immediately. Student does not practise
+- *Forward and turning sideslip*: Enter smoothly, patter opposite controls, ball displacement; patter directional control is with roll
 - *Dutch roll turn reversal at 20° AoB*: Smooth coordinated roll left to 20°, then reverse to 20° right; repeat; smooth, always coordinated
 - *Sustained 360° at 45° AoB*: Complete one full rotation maintaining AoB and altitude; roll out on entry heading ±10°
 
@@ -152,6 +154,7 @@ HASSELL check completed by student before the manoeuvre sequence. Instructor dem
 - *60° steep turn*: Bank ±10°; altitude ±200 ft; attempted with guidance
 - *Spiral dive recovery*: Recognises entry; attempts recovery in correct sequence with minor prompting
 - *Slipping turn*: Demonstrates entry and recovery with guidance; describes skidding turn risks
+- *Forward slip*: Demonstrates entry and recovery with guidance
 - *Dutch roll*: Completes with minor correction to coordination or timing
 - *HASSELL*: Completed before sequence with one prompt; every 15 minutes with occasional reminder
 
@@ -159,7 +162,8 @@ HASSELL check completed by student before the manoeuvre sequence. Instructor dem
 - *45° steep turn*: Bank ±5°, altitude ±150 ft; coordinated without prompting; rollout ±10°
 - *60° steep turn*: Bank ±5°, altitude ±150 ft; coordinated without prompting; rollout ±10°
 - *Spiral dive recovery*: Identified and recovered correctly without prompting; correct sequence maintained
-- *Slipping turn*: Demonstrated correctly; ball interpretation correct; coordinated recovery smooth
+- *Slipping turn*: Demonstrated correctly; coordinated recovery; smooth
+- *Forward slip*: Demonstrated correctly; coordinated recovery; smooth
 - *Dutch roll*: Smooth, coordinated, timely; minimal altitude deviation
 - *Sustained 360° at 45°*: AoB maintained ±5°; rollout ±10° of entry heading
 - *HASSELL*: Completed before sequence and every 15 minutes without prompting

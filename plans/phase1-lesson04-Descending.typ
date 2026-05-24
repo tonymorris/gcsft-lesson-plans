@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Descending",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 4 | E5",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 4 | E5, E8",
   author: "C.Moroney",
   version: "v1.0.0",
 )

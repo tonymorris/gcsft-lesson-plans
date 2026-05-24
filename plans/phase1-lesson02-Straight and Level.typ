@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Straight and Level Flight",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 2 | E3",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 2 | E3, E8",
   author: "C.Moroney",
   version: "v1.0.0",
 )

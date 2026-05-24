@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Slow Flight and Stall Recognition",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 6 | E7",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 6 | E7, E8",
   author: "C.Moroney",
   version: "v1.0.0",
 )

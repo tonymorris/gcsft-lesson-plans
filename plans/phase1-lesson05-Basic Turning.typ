@@ -2,7 +2,7 @@
 
 #let metadata = (
   title: "Basic Turning",
-  unit: "Group A (3-Axis) | Phase 1 — Lesson 5 | E6",
+  unit: "Group A (3-Axis) | Phase 1 — Lesson 5 | E6, E8",
   author: "C.Moroney",
   version: "v1.0.0",
 )
