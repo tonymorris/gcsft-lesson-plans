@@ -13,7 +13,7 @@
     (badge: "p",  content: [*Slow flight*: Student establishes slow flight using PAT -> LARI]),
     (badge: "d",  content: [*Adverse yaw*: Aileron alone — show yaw opposite to aileron input (more effective in slow flight)]),
     (badge: "dp", content: [*30° turn*: Return to 5000RPM cruise. Demo turn (Lookout, BBB); student practices L and R]),
-    (badge: "dp", content: [*15° turn*: Lookout, Bank, Balance, Backpressure; student practices L and R]),
+    (badge: "dp", content: [*45° turn*: Lookout, Bank, Balance, Backpressure; student practices L and R]),
     (badge: "dp", content: [*Climbing turn 15°*: Note reduced climb; student practices; exit APT]),
     (badge: "dp", content: [*Descending turn 30°*: Note underbanking; student practices; exit PAT]),
     (badge: "p",  content: [*Scenario*: 15° and 30° turns around a ground feature at 2500 ft, transition to climbing and descending turns]),

@@ -166,10 +166,10 @@ Instructor observes and assesses — does not lead or prompt. Student conducts a
 - *E5 — Descending*: All descent types ±10 kts; correct level-off
 - *E6 — Basic Turning*: Bank ±5°, altitude ±150 ft, rollout ±10°; pre-turn lookout without prompting
 - *E7 — Slow Flight and Stall Recognition*: HASSELL complete; pre-stall symptoms identified before full stall; impending stall recovery ≤300 ft height loss; correct rudder on wing drop without prompting
-- *E8 — Take Off*: Pre-takeoff brief delivered before taxi; directional control maintained; Vy established; after-takeoff checks complete
 - *E9 — Advanced Turning*: 60° steep turns ±5° bank, ±150 ft; spiral dive recovery correct and unprompted; HASSELL before sequence
 - *E10 — Scenario Based Stalling*: Turning stall recovery ≤300 ft, rudder on wing drop without prompting; go-around and EFATO stall prevention; elevator trim stall recovery
 *These elements may be at a P standard*
+- *E8 — Take Off*: Pre-takeoff brief delivered before taxi; directional control maintained; Vy established; after-takeoff checks complete
 - *E13 — Radio Essentials*: Circuit call sequence transmitted with correct structure; transponder operated correctly; initial radio failure actions known; instructor assistance or prompting acceptable
 - *Note*: Full E13 competency (airspace, area procedures) assessed in Phase 3 Lesson 12.
 - *Outcome*: All elements recorded in student training record as S (or C). NC elements require remediation before Phase 2 commences.

@@ -15,7 +15,7 @@ Turn the aircraft to a preselected heading or reference point at a predetermined
 ]
 
 ,overview: [
-The student integrates all previously established skills into coordinated turning flight. This lesson continues the attitude flying theme — a turn is simply another performance achieved by a specific attitude and power combination. Level turns at 15° and 30° AoB are introduced, followed by climbing and descending turns. The student manages adverse yaw, overbanking tendency, and altitude maintenance in the turn. Load factor is introduced at a basic level. The student conducts the takeoff independently with minimal instructor prompting, continuing E8 progression.
+The student integrates all previously established skills into coordinated turning flight. This lesson continues the attitude flying theme — a turn is simply another performance achieved by a specific attitude and power combination. Level turns up to 45° AoB are introduced, followed by climbing and descending turns. The student manages adverse yaw, overbanking tendency, and altitude maintenance in the turn. Load factor is introduced at a basic level. The student conducts the takeoff independently with minimal instructor prompting, continuing E8 progression.
 ]
 
 ,learning_outcomes: [
@@ -28,10 +28,10 @@ The student integrates all previously established skills into coordinated turnin
 - Introduce the concept of load factor and how it increases with angle of bank
 
 #text(size:12pt)[*Skills*]
-- Demonstrate entry, maintenance, and exit from level turns at 15° and 30° AoB
+- Demonstrate entry, maintenance, and exit from level turns at 30° and 45° AoB
 - Maintain altitude ±150 ft, airspeed ±10 kts, and heading within ±5° of target on rollout
 - Apply coordinated rudder during roll entry and exit
-- Complete climbing turns at 15° AoB and descending turns at up to 30° AoB
+- Complete climbing turns at 15° AoB and descending turns at up to 45° AoB
 - Keep coordinated throughout
 - Roll out onto a nominated heading or geographic feature
 
@@ -64,9 +64,9 @@ Equipment required: Aircraft model, access to electronic briefing, whiteboard \
 
 *Types of Turn* (10 minutes)
 - Gentle turn (15° AoB), medium turn (up to 30° AoB), steep turn (45° or 60° AoB)
-- Level turn: maintain altitude throughout; 15° and 30° AoB
+- Level turn: maintain altitude throughout; up to 45° AoB
 - Climbing turn: limited to 15° AoB — reduced climb performance; overbanking tendency
-- Descending turn: up to 30° AoB; underbanking tendency
+- Descending turn: up to 45° AoB; underbanking tendency
 - Exit from climbing or descending turn: level wings then correct power and attitude (PAT)
 
 *Control Inputs in a Turn* (10 minutes)
@@ -103,17 +103,17 @@ Student conducts takeoff with minimal instructor prompting. Instructor monitors 
 - Adverse yaw: aircraft trimmed for S&L slow flight; apply aileron alone — demonstrate yaw opposite to aileron input
 - Parallax: show difference in attitude reference between left and right turns
 - 30° turn: same sequence; demonstrate overbanking tendency and correction
-- 15° turn: Lookout, Bank, Balance, Backpressure — maintain ±100 ft, ±10 kts
+- 45° turn: Lookout, Bank, Balance, Backpressure — maintain ±100 ft, ±10 kts
 - Climbing turn at 15° AoB: note reduced climb performance
-- Descending turn at 30° AoB: note underbanking tendency
+- Descending turn at 45° AoB: note underbanking tendency
 
 #text(size:12pt)[*Student Practice*]
 - 30° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
-- 15° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
+- 45° turns left and right: maintain AoB ±5°, altitude ±150 ft, ball centred
 - Deviation correction: recognise and correct altitude and balance deviations using LARI
 - Rollout onto nominated heading or reference point: correct anticipation
 - Climbing turns at 15° AoB: note effect on climb rate; exit with APT
-- Descending turns at 30° AoB: note underbanking; exit to level with PAT
+- Descending turns at 45° AoB: note underbanking; exit to level with PAT
 - Scenario task: "Perform 15° and 30° turns to track around a ground feature, maintaining 2500 ft with a clear lookout."
 ]
 
@@ -127,7 +127,7 @@ Student conducts takeoff with minimal instructor prompting. Instructor monitors 
 ]
 
 ,post_flight:[
-- *Student Self-Assessment* (5 min): Student describes what went well and challenges (e.g. "I kept losing altitude in 30° turns").
+- *Student Self-Assessment* (5 min): Student describes what went well and challenges (e.g. "I kept losing altitude in 45° turns").
 - *Instructor Feedback* (5 min):
   - Evaluate against completion standards (P, S, C, or NC).
   - Highlight strengths and areas for improvement.
