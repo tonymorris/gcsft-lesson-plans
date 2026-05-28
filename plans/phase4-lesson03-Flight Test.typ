@@ -15,13 +15,13 @@ Demonstrate all 16 flight elements, weight and balance, and full flight preparat
 ]
 
 ,overview: [
-Lesson 5.4 is the RPC Flight Test. It is conducted by the CFI, DCFI, or a designated Pilot Examiner (PE) authorised by RAAus under the Flight Operations Manual. The flight test is not a training event — it is a formal assessment of the candidate's ability to exercise the privileges of the RPC safely and independently. The examiner assesses against the syllabus C standard for all 16 elements, weight and balance competency, and the candidate's ability to plan and conduct a complete flight as pilot-in-command from the first action to the last.
+The RPC Flight Test is conducted by the CFI, DCFI, or a designated Pilot Examiner (PE) authorised by RAAus under the Flight Operations Manual. The flight test is not a training event — it is a formal assessment of the candidate's ability to exercise the privileges of the RPC safely and independently. The examiner assesses against the syllabus C standard for all 16 elements, weight and balance competency, and the candidate's ability to plan and conduct a complete flight as pilot-in-command from the first action to the last.
 
 This lesson plan is a reference document for both the examiner and the student. It does not contain new instruction — it documents the structure and requirements of the formal test.
 ]
 
 ,learning_outcomes: [
-All 16 flight elements and weight and balance at C standard — as defined in each element's lesson plan and in the v8 syllabus flight tolerance table.
+All 16 flight elements and weight and balance at C standard — as defined in each element's lesson plan and in the RAAus syllabus of flight training flight tolerance table.
 ]
 
 ,theory_knowledge: [
@@ -149,7 +149,7 @@ _Administrative gate (confirmed before test proceeds):_
 - ☐ RAAus Student Pilot Certificate, membership, and health declaration current
 
 _In-flight assessment:_
-- All 16 elements demonstrated to C standard per the v8 flight tolerance table
+- All 16 elements demonstrated to C standard per the RAAus syllabus of flight training/FIRM flight tolerance table
 - Weight and balance calculated correctly and within limits before flight
 - Flight planned and conducted independently; no coaching from examiner
 

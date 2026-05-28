@@ -11,7 +11,7 @@
 title: [Unusual Attitudes and Emergencies]
 
 ,aim: [
-Recognise and recover from unusual attitudes, and manage other in-flight emergency scenarios. Confirm E10 (Scenario Based Stalling) competency to S standard under student-as-PIC conditions,
+Recognise and recover from unusual attitudes, and manage other in-flight emergency scenarios. Confirm E10 (Scenario Based Stalling) competency to S standard under student-as-PIC conditions.
 ]
 
 ,overview: [

@@ -4,7 +4,7 @@
   title: "Area Solo Consolidation",
   unit: "Group A (3-Axis) | Phase 3 — Lesson 6 | E9, E7, E14a, E14b, E15, E16",
   author: "C.Moroney",
-  version: "v1.1.0",
+  version: "v1.0.0",
 )
 
 #let lesson = (
@@ -15,7 +15,7 @@ Build solo training area experience, consolidate all Phase 3 elements toward C s
 ]
 
 ,overview: [
-Lesson 13 is the area solo consolidation phase. Multiple supervised solo training area flights are conducted, with the instructor performing periodic dual check flights to assess progress toward C standard. The student handles all pre-flight administration independently. The instructor spot-checks rather than leads. This stage continues until the student has accumulated sufficient solo training area experience for the instructor to be confident that all Phase 3 elements are approaching or at C standard, and the student is ready for Phase 4 (flight test preparation).
+This lesson is the area solo consolidation phase. Multiple supervised solo training area flights are conducted, with the instructor performing periodic dual check flights to assess progress toward C standard. The student handles all pre-flight administration independently. The instructor spot-checks rather than leads. This stage continues until the student has accumulated sufficient solo training area experience for the instructor to be confident that all Phase 3 elements are approaching or at C standard, and the student is ready for Phase 4 (flight test preparation).
 
 Elements practised include all Phase 3 elements: E9 (Advanced Turning), E7 (Stalling), E14a (Precautionary Search), E14b (Forced Landing Without Power), E15 (Training Area Operations), and E16 (Unusual Attitudes and Emergencies). Solo application of E9 and E7 is appropriate here — the student met S standard in Phase 1 and has confirmed that standard in Phase 3; solo practice develops the consistency required for C standard.
 ]

@@ -4,7 +4,7 @@
   title: "Solo Authorisation Gate",
   unit: "Group A (3-Axis) | Phase 2 — Stage C4 | Decision Record",
   author: "C.Moroney",
-  version: "v1.1.0",
+  version: "v1.0.0",
 )
 
 #let lesson = (

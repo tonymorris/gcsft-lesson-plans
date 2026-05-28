@@ -15,9 +15,9 @@ Demonstrate all 16 flight elements and weight and balance competency to C standa
 ]
 
 ,overview: [
-Lesson 5.2 is the practice flight test. Before this lesson proceeds, a formal pre-flight-test readiness check must be completed and confirmed in writing in the student training record.
+This lesson is the practice flight test. Before this lesson proceeds, a formal pre-flight-test readiness check must be completed and confirmed in writing in the student training record.
 
-The practice test covers all 16 elements of the v8 Group A syllabus integrated into a complete flight, including pre-flight planning with weight and balance, weather, and NOTAMs. The student operates as PIC throughout; the instructor adopts the examiner role — silent assessor, no coaching. Any element assessed as NC identifies a specific target for remediation in L5.3 before the actual flight test is booked.
+The practice test covers all 16 elements of the 2026 Group A syllabus integrated into a complete flight, including pre-flight planning with weight and balance, weather, and NOTAMs. The student operates as PIC throughout; the instructor adopts the examiner role — silent assessor, no coaching. Any element assessed as NC identifies a specific target for remediation in L5.3 before the actual flight test is booked.
 ]
 
 ,learning_outcomes: [

@@ -4,7 +4,7 @@
   title: "Area Solo Suitability Assessment and E13 Formal Assessment",
   unit: "Group A (3-Axis) | Phase 3 — Lesson 5 | Decision Gate + E13",
   author: "C.Moroney",
-  version: "v1.1.0",
+  version: "v1.0.0",
 )
 
 #let lesson = (
@@ -15,7 +15,7 @@ Demonstrate all Phase 3 elements to S or C standard in a connected student-plann
 ]
 
 ,overview: [
-Lesson 12 is the area solo suitability assessment and E13 formal assessment. It combines all Phase 3 competency confirmations into a single connected flight planned and conducted by the student as PIC. The instructor is an observer throughout — no coaching or prompting is provided for any assessed item.
+This lesson is the area solo suitability assessment and E13 formal assessment. It combines all Phase 3 competency confirmations into a single connected flight planned and conducted by the student as PIC. The instructor is an observer throughout — no coaching or prompting is provided for any assessed item.
 
 This flight counts as the second S standard flight for both E14a (Precautionary Search) and E14b (Forced Landing Without Power). The assessment flight therefore must include both a precautionary search scenario and an engine failure simulation (instructor calls "engine failure" during the training area transit). E9 and E10 have been confirmed in Lessons 9 and 11 respectively; any NC result from those checks is addressed through instructor-inserted remediation flights before this lesson proceeds.
 

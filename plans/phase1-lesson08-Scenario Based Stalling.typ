@@ -15,7 +15,7 @@ Identify and recover from stalls in all configurations, attitudes, and power set
 ]
 
 ,overview: [
-Lesson 8 pairs with E7 (Slow Flight and Stall Recognition, Lesson 6) to satisfy the two-flight requirement for stalling competency. Where Lesson 6 focused on recognising and recovering from the approaching stall in straightforward configurations, this lesson places stalling in realistic flight scenarios — the go-around, turning flight, and engine failure after takeoff. The student must connect the aerodynamic knowledge from E7 and E9 to the actual high-risk scenarios.
+This lesson pairs with E7 (Slow Flight and Stall Recognition, Lesson 6) to satisfy the two-flight requirement for stalling competency. Where Lesson 6 focused on recognising and recovering from the approaching stall in straightforward configurations, this lesson places stalling in realistic flight scenarios — the go-around, turning flight, and engine failure after takeoff. The student must connect the aerodynamic knowledge from E7 and E9 to the actual high-risk scenarios.
 
 Spin entry awareness is discussed as a familiarisation exercise as intentional spinning is not conducted within this syllabus. Pro-spin inputs below manoeuvring speed are not permitted.
 
