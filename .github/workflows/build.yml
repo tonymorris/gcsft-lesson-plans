@@ -1,0 +1,98 @@
+name: Build and Deploy
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: typst-community/setup-typst@v5
+
+      - name: Install fonts
+        run: |
+          echo "Installing required fonts..."
+          sudo apt-get update -qq
+
+          # Install common font packages that include Charter-like fonts
+          sudo apt-get install -y fonts-liberation fonts-dejavu fontconfig
+
+          # Install Barlow from Google Fonts
+          mkdir -p ~/.local/share/fonts
+          cd ~/.local/share/fonts
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Regular.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Bold.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Medium.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-SemiBold.ttf
+
+          # Charter alternative: download Charis SIL (similar serif)
+          wget -q https://github.com/google/fonts/raw/main/ofl/charissil/CharisSIL-Regular.ttf -O Charter-Regular.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/charissil/CharisSIL-Bold.ttf -O Charter-Bold.ttf
+
+          fc-cache -fv
+
+          echo "Available fonts:"
+          fc-list | grep -i "barlow\|charter\|charis" || echo "Custom fonts registered"
+
+      - name: Compile kneeboard cards
+        run: |
+          echo "Compiling kneeboard cards..."
+          make all
+
+      - name: Check all lesson plans compile
+        run: |
+          echo "Checking lesson plans..."
+          failed=0
+          for f in plans/*.typ; do
+            case "$f" in *template.typ) continue ;; esac
+            echo "Compiling: $f"
+            if typst compile "$f" --format pdf /dev/null 2>&1; then
+              echo "✓ OK: $f"
+            else
+              echo "❌ FAILED: $f"
+              echo "Error output:"
+              typst compile "$f" --format pdf /dev/null
+              failed=1
+            fi
+          done
+          exit $failed
+
+      - name: Prepare site
+        run: |
+          mkdir -p _site
+          cp index.html _site/
+          cp README.md _site/
+          cp -r plans _site/
+          cp -r kneeboard-cards _site/
+
+      - name: Upload artifact
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: actions/upload-pages-artifact@v4
+        with:
+          path: _site
+
+  deploy:
+    if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
