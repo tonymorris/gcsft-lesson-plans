@@ -23,6 +23,26 @@ jobs:
 
       - uses: typst-community/setup-typst@v5
 
+      - name: Install fonts
+        run: |
+          echo "Installing required fonts..."
+          sudo apt-get update -qq
+
+          # Install Charter (Bitstream Charter)
+          sudo apt-get install -y fonts-charter
+
+          # Install Barlow from Google Fonts
+          mkdir -p ~/.local/share/fonts
+          cd ~/.local/share/fonts
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Regular.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Bold.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-Medium.ttf
+          wget -q https://github.com/google/fonts/raw/main/ofl/barlow/Barlow-SemiBold.ttf
+          fc-cache -f
+
+          echo "Fonts installed:"
+          fc-list | grep -i "barlow\|charter" || echo "Warning: fonts may not be registered"
+
       - name: Compile kneeboard cards
         run: |
           echo "Compiling kneeboard cards..."
