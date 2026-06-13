@@ -3,8 +3,9 @@
 ## Single Clean Commit Ready
 
 ✅ Branch `build-automation-fixed` has been created with one clean commit
-✅ Commit hash: `828b5cb`
+✅ Commit hash: `440b160` (rebased onto c-moroney/main @ f3ff66a)
 ✅ All fixes included and tested
+✅ Applies cleanly to their current codebase
 
 ## Create the PR
 
@@ -125,7 +126,7 @@ Hi,
 I've fixed the build automation that was reverted in commit fab2fd2.
 
 Branch: tonymorris/gcsft-lesson-plans:build-automation-fixed
-Commit: 828b5cb
+Commit: 440b160
 
 Working deployment: https://tonymorris.github.io/gcsft-lesson-plans/
 Successful builds: https://github.com/tonymorris/gcsft-lesson-plans/actions
@@ -153,7 +154,7 @@ https://github.com/c-moroney/gcsft-lesson-plans/compare/main...tonymorris:gcsft-
 
 ## What's in the Commit
 
-Single commit `828b5cb` contains:
+Single commit `440b160` contains:
 - GitHub Actions workflow with complete font installation
 - Makefile that handles filenames with spaces
 - .gitignore to exclude generated PDFs
