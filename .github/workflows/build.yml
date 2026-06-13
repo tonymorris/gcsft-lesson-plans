@@ -60,12 +60,13 @@ jobs:
           for f in plans/*.typ; do
             case "$f" in *template.typ) continue ;; esac
             echo "Compiling: $f"
-            if ! typst compile "$f" /dev/null 2>&1; then
-              echo "❌ FAILED: $f"
-              typst compile "$f" /dev/null
-              failed=1
-            else
+            if typst compile "$f" --format pdf /dev/null 2>&1; then
               echo "✓ OK: $f"
+            else
+              echo "❌ FAILED: $f"
+              echo "Error output:"
+              typst compile "$f" --format pdf /dev/null
+              failed=1
             fi
           done
           exit $failed

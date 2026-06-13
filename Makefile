@@ -18,7 +18,7 @@ check:
 	for f in plans/*.typ kneeboard-cards/*.typ; do \
 		case "$$f" in *template.typ) continue ;; esac; \
 		printf "  %s " "$$f"; \
-		if typst compile "$$f" /dev/null 2>&1; then \
+		if typst compile "$$f" --format pdf /dev/null 2>&1; then \
 			echo "ok"; \
 		else \
 			echo "FAILED"; \
