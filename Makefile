@@ -8,7 +8,12 @@ all:
 		base=$$(basename "$$src" .typ); \
 		dest="kneeboard-cards/pdf/$$base.pdf"; \
 		echo "  Building $$base.pdf"; \
-		typst compile "$$src" "$$dest" || exit 1; \
+		eval $$(bin/git-metadata.sh "$$src"); \
+		typst compile "$$src" "$$dest" \
+			--input last_updated_by="$$GIT_LAST_UPDATED_BY" \
+			--input primary_author="$$GIT_PRIMARY_AUTHOR" \
+			--input last_update="$$GIT_DATE" \
+			--input revision="$$GIT_REV" || exit 1; \
 	done
 	@echo "Done."
 
@@ -18,7 +23,12 @@ check:
 	for f in plans/*.typ kneeboard-cards/*.typ; do \
 		case "$$f" in *template.typ) continue ;; esac; \
 		printf "  %s " "$$f"; \
-		if typst compile "$$f" --format pdf /dev/null 2>&1; then \
+		eval $$(bin/git-metadata.sh "$$f"); \
+		if typst compile "$$f" --format pdf /dev/null \
+			--input last_updated_by="$$GIT_LAST_UPDATED_BY" \
+			--input primary_author="$$GIT_PRIMARY_AUTHOR" \
+			--input last_update="$$GIT_DATE" \
+			--input revision="$$GIT_REV" 2>&1; then \
 			echo "ok"; \
 		else \
 			echo "FAILED"; \

@@ -25,6 +25,13 @@
 //    ),
 // ============================================================
 
+// ── Git metadata from build system ─────────────────────────
+// These are passed in via --input flags during compilation
+#let git-last-updated-by = sys.inputs.at("last_updated_by", default: none)
+#let git-primary-author = sys.inputs.at("primary_author", default: none)
+#let git-last-update = sys.inputs.at("last_update", default: none)
+#let git-revision = sys.inputs.at("revision", default: none)
+
 // ── Colour palette ─────────────────────────────────────────
 #let navy    = rgb("0e1030")
 #let forest  = rgb("1a5c3a")
@@ -72,16 +79,30 @@
   // Helper: true if `name` is listed in card.pagebreaks
   let break_after(name) = "pagebreaks" in card and name in card.pagebreaks
 
+  // Use git metadata if available, otherwise fall back to metadata fields or defaults
+  let last_updated_by = if git-last-updated-by != none { git-last-updated-by }
+                        else if "last_updated_by" in metadata { metadata.last_updated_by }
+                        else { metadata.at("author", default: "Unknown") }
+  let primary_author = if git-primary-author != none { git-primary-author }
+                       else if "primary_author" in metadata { metadata.primary_author }
+                       else { metadata.at("author", default: "Unknown") }
+  let revision = if git-revision != none { git-revision }
+                 else if "revision" in metadata { metadata.revision }
+                 else { "1.0" }
+  let last_update = if git-last-update != none { git-last-update }
+                    else if "last_update" in metadata { metadata.last_update }
+                    else { datetime.today().display("[day]/[month]/[year]") }
+
   set page(
     paper: "a5",
     margin: (top: 0.6cm, bottom: 0.8cm, left: 0.6cm, right: 0.6cm),
     header: none,
     footer: context [
-      #set text(size: 6.5pt, fill: midgrey)
-      #grid(columns: (1fr, 1fr, 1fr),
-        align(left)[#datetime.today().display("[day]/[month]/[year]")],
-        align(center)[#metadata.version],
-        align(right)[#metadata.author]
+      #set text(size: 5.5pt, fill: midgrey)
+      #grid(columns: (1fr, auto, 1fr),
+        align(left)[Rev: #revision | #last_update],
+        align(center)[Author: #primary_author | Updated: #last_updated_by],
+        align(right)[#metadata.unit]
       )
     ]
   )
@@ -94,7 +115,7 @@
       #grid(columns: (0.5fr, auto), gutter: 10pt,
         align(horizon)[#image("resources/logo.png", height: 1.3cm)],
         align(right + horizon)[
-          #text(fill: white, size: 11pt, font: "Charter")[#metadata.title] \
+          #text(fill: white, size: 11pt, font: "Charis SIL")[#metadata.title] \
           #v(-6pt)
           #text(fill: rgb("aaaacc"), size: 7pt)[
             #if "card_type" in metadata { metadata.card_type } else { "In-Flight Reference Card" }

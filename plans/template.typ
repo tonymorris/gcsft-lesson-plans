@@ -1,15 +1,37 @@
+// ── Git metadata from build system ─────────────────────────
+// These are passed in via --input flags during compilation
+#let git-last-updated-by = sys.inputs.at("last_updated_by", default: none)
+#let git-primary-author = sys.inputs.at("primary_author", default: none)
+#let git-last-update = sys.inputs.at("last_update", default: none)
+#let git-revision = sys.inputs.at("revision", default: none)
+
 #let lesson_plan(metadata, lesson, body) = {
+  // Use git metadata if available, otherwise fall back to metadata fields or defaults
+  let last_updated_by = if git-last-updated-by != none { git-last-updated-by }
+                        else if "last_updated_by" in metadata { metadata.last_updated_by }
+                        else { metadata.at("author", default: "Unknown") }
+  let primary_author = if git-primary-author != none { git-primary-author }
+                       else if "primary_author" in metadata { metadata.primary_author }
+                       else { metadata.at("author", default: "Unknown") }
+  let revision = if git-revision != none { git-revision }
+                 else if "revision" in metadata { metadata.revision }
+                 else { "1.0" }
+  let last_update = if git-last-update != none { git-last-update }
+                    else if "last_update" in metadata { metadata.last_update }
+                    else { datetime.today().display("[month repr:long] [day], [year]") }
+
   set page(
     margin: (top: 1cm, bottom: 2cm, left: 1cm, right: 1cm),
     header: none,
     footer: context [
-      // Footer content: date, revision, author
-      #set text(size: 8pt, fill: rgb("555"))
+      // Footer content: last update date, revision, authors
+      #set text(size: 7pt, fill: rgb("555"))
       #grid(
-        columns: (1fr, 1fr, 1fr),
-        align(left, [Date: #{datetime.today().display("[month repr:long] [day], [year]")}]),
-        align(center, [Version: #metadata.version]),
-        align(right, [Author: #metadata.author])
+        columns: (1fr, 1fr, 1fr, 1fr),
+        align(left, [Last Update: #last_update]),
+        align(center, [Revision: #revision]),
+        align(center, [Author: #primary_author]),
+        align(right, [Last updated by: #last_updated_by])
       )
     ]
   )
@@ -27,7 +49,7 @@
       height: 2cm,
       fill: rgb("0e1030"),
       [
-        #set text(fill: white, size: 16pt, font: "Charter")
+        #set text(fill: white, size: 16pt, font: "Charis SIL")
         #pad(left: 2cm, right: 2cm)[
           #grid(
             columns: (auto, 1fr),
